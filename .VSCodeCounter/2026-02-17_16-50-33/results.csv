@@ -1,0 +1,187 @@
+"filename", "language", "Shell Script", "Markdown", "YAML", "Python", "pip requirements", "LaTeX package", "JSON", "BibTeX style", "BibTeX", "LaTeX", "JavaScript", "HTML", "comment", "blank", "total"
+"d:\zyt\git_ln\freephdlabor\.claude\commands\analyze_agent_context.md", "Markdown", 0, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 99
+"d:\zyt\git_ln\freephdlabor\.claude\commands\refine_agent_prompt.md", "Markdown", 0, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 55
+"d:\zyt\git_ln\freephdlabor\.llm_config.yaml", "YAML", 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 4, 22
+"d:\zyt\git_ln\freephdlabor\README.md", "Markdown", 0, 477, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 158, 635
+"d:\zyt\git_ln\freephdlabor\environment.yml", "YAML", 0, 0, 478, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 478
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icbinb_latex\fancyhdr.sty", "LaTeX package", 0, 0, 0, 0, 0, 224, 0, 0, 0, 0, 0, 0, 212, 50, 486
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icbinb_latex\iclr2025.bib", "BibTeX", 0, 0, 0, 0, 0, 0, 0, 0, 22, 0, 0, 0, 0, 2, 24
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icbinb_latex\iclr2025.bst", "BibTeX style", 0, 0, 0, 0, 0, 0, 0, 1245, 0, 0, 0, 0, 50, 146, 1441
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icbinb_latex\iclr2025.sty", "LaTeX package", 0, 0, 0, 0, 0, 159, 0, 0, 0, 0, 0, 0, 54, 34, 247
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icbinb_latex\math_commands.tex", "LaTeX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 437, 0, 0, 43, 29, 509
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icbinb_latex\natbib.sty", "LaTeX package", 0, 0, 0, 0, 0, 1081, 0, 0, 0, 0, 0, 0, 159, 7, 1247
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icbinb_latex\template.tex", "LaTeX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 83, 0, 0, 38, 30, 151
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icml_latex\algorithm.sty", "LaTeX package", 0, 0, 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 9, 6, 80
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icml_latex\algorithmic.sty", "LaTeX package", 0, 0, 0, 0, 0, 163, 0, 0, 0, 0, 0, 0, 22, 17, 202
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icml_latex\icml2025.bst", "BibTeX style", 0, 0, 0, 0, 0, 0, 0, 1245, 0, 0, 0, 0, 53, 146, 1444
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icml_latex\icml2025.sty", "LaTeX package", 0, 0, 0, 0, 0, 445, 0, 0, 0, 0, 0, 0, 260, 103, 808
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\blank_icml_latex\template.tex", "LaTeX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 102, 0, 0, 47, 36, 185
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\fewshot_examples\132_automated_relational.json", "JSON", 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 3
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\fewshot_examples\2_carpe_diem.json", "JSON", 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 3
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\fewshot_examples\attention.json", "JSON", 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 3
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\ideas\i_cant_believe_its_not_better.json", "JSON", 0, 0, 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 1, 63
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\ideas\i_cant_believe_its_not_better.md", "Markdown", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 11
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\ideas\i_cant_believe_its_not_better.py", "Python", 0, 0, 0, 284, 0, 0, 0, 0, 0, 0, 0, 0, 65, 65, 414
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\ideas\i_cant_believe_its_not_betterrealworld.json", "JSON", 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 1, 18
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\ideas\i_cant_believe_its_not_betterrealworld.py", "Python", 0, 0, 0, 272, 0, 0, 0, 0, 0, 0, 0, 0, 53, 57, 382
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\llm.py", "Python", 0, 0, 0, 439, 0, 0, 0, 0, 0, 0, 0, 0, 16, 25, 480
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\perform_icbinb_writeup.py", "Python", 0, 0, 0, 1066, 0, 0, 0, 0, 0, 0, 0, 0, 50, 177, 1293
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\perform_ideation_temp_free.py", "Python", 0, 0, 0, 244, 0, 0, 0, 0, 0, 0, 0, 0, 23, 53, 320
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\perform_llm_review.py", "Python", 0, 0, 0, 322, 0, 0, 0, 0, 0, 0, 0, 0, 1, 47, 370
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\perform_plotting.py", "Python", 0, 0, 0, 232, 0, 0, 0, 0, 0, 0, 0, 0, 10, 43, 285
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\perform_vlm_review.py", "Python", 0, 0, 0, 360, 0, 0, 0, 0, 0, 0, 0, 0, 38, 85, 483
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\perform_writeup.py", "Python", 0, 0, 0, 670, 0, 0, 0, 0, 0, 0, 0, 0, 27, 114, 811
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\tools\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\tools\base_tool.py", "Python", 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 29
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\tools\semantic_scholar.py", "Python", 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 1, 18, 139
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\agent_manager.py", "Python", 0, 0, 0, 1048, 0, 0, 0, 0, 0, 0, 0, 0, 53, 126, 1227
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\backend\__init__.py", "Python", 0, 0, 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 7, 9, 71
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\backend\backend_anthropic.py", "Python", 0, 0, 0, 61, 0, 0, 0, 0, 0, 0, 0, 0, 5, 18, 84
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\backend\backend_openai.py", "Python", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 1, 17, 83
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\backend\utils.py", "Python", 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 0, 0, 6, 25, 132
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\bfts_utils.py", "Python", 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 7, 14, 81
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\interpreter.py", "Python", 0, 0, 0, 229, 0, 0, 0, 0, 0, 0, 0, 0, 31, 54, 314
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\journal.py", "Python", 0, 0, 0, 495, 0, 0, 0, 0, 0, 0, 0, 0, 34, 79, 608
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\journal2report.py", "Python", 0, 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 32
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\log_summarization.py", "Python", 0, 0, 0, 362, 0, 0, 0, 0, 0, 0, 0, 0, 13, 76, 451
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\parallel_agent.py", "Python", 0, 0, 0, 2045, 0, 0, 0, 0, 0, 0, 0, 0, 100, 215, 2360
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\perform_experiments_bfts_with_agentmanager.py", "Python", 0, 0, 0, 203, 0, 0, 0, 0, 0, 0, 0, 0, 5, 44, 252
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\utils\__init__.py", "Python", 0, 0, 0, 74, 0, 0, 0, 0, 0, 0, 0, 0, 7, 20, 101
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\utils\config.py", "Python", 0, 0, 0, 187, 0, 0, 0, 0, 0, 0, 0, 0, 10, 63, 260
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\utils\data_preview.py", "Python", 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 3, 31, 154
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\utils\metric.py", "Python", 0, 0, 0, 275, 0, 0, 0, 0, 0, 0, 0, 0, 26, 40, 341
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\utils\response.py", "Python", 0, 0, 0, 63, 0, 0, 0, 0, 0, 0, 0, 0, 6, 23, 92
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\utils\serialize.py", "Python", 0, 0, 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 1, 24, 80
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\utils\tree_export.py", "Python", 0, 0, 0, 377, 0, 0, 0, 0, 0, 0, 0, 0, 28, 80, 485
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\utils\viz_templates\template.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 272, 1, 26, 299
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\treesearch\utils\viz_templates\template.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 528, 0, 69, 99, 696
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\utils\token_tracker.py", "Python", 0, 0, 0, 194, 0, 0, 0, 0, 0, 0, 0, 0, 6, 23, 223
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\ai_scientist\vlm.py", "Python", 0, 0, 0, 245, 0, 0, 0, 0, 0, 0, 0, 0, 18, 41, 304
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\bfts_config.yaml", "YAML", 0, 0, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 14, 81
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\launch_scientist_bfts.py", "Python", 0, 0, 0, 319, 0, 0, 0, 0, 0, 0, 0, 0, 30, 48, 397
+"d:\zyt\git_ln\freephdlabor\external_tools\run_experiment_tool\requirements.txt", "pip requirements", 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 3, 1, 30
+"d:\zyt\git_ln\freephdlabor\freephdlabor\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\agents\__init__.py", "Python", 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"d:\zyt\git_ln\freephdlabor\freephdlabor\agents\base_research_agent.py", "Python", 0, 0, 0, 244, 0, 0, 0, 0, 0, 0, 0, 0, 41, 46, 331
+"d:\zyt\git_ln\freephdlabor\freephdlabor\agents\context_compaction.py", "Python", 0, 0, 0, 586, 0, 0, 0, 0, 0, 0, 0, 0, 77, 142, 805
+"d:\zyt\git_ln\freephdlabor\freephdlabor\agents\experimentation_agent.py", "Python", 0, 0, 0, 70, 0, 0, 0, 0, 0, 0, 0, 0, 9, 18, 97
+"d:\zyt\git_ln\freephdlabor\freephdlabor\agents\ideation_agent.py", "Python", 0, 0, 0, 79, 0, 0, 0, 0, 0, 0, 0, 0, 12, 16, 107
+"d:\zyt\git_ln\freephdlabor\freephdlabor\agents\manager_agent.py", "Python", 0, 0, 0, 138, 0, 0, 0, 0, 0, 0, 0, 0, 15, 32, 185
+"d:\zyt\git_ln\freephdlabor\freephdlabor\agents\proofreading_agent.py", "Python", 0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 0, 9, 17, 90
+"d:\zyt\git_ln\freephdlabor\freephdlabor\agents\resource_preparation_agent.py", "Python", 0, 0, 0, 61, 0, 0, 0, 0, 0, 0, 0, 0, 2, 15, 78
+"d:\zyt\git_ln\freephdlabor\freephdlabor\agents\reviewer_agent.py", "Python", 0, 0, 0, 70, 0, 0, 0, 0, 0, 0, 0, 0, 8, 15, 93
+"d:\zyt\git_ln\freephdlabor\freephdlabor\agents\typocheck_agent.py", "Python", 0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 0, 9, 17, 90
+"d:\zyt\git_ln\freephdlabor\freephdlabor\agents\writeup_agent.py", "Python", 0, 0, 0, 246, 0, 0, 0, 0, 0, 0, 0, 0, 57, 65, 368
+"d:\zyt\git_ln\freephdlabor\freephdlabor\args.py", "Python", 0, 0, 0, 84, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15, 102
+"d:\zyt\git_ln\freephdlabor\freephdlabor\config.py", "Python", 0, 0, 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 15, 14, 86
+"d:\zyt\git_ln\freephdlabor\freephdlabor\interaction\__init__.py", "Python", 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"d:\zyt\git_ln\freephdlabor\freephdlabor\interaction\callback_tools.py", "Python", 0, 0, 0, 131, 0, 0, 0, 0, 0, 0, 0, 0, 8, 21, 160
+"d:\zyt\git_ln\freephdlabor\freephdlabor\interaction\user_inststep.py", "Python", 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 20
+"d:\zyt\git_ln\freephdlabor\freephdlabor\interpreters\__init__.py", "Python", 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"d:\zyt\git_ln\freephdlabor\freephdlabor\interpreters\workspace_executor.py", "Python", 0, 0, 0, 88, 0, 0, 0, 0, 0, 0, 0, 0, 12, 27, 127
+"d:\zyt\git_ln\freephdlabor\freephdlabor\llm.py", "Python", 0, 0, 0, 464, 0, 0, 0, 0, 0, 0, 0, 0, 39, 45, 548
+"d:\zyt\git_ln\freephdlabor\freephdlabor\logging\__init__.py", "Python", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3
+"d:\zyt\git_ln\freephdlabor\freephdlabor\logging\llm_logger.py", "Python", 0, 0, 0, 216, 0, 0, 0, 0, 0, 0, 0, 0, 23, 45, 284
+"d:\zyt\git_ln\freephdlabor\freephdlabor\prompts\__init__.py", "Python", 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 22
+"d:\zyt\git_ln\freephdlabor\freephdlabor\prompts\experimentation_instructions.py", "Python", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 78
+"d:\zyt\git_ln\freephdlabor\freephdlabor\prompts\ideation_instructions.py", "Python", 0, 0, 0, 116, 0, 0, 0, 0, 0, 0, 0, 0, 2, 29, 147
+"d:\zyt\git_ln\freephdlabor\freephdlabor\prompts\manager_instructions.py", "Python", 0, 0, 0, 206, 0, 0, 0, 0, 0, 0, 0, 0, 9, 59, 274
+"d:\zyt\git_ln\freephdlabor\freephdlabor\prompts\proofreading_instructions.py", "Python", 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12, 59
+"d:\zyt\git_ln\freephdlabor\freephdlabor\prompts\research_planning_templates.py", "Python", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 11, 28, 104
+"d:\zyt\git_ln\freephdlabor\freephdlabor\prompts\resource_preparation_instructions.py", "Python", 0, 0, 0, 306, 0, 0, 0, 0, 0, 0, 0, 0, 31, 84, 421
+"d:\zyt\git_ln\freephdlabor\freephdlabor\prompts\reviewer_instructions.py", "Python", 0, 0, 0, 79, 0, 0, 0, 0, 0, 0, 0, 0, 5, 23, 107
+"d:\zyt\git_ln\freephdlabor\freephdlabor\prompts\system_prompt_template.py", "Python", 0, 0, 0, 155, 0, 0, 0, 0, 0, 0, 0, 0, 6, 32, 193
+"d:\zyt\git_ln\freephdlabor\freephdlabor\prompts\workspace_management.py", "Python", 0, 0, 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 1, 16, 74
+"d:\zyt\git_ln\freephdlabor\freephdlabor\prompts\writeup_instructions.py", "Python", 0, 0, 0, 164, 0, 0, 0, 0, 0, 0, 0, 0, 22, 59, 245
+"d:\zyt\git_ln\freephdlabor\freephdlabor\supervision\__init__.py", "Python", 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 23
+"d:\zyt\git_ln\freephdlabor\freephdlabor\supervision\supervision_manager.py", "Python", 0, 0, 0, 220, 0, 0, 0, 0, 0, 0, 0, 0, 17, 50, 287
+"d:\zyt\git_ln\freephdlabor\freephdlabor\supervision\validation_strategies.py", "Python", 0, 0, 0, 372, 0, 0, 0, 0, 0, 0, 0, 0, 38, 110, 520
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\__init__.py", "Python", 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 20
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\check_idea_novelty_tool.py", "Python", 0, 0, 0, 148, 0, 0, 0, 0, 0, 0, 0, 0, 13, 35, 196
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\experiment_toolkit.py", "Python", 0, 0, 0, 111, 0, 0, 0, 0, 0, 0, 0, 0, 15, 27, 153
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\fetch_arxiv_papers\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\fetch_arxiv_papers\fetch_arxiv_papers_tools.py", "Python", 0, 0, 0, 108, 0, 0, 0, 0, 0, 0, 0, 0, 9, 28, 145
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\file_editing\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\file_editing\experiment_linker_tool.py", "Python", 0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 83
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\file_editing\file_editing_tools.py", "Python", 0, 0, 0, 324, 0, 0, 0, 0, 0, 0, 0, 0, 79, 67, 470
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\kb_repo_management\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\kb_repo_management\kb_repo_addition_tools.py", "Python", 0, 0, 0, 258, 0, 0, 0, 0, 0, 0, 0, 0, 0, 42, 300
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\kb_repo_management\kb_repo_maintanence_tools.py", "Python", 0, 0, 0, 149, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 173
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\kb_repo_management\kb_repo_retrieval_tools.py", "Python", 0, 0, 0, 177, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27, 207
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\kb_repo_management\repo_indexer.py", "Python", 0, 0, 0, 345, 0, 0, 0, 0, 0, 0, 0, 0, 63, 61, 469
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\__init__.py", "Python", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\context_building\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\context_building\build_context.py", "Python", 0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 7, 20, 98
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\context_building\process_sources_pro.py", "Python", 0, 0, 0, 84, 0, 0, 0, 0, 0, 0, 0, 0, 7, 13, 104
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\context_scraping\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\context_scraping\basic_web_scraper.py", "Python", 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 60
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\context_scraping\crawl4ai_scraper.py", "Python", 0, 0, 0, 225, 0, 0, 0, 0, 0, 0, 0, 0, 15, 43, 283
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\context_scraping\extraction_result.py", "Python", 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 25
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\context_scraping\fast_scraper.py", "Python", 0, 0, 0, 151, 0, 0, 0, 0, 0, 0, 0, 0, 29, 33, 213
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\context_scraping\strategy_factory.py", "Python", 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 72
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\context_scraping\utils.py", "Python", 0, 0, 0, 159, 0, 0, 0, 0, 0, 0, 0, 0, 17, 36, 212
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\ods_agent.py", "Python", 0, 0, 0, 145, 0, 0, 0, 0, 0, 0, 0, 0, 14, 21, 180
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\ods_tool.py", "Python", 0, 0, 0, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 49
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\prompts.py", "Python", 0, 0, 0, 477, 0, 0, 0, 0, 0, 0, 0, 0, 7, 104, 588
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\ranking_models\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\ranking_models\base_reranker.py", "Python", 0, 0, 0, 103, 0, 0, 0, 0, 0, 0, 0, 0, 3, 20, 126
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\ranking_models\chunker.py", "Python", 0, 0, 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 69
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\ranking_models\infinity_rerank.py", "Python", 0, 0, 0, 75, 0, 0, 0, 0, 0, 0, 0, 0, 1, 16, 92
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\ranking_models\jina_reranker.py", "Python", 0, 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 2, 13, 67
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\serp_search\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\serp_search\serp_search.py", "Python", 0, 0, 0, 246, 0, 0, 0, 0, 0, 0, 0, 0, 6, 61, 313
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\open_deep_search\wolfram_tool.py", "Python", 0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 0, 9, 16, 89
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\talk_to_user\talk_to_user_tool.py", "Python", 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 20
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\text_inspector\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\text_inspector\text_inspector_tool.py", "Python", 0, 0, 0, 175, 0, 0, 0, 0, 0, 0, 0, 0, 17, 38, 230
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\text_web_browser\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\text_web_browser\cookies.py", "Python", 0, 0, 0, 706, 0, 0, 0, 0, 0, 0, 0, 0, 2, 8, 716
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\text_web_browser\mdconvert.py", "Python", 0, 0, 0, 728, 0, 0, 0, 0, 0, 0, 0, 0, 93, 182, 1003
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\text_web_browser\text_web_browser.py", "Python", 0, 0, 0, 442, 0, 0, 0, 0, 0, 0, 0, 0, 24, 105, 571
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\visual_qa\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\general_tools\visual_qa\visual_qa.py", "Python", 0, 0, 0, 141, 0, 0, 0, 0, 0, 0, 0, 0, 7, 42, 190
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\generate_idea_tool.py", "Python", 0, 0, 0, 96, 0, 0, 0, 0, 0, 0, 0, 0, 8, 24, 128
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\idea_generation_toolkit.py", "Python", 0, 0, 0, 104, 0, 0, 0, 0, 0, 0, 0, 0, 12, 27, 143
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\idea_standardization_tool.py", "Python", 0, 0, 0, 287, 0, 0, 0, 0, 0, 0, 0, 0, 38, 67, 392
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\model_utils.py", "Python", 0, 0, 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8, 30
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\paper_search_tool.py", "Python", 0, 0, 0, 98, 0, 0, 0, 0, 0, 0, 0, 0, 1, 19, 118
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\refine_idea_tool.py", "Python", 0, 0, 0, 92, 0, 0, 0, 0, 0, 0, 0, 0, 7, 24, 123
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\run_experiment_tool.py", "Python", 0, 0, 0, 355, 0, 0, 0, 0, 0, 0, 0, 0, 49, 51, 455
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\__init__.py", "Python", 0, 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 34
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\algorithm.sty", "LaTeX package", 0, 0, 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 9, 6, 80
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\algorithmic.sty", "LaTeX package", 0, 0, 0, 0, 0, 163, 0, 0, 0, 0, 0, 0, 22, 17, 202
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\citation_search_tool.py", "Python", 0, 0, 0, 301, 0, 0, 0, 0, 0, 0, 0, 0, 17, 73, 391
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\comparison_plot_tool.py", "Python", 0, 0, 0, 612, 0, 0, 0, 0, 0, 0, 0, 0, 57, 131, 800
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\data_discovery_tool.py", "Python", 0, 0, 0, 475, 0, 0, 0, 0, 0, 0, 0, 0, 42, 108, 625
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\experiment_data_organizer_tool.py", "Python", 0, 0, 0, 331, 0, 0, 0, 0, 0, 0, 0, 0, 26, 86, 443
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\experimental_results_extractor_tool.py", "Python", 0, 0, 0, 368, 0, 0, 0, 0, 0, 0, 0, 0, 31, 101, 500
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\fancyhdr.sty", "LaTeX package", 0, 0, 0, 0, 0, 224, 0, 0, 0, 0, 0, 0, 212, 50, 486
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\figure_import_tool.py", "Python", 0, 0, 0, 178, 0, 0, 0, 0, 0, 0, 0, 0, 9, 49, 236
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\icml2024.bst", "BibTeX style", 0, 0, 0, 0, 0, 0, 0, 1245, 0, 0, 0, 0, 53, 146, 1444
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\icml2024.sty", "LaTeX package", 0, 0, 0, 0, 0, 445, 0, 0, 0, 0, 0, 0, 258, 103, 806
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\icml2024\algorithm.sty", "LaTeX package", 0, 0, 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 9, 6, 80
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\icml2024\algorithmic.sty", "LaTeX package", 0, 0, 0, 0, 0, 163, 0, 0, 0, 0, 0, 0, 22, 17, 202
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\icml2024\example_paper.bib", "BibTeX", 0, 0, 0, 0, 0, 0, 0, 0, 67, 0, 0, 0, 0, 9, 76
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\icml2024\example_paper.tex", "LaTeX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 481, 0, 0, 74, 125, 680
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\icml2024\fancyhdr.sty", "LaTeX package", 0, 0, 0, 0, 0, 224, 0, 0, 0, 0, 0, 0, 212, 50, 486
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\icml2024\icml2024.bst", "BibTeX style", 0, 0, 0, 0, 0, 0, 0, 1245, 0, 0, 0, 0, 53, 146, 1444
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\icml2024\icml2024.sty", "LaTeX package", 0, 0, 0, 0, 0, 445, 0, 0, 0, 0, 0, 0, 258, 103, 806
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\intelligent_experiment_organizer_tool.py", "Python", 0, 0, 0, 683, 0, 0, 0, 0, 0, 0, 0, 0, 63, 147, 893
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\latex_compiler_tool.py", "Python", 0, 0, 0, 739, 0, 0, 0, 0, 0, 0, 0, 0, 94, 164, 997
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\latex_content_verification_tool.py", "Python", 0, 0, 0, 403, 0, 0, 0, 0, 0, 0, 0, 0, 63, 105, 571
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\latex_generator_tool.py", "Python", 0, 0, 0, 525, 0, 0, 0, 0, 0, 0, 0, 0, 42, 136, 703
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\latex_reflection_tool.py", "Python", 0, 0, 0, 772, 0, 0, 0, 0, 0, 0, 0, 0, 88, 222, 1082
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\latex_syntax_checker_tool.py", "Python", 0, 0, 0, 401, 0, 0, 0, 0, 0, 0, 0, 0, 37, 82, 520
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\multi_panel_composition_tool.py", "Python", 0, 0, 0, 480, 0, 0, 0, 0, 0, 0, 0, 0, 49, 100, 629
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\plot_enhancement_tool.py", "Python", 0, 0, 0, 569, 0, 0, 0, 0, 0, 0, 0, 0, 44, 122, 735
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\plot_request_interpreter.py", "Python", 0, 0, 0, 165, 0, 0, 0, 0, 0, 0, 0, 0, 9, 27, 201
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\statistical_analysis_plot_tool.py", "Python", 0, 0, 0, 791, 0, 0, 0, 0, 0, 0, 0, 0, 61, 166, 1018
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\training_analysis_plot_tool.py", "Python", 0, 0, 0, 583, 0, 0, 0, 0, 0, 0, 0, 0, 46, 126, 755
+"d:\zyt\git_ln\freephdlabor\freephdlabor\toolkits\writeup\vlm_document_analysis_tool.py", "Python", 0, 0, 0, 799, 0, 0, 0, 0, 0, 0, 0, 0, 93, 165, 1057
+"d:\zyt\git_ln\freephdlabor\freephdlabor\utils.py", "Python", 0, 0, 0, 258, 0, 0, 0, 0, 0, 0, 0, 0, 34, 42, 334
+"d:\zyt\git_ln\freephdlabor\launch_multiagent.py", "Python", 0, 0, 0, 149, 0, 0, 0, 0, 0, 0, 0, 0, 36, 45, 230
+"d:\zyt\git_ln\freephdlabor\launch_multiagent_slurm.sh", "Shell Script", 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 53, 21, 113
+"Total", "-", 39, 608, 537, 31951, 26, 3931, 88, 4980, 89, 1103, 528, 272, 4949, 8173, 57274
