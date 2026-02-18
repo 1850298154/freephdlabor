@@ -1,0 +1,32 @@
+{
+  "Touvron2020TrainingDI": {
+    "title": "Training data-efficient image transformers & distillation through attention",
+    "bibtex": "@Article{Touvron2020TrainingDI,\n author = {Hugo Touvron and M. Cord and Matthijs Douze and Francisco Massa and Alexandre Sablayrolles and Herv'e J'egou},\n booktitle = {International Conference on Machine Learning},\n pages = {10347-10357},\n title = {Training data-efficient image transformers & distillation through attention},\n year = {2020}\n}\n",
+    "abstract": "Recently, neural networks purely based on attention were shown to address image understanding tasks such as image classification. However, these visual transformers are pre-trained with hundreds of millions of images using an expensive infrastructure, thereby limiting their adoption. In this work, we produce a competitive convolution-free transformer by training on Imagenet only. We train them on a single computer in less than 3 days. Our reference vision transformer (86M parameters) achieves top-1 accuracy of 83.1% (single-crop evaluation) on ImageNet with no external data. More importantly, we introduce a teacher-student strategy specific to transformers. It relies on a distillation token ensuring that the student learns from the teacher through attention. We show the interest of this token-based distillation, especially when using a convnet as a teacher. This leads us to report results competitive with convnets for both Imagenet (where we obtain up to 85.2% accuracy) and when transferring to other tasks. We share our code and models.",
+    "authors": [
+      "Hugo Touvron",
+      "M. Cord",
+      "Matthijs Douze",
+      "Francisco Massa",
+      "Alexandre Sablayrolles",
+      "Herv'e J'egou"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2020,
+    "url": "https://www.semanticscholar.org/paper/ad7ddcc14984caae308c397f1a589aae75d4ab71"
+  },
+  "Woo2018CBAMCB": {
+    "title": "CBAM: Convolutional Block Attention Module",
+    "bibtex": "@Article{Woo2018CBAMCB,\n author = {Sanghyun Woo and Jongchan Park and Joon-Young Lee and In-So Kweon},\n booktitle = {European Conference on Computer Vision},\n journal = {ArXiv},\n title = {CBAM: Convolutional Block Attention Module},\n volume = {abs/1807.06521},\n year = {2018}\n}\n",
+    "abstract": "We propose Convolutional Block Attention Module (CBAM), a simple yet effective attention module for feed-forward convolutional neural networks. Given an intermediate feature map, our module sequentially infers attention maps along two separate dimensions, channel and spatial, then the attention maps are multiplied to the input feature map for adaptive feature refinement. Because CBAM is a lightweight and general module, it can be integrated into any CNN architectures seamlessly with negligible overheads and is end-to-end trainable along with base CNNs. We validate our CBAM through extensive experiments on ImageNet-1K, MS COCO detection, and VOC 2007 detection datasets. Our experiments show consistent improvements in classification and detection performances with various models, demonstrating the wide applicability of CBAM. The code and models will be publicly available.",
+    "authors": [
+      "Sanghyun Woo",
+      "Jongchan Park",
+      "Joon-Young Lee",
+      "In-So Kweon"
+    ],
+    "venue": "European Conference on Computer Vision",
+    "year": 2018,
+    "url": "https://www.semanticscholar.org/paper/de95601d9e3b20ec51aa33e1f27b1880d2c44ef2"
+  }
+}
