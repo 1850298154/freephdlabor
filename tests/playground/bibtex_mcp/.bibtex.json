@@ -9,5 +9,23 @@
     "venue": "Test Venue",
     "year": "2024",
     "url": "https://test.com"
+  },
+  "Touvron2020TrainingDI": {
+    "title": "Test 1",
+    "bibtex": "@Article{Touvron2020TrainingDI, title = {Training}, author = {Hugo}, year = {2020}}",
+    "abstract": "...",
+    "authors": [],
+    "venue": "",
+    "year": "2020",
+    "url": ""
+  },
+  "Woo2018CBAMCB": {
+    "title": "Test 2",
+    "bibtex": "@Article{Woo2018CBAMCB, title = {CBAM}, author = {Sanghyun}, year = {2018}}",
+    "abstract": "...",
+    "authors": [],
+    "venue": "",
+    "year": "2018",
+    "url": ""
   }
 }
