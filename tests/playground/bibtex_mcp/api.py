@@ -10,7 +10,7 @@ from config import API_URL, API_KEY
 
 
 @sleep_and_retry
-@limits(calls=5, period=60)
+@limits(calls=1, period=1)
 @retry(
     stop=stop_after_attempt(3),
     wait=wait_exponential(multiplier=1, min=1, max=4),

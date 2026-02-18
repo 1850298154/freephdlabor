@@ -12,7 +12,7 @@ class Cache:
     """引用缓存"""
 
     def __init__(self):
-        self.file = "cache"
+        self.file = ".bibtex.json"
         self.data = self._load()
 
     def _load(self):

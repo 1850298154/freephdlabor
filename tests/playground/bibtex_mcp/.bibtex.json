@@ -1,0 +1,13 @@
+{
+  "Test2024": {
+    "title": "Test Paper",
+    "bibtex": "@Article{Test2024, title = {Test}}",
+    "abstract": "Test abstract",
+    "authors": [
+      "Test Author"
+    ],
+    "venue": "Test Venue",
+    "year": "2024",
+    "url": "https://test.com"
+  }
+}
