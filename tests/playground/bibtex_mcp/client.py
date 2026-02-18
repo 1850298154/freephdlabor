@@ -110,7 +110,15 @@ def main():
     print("=" * 50)
 
     # 步骤3: 用户输入BibTeX并验证
-    user_input = input("BibTeX内容 (多行输入，以空行结束): ")
+    # user_input = input("BibTeX内容 (多行输入，以空行结束): ")
+    user_input = """@Article{Touvron2020TrainingDI,
+ author = {Hugo Touvron and M. Cord and Matthijs Douze and Francisco Massa and Alexandre Sablayrolles and Herv'e J'egou},
+ booktitle = {International Conference on Machine Learning},
+ pages = {10347-10357},
+ title = {Training data-efficient image transformers & distillation through attention},
+ year = {2020}
+}
+"""
 
     if not user_input.strip():
         print("未输入BibTeX，跳过验证")
