@@ -14,6 +14,9 @@ from ratelimit import limits, sleep_and_retry
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 from requests.exceptions import RequestException
 from typing import Any
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 # 初始化MCP服务器
 app = Server("bibtex-server")
@@ -29,12 +32,17 @@ app = Server("bibtex-server")
 def fetch_bibtex_from_api(query: str, limit: int = 3) -> str:
     """从Semantic Scholar获取BibTeX（带重试和限流）"""
     url = "https://api.semanticscholar.org/graph/v1/paper/search"
+    headers = {}
+
+    S2_API_KEY = os.getenv("S2_API_KEY")
+    if S2_API_KEY:
+        headers["X-API-KEY"] = S2_API_KEY
     params = {
         "query": query,
         "limit": limit,
         "fields": "title,citationStyles,abstract"
     }
-    resp = requests.get(url, params=params, timeout=30)
+    resp = requests.get(url, params=params, timeout=30, headers=headers)
     resp.raise_for_status()
     data = resp.json()
 
