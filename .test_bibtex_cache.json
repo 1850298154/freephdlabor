@@ -1,0 +1,14 @@
+{
+  "Vaswani2017AttentionIA": {
+    "title": "Attention Is All You Need",
+    "bibtex": "@Article{Vaswani2017AttentionIA,\n author = {Ashish Vaswani},\n title = {Attention Is All You Need},\n year = {2017}\n}",
+    "abstract": "This paper proposes attention mechanism...",
+    "authors": [
+      "Ashish Vaswani"
+    ],
+    "venue": "NeurIPS",
+    "year": "2017",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "cached_at": "2026-02-18T13:33:32.807416"
+  }
+}
