@@ -1,31 +1,13 @@
 {
-  "Test2024": {
-    "title": "Test Paper",
-    "bibtex": "@Article{Test2024, title = {Test}}",
-    "abstract": "Test abstract",
+  "Vaswani2017AttentionIA": {
+    "title": "Attention Is All You Need",
+    "bibtex": "@Article{Vaswani2017AttentionIA, title = {Attention Is All You Need}, author = {Ashish Vaswani}, year = {2017}}",
+    "abstract": "Abstract...",
     "authors": [
-      "Test Author"
+      "Ashish Vaswani"
     ],
-    "venue": "Test Venue",
-    "year": "2024",
-    "url": "https://test.com"
-  },
-  "Touvron2020TrainingDI": {
-    "title": "Test 1",
-    "bibtex": "@Article{Touvron2020TrainingDI, title = {Training}, author = {Hugo}, year = {2020}}",
-    "abstract": "...",
-    "authors": [],
-    "venue": "",
-    "year": "2020",
-    "url": ""
-  },
-  "Woo2018CBAMCB": {
-    "title": "Test 2",
-    "bibtex": "@Article{Woo2018CBAMCB, title = {CBAM}, author = {Sanghyun}, year = {2018}}",
-    "abstract": "...",
-    "authors": [],
-    "venue": "",
-    "year": "2018",
-    "url": ""
+    "venue": "NeurIPS",
+    "year": "2017",
+    "url": "https://arxiv.org/abs/1706.03762"
   }
 }
