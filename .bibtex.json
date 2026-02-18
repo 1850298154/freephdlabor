@@ -28,5 +28,29 @@
     "venue": "European Conference on Computer Vision",
     "year": 2018,
     "url": "https://www.semanticscholar.org/paper/de95601d9e3b20ec51aa33e1f27b1880d2c44ef2"
+  },
+  "Xiong2016一种基于多智能体的二层路径规划模型研究O": {
+    "title": "一种基于多智能体的二层路径规划模型研究 (Research on Two-layered Path Planning System Based on Multi-agent Simulation)",
+    "bibtex": "@Article{Xiong2016一种基于多智能体的二层路径规划模型研究O,\n author = {Muzhou Xiong and Yong Li},\n booktitle = {计算机科学},\n journal = {计算机科学},\n pages = {59-64},\n title = {一种基于多智能体的二层路径规划模型研究 (Research on Two-layered Path Planning System Based on Multi-agent Simulation)},\n volume = {43},\n year = {2016}\n}\n",
+    "abstract": null,
+    "authors": [
+      "Muzhou Xiong",
+      "Yong Li"
+    ],
+    "venue": "计算机科学",
+    "year": 2016,
+    "url": "https://www.semanticscholar.org/paper/b49f50b883b402f1d500a451935729a5c94aaeb7"
+  },
+  "赵2025山区220kV架空输电线路设计规划的研究": {
+    "title": "山区220kV架空输电线路设计规划的研究",
+    "bibtex": "@Article{赵2025山区220kV架空输电线路设计规划的研究,\n author = {航 赵 and 裕 谷},\n booktitle = {水电科技},\n journal = {水电科技},\n title = {山区220kV架空输电线路设计规划的研究},\n year = {2025}\n}\n",
+    "abstract": "随着\"双碳\"战略的深入推进，山区电网承载着清洁能源外送与区域经济发展的双重使命。220kV架空输电线路作为骨干网架的核心组成，其设计规划直接关系到电网安全运行与生态保护成效。山区特殊的地理环境导致传统线路设计面临三大矛盾：地形起伏与路径优化的空间矛盾、极端气候与设备可靠性的强度矛盾、生态敏感与施工规模的保护矛盾。现有设计标准多基于平原地区经验，对高海拔电磁环境、冻融循环作用下的地基稳定性等特殊工况缺乏系统考量。文中研究突破单一专业视角限制，构建包含地形建模、灾害防御、智能调控的集成技术体系，创新提出全生命周期价值评估模型。通过多物理场耦合仿真与实证研究，揭示线路机械特性与电磁参数的动态关联规律，形成适应复杂山区环境的差异化设计准则，为新型电力系统建设提供关键技术支撑。",
+    "authors": [
+      "航 赵",
+      "裕 谷"
+    ],
+    "venue": "水电科技",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/c74ba0ca314d5398fa3a68e0317ef78130db4f3f"
   }
 }

@@ -55,15 +55,18 @@ def main():
         print("请输入完整的BibTeX文件内容（多行，以空行结束）:")
         print("=" * 60)
 
-        # 读取多行输入
-        lines = []
-        while True:
-            line = input("> ")
-            if line.strip() == "":
-                break
-            lines.append(line)
+        # # 读取多行输入
+        # lines = []
+        # while True:
+        #     line = input("> ")
+        #     if line.strip() == "":
+        #         break
+        #     lines.append(line)
 
-        bibtex_content = "\n".join(lines)
+        # bibtex_content = "\n".join(lines)
+        bibtex_content = """@Article{Vaswani2017AttentionIA, title = {Attention Is All You Need}, author = {Ashish Vaswani}, year = {2017}}
+        """
+        bibtex_content = """@Article{Xiong2016一种基于多智能体的二层路径规划模型研究O,\n author = {Muzhou Xiong and Yong Li},\n booktitle = {计算机科学},\n journal = {计算机科学},\n pages = {59-64},\n title = {一种基于多智能体的二层路径规划模型研究 (Research on Two-layered Path Planning System Based on Multi-agent Simulation)},\n volume = {43},\n year = {2016}\n}\n"""
 
         print(f"\n收到 {len(bibtex_content)} 字符内容")
 
