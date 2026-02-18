@@ -1,0 +1,20 @@
+{
+  "Vaswani2017AttentionIA": {
+    "title": "Attention Is All You Need",
+    "bibtex": "@Article{Vaswani2017AttentionIA,\n  title = {Attention Is All You Need},\n  author = {Ashish Vaswani and Noam Shazeer},\n  year = {2017}\n}",
+    "abstract": "...",
+    "authors": [],
+    "venue": "NeurIPS",
+    "year": "2017",
+    "url": ""
+  },
+  "He2016DeepRL": {
+    "title": "Deep Residual Learning",
+    "bibtex": "@Article{He2016DeepRL,\n  title = {Deep Residual Learning},\n  author = {Kaiming He},\n  year = {2016}\n}",
+    "abstract": "...",
+    "authors": [],
+    "venue": "CVPR",
+    "year": "2016",
+    "url": ""
+  }
+}
