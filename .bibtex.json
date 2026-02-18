@@ -52,5 +52,16 @@
     "venue": "水电科技",
     "year": 2025,
     "url": "https://www.semanticscholar.org/paper/c74ba0ca314d5398fa3a68e0317ef78130db4f3f"
+  },
+  "Vaswani2017AttentionIA": {
+    "title": "Attention Is All You Need",
+    "bibtex": "@Article{Vaswani2017AttentionIA, title = {Attention Is All You Need}, author = {Ashish Vaswani}, year = {2017}}",
+    "abstract": "Abstract...",
+    "authors": [
+      "Ashish Vaswani"
+    ],
+    "venue": "NeurIPS",
+    "year": "2017",
+    "url": "https://arxiv.org/abs/1706.03762"
   }
 }

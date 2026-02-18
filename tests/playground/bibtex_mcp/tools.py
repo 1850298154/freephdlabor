@@ -124,6 +124,6 @@ def _extract_entry_by_key(content: str, key: str) -> str:
 
 
 def _bibtex_equal(bibtex1: str, bibtex2: str) -> bool:
-    """比较两个BibTeX是否相等（忽略空格）"""
-    normalize = lambda s: re.sub(r'\s+', ' ', s).strip()
+    """比较两个BibTeX是否相等（忽略空格和换行）"""
+    normalize = lambda s: re.sub(r'\s+', ' ', s).strip().replace('\n', ' ')
     return normalize(bibtex1) == normalize(bibtex2)
