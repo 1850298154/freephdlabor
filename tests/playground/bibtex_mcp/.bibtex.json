@@ -76,5 +76,39 @@
     "venue": "AAAI Conference on Artificial Intelligence",
     "year": 2020,
     "url": "https://www.semanticscholar.org/paper/bb4a9650ca3946c70a7e92007cc61dc0dfd75522"
+  },
+  "Xiong2020OnLN": {
+    "title": "On Layer Normalization in the Transformer Architecture",
+    "bibtex": "@Article{Xiong2020OnLN,\n author = {Ruibin Xiong and Yunchang Yang and Di He and Kai Zheng and Shuxin Zheng and Chen Xing and Huishuai Zhang and Yanyan Lan and Liwei Wang and Tie-Yan Liu},\n booktitle = {International Conference on Machine Learning},\n journal = {ArXiv},\n title = {On Layer Normalization in the Transformer Architecture},\n volume = {abs/2002.04745},\n year = {2020}\n}\n",
+    "abstract": "The Transformer is widely used in natural language processing tasks. To train a Transformer however, one usually needs a carefully designed learning rate warm-up stage, which is shown to be crucial to the final performance but will slow down the optimization and bring more hyperparameter tunings. In this paper, we first study theoretically why the learning rate warm-up stage is essential and show that the location of layer normalization matters. Specifically, we prove with mean field theory that at initialization, for the original-designed Post-LN Transformer, which places the layer normalization between the residual blocks, the expected gradients of the parameters near the output layer are large. Therefore, using a large learning rate on those gradients makes the training unstable. The warm-up stage is practically helpful for avoiding this problem. On the other hand, our theory also shows that if the layer normalization is put inside the residual blocks (recently proposed as Pre-LN Transformer), the gradients are well-behaved at initialization. This motivates us to remove the warm-up stage for the training of Pre-LN Transformers. We show in our experiments that Pre-LN Transformers without the warm-up stage can reach comparable results with baselines while requiring significantly less training time and hyper-parameter tuning on a wide range of applications.",
+    "authors": [
+      "Ruibin Xiong",
+      "Yunchang Yang",
+      "Di He",
+      "Kai Zheng",
+      "Shuxin Zheng",
+      "Chen Xing",
+      "Huishuai Zhang",
+      "Yanyan Lan",
+      "Liwei Wang",
+      "Tie-Yan Liu"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2020,
+    "url": "https://www.semanticscholar.org/paper/b45d656ac8cc2e940609580cf291ee76ffcac20a"
+  },
+  "Zhang2022LiteMonoAL": {
+    "title": "Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation",
+    "bibtex": "@Article{Zhang2022LiteMonoAL,\n author = {Ning Zhang and F. Nex and G. Vosselman and N. Kerle},\n booktitle = {Computer Vision and Pattern Recognition},\n journal = {2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n pages = {18537-18546},\n title = {Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation},\n year = {2022}\n}\n",
+    "abstract": "Self-supervised monocular depth estimation that does not require ground truth for training has attracted attention in recent years. It is of high interest to design lightweight but effective models so that they can be deployed on edge devices. Many existing architectures benefit from using heavier backbones at the expense of model sizes. This paper achieves comparable results with a lightweight architecture. Specifically, the efficient combination of CNNs and Transformers is investigated, and a hybrid architecture called Lite-Mono is presented. A Consecutive Dilated Convolutions (CDC) module and a Local-Global Features Interaction (LGFI) module are proposed. The former is used to extract rich multi-scale local features, and the latter takes advantage of the self-attention mechanism to encode long-range global information into the features. Experiments demonstrate that Lite-Mono outperforms Monodepth2 by a large margin in accuracy, with about 80% fewer trainable parameters. Our codes and models are available at https://github.com/noahzn/Lite-Mono.",
+    "authors": [
+      "Ning Zhang",
+      "F. Nex",
+      "G. Vosselman",
+      "N. Kerle"
+    ],
+    "venue": "Computer Vision and Pattern Recognition",
+    "year": 2022,
+    "url": "https://www.semanticscholar.org/paper/0b481055434bc5ddfbfe2e6a92a1e2909877abed"
   }
 }

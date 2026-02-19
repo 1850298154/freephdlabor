@@ -110,8 +110,8 @@ if search_resp.status_code == 200:
 else:
     print(f"Error: {search_resp.text[:200]}")
 
-# 4. Call verify_and_report_citations
-print("\n=== 4. Call verify_and_report_citations ===")
+# 4. Call verify_citations_with_mismatches
+print("\n=== 4. Call verify_citations_with_mismatches ===")
 test_bibtex = """@Article{Vaswani2017AttentionIA, title = {Attention Is All You Need}, author = {Ashish Vaswani}, year = {2017}}"""
 verify_resp = requests.post(
     MCP_URL,
@@ -120,7 +120,7 @@ verify_resp = requests.post(
         "id": 4,
         "method": "tools/call",
         "params": {
-            "name": "verify_and_report_citations",
+            "name": "verify_citations_with_mismatches",
             "arguments": {"bibtex_content": test_bibtex}
         }
     },
