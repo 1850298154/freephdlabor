@@ -7,10 +7,8 @@ import re
 from cache import Cache
 
 
-cache = Cache()
-
-
 def verify_citations(bibtex_content: str) -> str:
+    cache = Cache()
     """
     验证BibTeX引用
 

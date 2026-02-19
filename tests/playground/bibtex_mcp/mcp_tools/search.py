@@ -7,11 +7,9 @@ from api import search
 from cache import Cache
 
 
-cache = Cache()
-
-
 def search_and_cache(query: str, limit: int = 5) -> str:
     """搜索论文并缓存"""
+    cache = Cache()
     papers = search(query, limit)
 
     for paper in papers:
