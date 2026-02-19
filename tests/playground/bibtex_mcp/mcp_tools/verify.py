@@ -1,38 +1,13 @@
 """
-BibTeX 验证工具模块（无状态，纯函数）
+验证模块（无状态，纯函数）
 """
 
 import json
 import re
-from api import search
 from cache import Cache
 
 
 cache = Cache()
-
-
-def search_and_cache(query: str, limit: int = 5) -> str:
-    """搜索论文并缓存"""
-    papers = search(query, limit)
-
-    for paper in papers:
-        cache.add(paper["bibtex"], paper)
-
-    results = [{
-        "title": p["title"],
-        "bibtex": p["bibtex"],
-        "abstract": p["abstract"],
-        "authors": p["authors"],
-        "venue": p["venue"],
-        "year": p["year"],
-        "url": p["url"]
-    } for p in papers]
-
-    return json.dumps({
-        "query": query,
-        "count": len(results),
-        "papers": results
-    }, ensure_ascii=False, indent=2)
 
 
 def verify_citations(bibtex_content: str) -> str:
@@ -47,8 +22,6 @@ def verify_citations(bibtex_content: str) -> str:
       "not_found": [...]        # 未找到的引用
     }
     """
-    import re
-
     # 提取所有引用键
     keys = re.findall(r'@\w+\{([^,]+),', bibtex_content)
 
@@ -87,8 +60,8 @@ def verify_citations(bibtex_content: str) -> str:
                 "key": key,
                 "title": cached.get("title", ""),
                 "reason": "BibTeX内容不一致",
-                "cached_bibtex": cached_bibtex,  # [:100] + "..." if len(cached_bibtex) > 100 else cached_bibtex,
-                "input_bibtex": input_bibtex,  # [:100] + "..." if len(input_bibtex) > 100 else input_bibtex
+                "cached_bibtex": cached_bibtex,
+                "input_bibtex": input_bibtex
             })
 
     return json.dumps({

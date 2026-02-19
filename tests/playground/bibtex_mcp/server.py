@@ -8,7 +8,8 @@ ccswitch配置: http://localhost:8000/mcp
 
 from mcp.server import FastMCP
 from config import HOST, PORT
-from tools import search_bibtex, verify_citations
+from mcp_tools.search import search_and_cache
+from mcp_tools.verify import verify_citations
 
 mcp = FastMCP(
     name="bibtex-server",
@@ -26,7 +27,7 @@ def search_bibtex(query: str, limit: int = 5) -> str:
 
     搜索时会自动缓存论文，后续验证时无需再次请求
     """
-    return tools.search_bibtex(query, limit)
+    return search_and_cache(query, limit)
 
 
 @mcp.tool()
@@ -36,7 +37,7 @@ def verify_citations(bibtex_content: str) -> str:
 
     传入完整的 .bib 文件内容，返回每条引用的验证结果
     """
-    return tools.verify_citations(bibtex_content)
+    return verify_citations(bibtex_content)
 
 
 if __name__ == "__main__":

@@ -6,7 +6,7 @@ import sys
 sys.path.insert(0, '.')
 
 from cache import Cache
-from tools import verify_citations
+from mcp_tools.verify import verify_citations
 
 cache = Cache()
 

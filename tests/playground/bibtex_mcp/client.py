@@ -10,7 +10,8 @@ import sys
 sys.path.insert(0, '.')
 
 import json
-from tools import search_and_cache, verify_citations
+from mcp_tools.search import search_and_cache
+from mcp_tools.verify import verify_citations
 
 
 def main():
