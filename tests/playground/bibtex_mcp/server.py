@@ -21,7 +21,7 @@ mcp = FastMCP(
 
 
 @mcp.tool()
-def search_bibtex(query: str, limit: int = 5) -> str:
+def search_bibtex_and_abstract(query: str, limit: int = 5) -> str:
     """
     搜索论文并获取BibTeX
 
@@ -31,7 +31,7 @@ def search_bibtex(query: str, limit: int = 5) -> str:
 
 
 @mcp.tool()
-def verify_citations(bibtex_content: str) -> str:
+def verify_and_report_citations(bibtex_content: str) -> str:
     """
     验证BibTeX引用
 
