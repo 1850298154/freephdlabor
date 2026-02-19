@@ -31,7 +31,7 @@ def search_bibtex_and_abstract(query: str, limit: int = 5) -> str:
 
 
 @mcp.tool()
-def verify_and_report_citations(bibtex_content: str) -> str:
+def verify_citations_with_mismatches(bibtex_content: str) -> str:
     """
     验证BibTeX引用
 

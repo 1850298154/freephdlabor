@@ -4,6 +4,12 @@
 
 import json
 import requests
+import sys
+import io
+
+# Fix UTF-8 encoding on Windows
+if sys.platform == 'win32':
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 MCP_URL = "http://0.0.0.0:8000/mcp"
 
@@ -63,8 +69,8 @@ if tools_resp.status_code == 200:
 else:
     print(f"Error: {tools_resp.text[:200]}")
 
-# 3. Call search_bibtex
-print("\n=== 3. Call search_bibtex ===")
+# 3. Call search_bibtex_and_abstract
+print("\n=== 3. Call search_bibtex_and_abstract ===")
 search_resp = requests.post(
     MCP_URL,
     json={
@@ -72,7 +78,7 @@ search_resp = requests.post(
         "id": 3,
         "method": "tools/call",
         "params": {
-            "name": "search_bibtex",
+            "name": "search_bibtex_and_abstract",
             "arguments": {"query": "attention", "limit": 2}
         }
     },
@@ -87,7 +93,12 @@ if search_resp.status_code == 200:
         if line.startswith("data:"):
             data = json.loads(line[5:])
             if "result" in data:
-                result = json.loads(data["result"])
+                # result might be dict or JSON string
+                result_data = data["result"]
+                if isinstance(result_data, str):
+                    result = json.loads(result_data)
+                else:
+                    result = result_data
                 papers = result.get("papers", [])
                 print(f"\nSuccess! Got {len(papers)} papers:")
                 for p in papers:
@@ -99,8 +110,8 @@ if search_resp.status_code == 200:
 else:
     print(f"Error: {search_resp.text[:200]}")
 
-# 4. Call verify_citations
-print("\n=== 4. Call verify_citations ===")
+# 4. Call verify_and_report_citations
+print("\n=== 4. Call verify_and_report_citations ===")
 test_bibtex = """@Article{Vaswani2017AttentionIA, title = {Attention Is All You Need}, author = {Ashish Vaswani}, year = {2017}}"""
 verify_resp = requests.post(
     MCP_URL,
@@ -109,7 +120,7 @@ verify_resp = requests.post(
         "id": 4,
         "method": "tools/call",
         "params": {
-            "name": "verify_citations",
+            "name": "verify_and_report_citations",
             "arguments": {"bibtex_content": test_bibtex}
         }
     },
@@ -124,7 +135,12 @@ if verify_resp.status_code == 200:
         if line.startswith("data:"):
             data = json.loads(line[5:])
             if "result" in data:
-                result = json.loads(data["result"])
+                # result might be dict or JSON string
+                result_data = data["result"]
+                if isinstance(result_data, str):
+                    result = json.loads(result_data)
+                else:
+                    result = result_data
                 print(f"\nVerification result:")
                 print(f"  Valid: {result.get('valid')}")
                 print(f"  Matched: {result.get('matched_count')}/{result.get('total')}")
