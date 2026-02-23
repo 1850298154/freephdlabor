@@ -2629,5 +2629,51 @@
     "venue": "arXiv.org",
     "year": 2025,
     "url": "https://www.semanticscholar.org/paper/29a68993715da65da69186803cfb0c5d252fcbcc"
+  },
+  "Guo2025ImprovingVM": {
+    "title": "Improving Vision-Language-Action Model with Online Reinforcement Learning",
+    "bibtex": "@Article{Guo2025ImprovingVM,\n author = {Yanjiang Guo and Jianke Zhang and Xiaoyu Chen and Xiang Ji and Yen-Jen Wang and Yucheng Hu and Jianyu Chen},\n booktitle = {IEEE International Conference on Robotics and Automation},\n journal = {2025 IEEE International Conference on Robotics and Automation (ICRA)},\n pages = {15665-15672},\n title = {Improving Vision-Language-Action Model with Online Reinforcement Learning},\n year = {2025}\n}\n",
+    "abstract": "Recent studies have successfully integrated large vision-language models (VLMs) into low-level robotic control by supervised fine-tuning (SFT) with expert robotic datasets, resulting in what we term vision-language-action (VLA) models. Although the VLA models are powerful, how to improve these large models during interaction with environments remains an open question. In this paper, we explore how to further improve these VLA models via Reinforcement Learning (RL), a commonly used fine-tuning technique for large models. However, we find that directly applying online RL to large VLA models presents significant challenges, including training instability that severely impacts the performance of large models, and computing burdens that exceed the capabilities of most local machines. To address these challenges, we propose iRe-VLA framework, which iterates between Reinforcement Learning and Supervised Learning to effectively improve VLA models, leveraging the exploratory benefits of RL while maintaining the stability of supervised learning. Experiments in two simulated benchmarks and a real-world manipulation suite validate the effectiveness of our method.",
+    "authors": [
+      "Yanjiang Guo",
+      "Jianke Zhang",
+      "Xiaoyu Chen",
+      "Xiang Ji",
+      "Yen-Jen Wang",
+      "Yucheng Hu",
+      "Jianyu Chen"
+    ],
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/ffc09c7971df578929ea3764d06e4ab62886421f"
+  },
+  "Lobbezoo2021ReinforcementLF": {
+    "title": "Reinforcement Learning for Pick and Place Operations in Robotics: A Survey",
+    "bibtex": "@Article{Lobbezoo2021ReinforcementLF,\n author = {Andrew Lobbezoo and Yanjun Qian and Hyock-Ju Kwon},\n booktitle = {Robotics},\n journal = {Robotics},\n pages = {105},\n title = {Reinforcement Learning for Pick and Place Operations in Robotics: A Survey},\n volume = {10},\n year = {2021}\n}\n",
+    "abstract": "The field of robotics has been rapidly developing in recent years, and the work related to training robotic agents with reinforcement learning has been a major focus of research. This survey reviews the application of reinforcement learning for pick-and-place operations, a task that a logistics robot can be trained to complete without support from a robotics engineer. To introduce this topic, we first review the fundamentals of reinforcement learning and various methods of policy optimization, such as value iteration and policy search. Next, factors which have an impact on the pick-and-place task, such as reward shaping, imitation learning, pose estimation, and simulation environment are examined. Following the review of the fundamentals and key factors for reinforcement learning, we present an extensive review of all methods implemented by researchers in the field to date. The strengths and weaknesses of each method from literature are discussed, and details about the contribution of each manuscript to the field are reviewed. The concluding critical discussion of the available literature, and the summary of open problems indicates that experiment validation, model generalization, and grasp pose selection are topics that require additional research.",
+    "authors": [
+      "Andrew Lobbezoo",
+      "Yanjun Qian",
+      "Hyock-Ju Kwon"
+    ],
+    "venue": "Robotics",
+    "year": 2021,
+    "url": "https://www.semanticscholar.org/paper/920b3d3a481bfad07a90e2863305fab8a4ce6148"
+  },
+  "Li2024ReinforcementLF": {
+    "title": "Reinforcement learning for versatile, dynamic, and robust bipedal locomotion control",
+    "bibtex": "@Article{Li2024ReinforcementLF,\n author = {Zhongyu Li and Xue Bin Peng and Pieter Abbeel and Sergey Levine and Glen Berseth and K. Sreenath},\n booktitle = {Int. J. Robotics Res.},\n journal = {The International Journal of Robotics Research},\n pages = {840 - 888},\n title = {Reinforcement learning for versatile, dynamic, and robust bipedal locomotion control},\n volume = {44},\n year = {2024}\n}\n",
+    "abstract": "This paper presents a comprehensive study on using deep reinforcement learning (RL) to create dynamic locomotion controllers for bipedal robots. Going beyond focusing on a single locomotion skill, we develop a general control solution that can be used for a range of dynamic bipedal skills, from periodic walking and running to aperiodic jumping and standing. Our RL-based controller incorporates a novel dual-history architecture, utilizing both a long-term and short-term input/output (I/O) history of the robot. This control architecture, when trained through the proposed end-to-end RL approach, consistently outperforms other methods across a diverse range of skills in both simulation and the real world. The study also delves into the adaptivity and robustness introduced by the proposed RL system in developing locomotion controllers. We demonstrate that the proposed architecture can adapt to both time-invariant dynamics shifts and time-variant changes, such as contact events, by effectively using the robot’s I/O history. Additionally, we identify task randomization as another key source of robustness, fostering better task generalization and compliance to disturbances. The resulting control policies can be successfully deployed on Cassie, a torque-controlled human-sized bipedal robot. This work pushes the limits of agility for bipedal robots through extensive real-world experiments. We demonstrate a diverse range of locomotion skills, including: robust standing, versatile walking, fast running with a demonstration of a 400-meter dash, and a diverse set of jumping skills, such as standing long jumps and high jumps.",
+    "authors": [
+      "Zhongyu Li",
+      "Xue Bin Peng",
+      "Pieter Abbeel",
+      "Sergey Levine",
+      "Glen Berseth",
+      "K. Sreenath"
+    ],
+    "venue": "Int. J. Robotics Res.",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/aedc3393c2ab16566a1da57c091ac53ef3b7a9da"
   }
 }
