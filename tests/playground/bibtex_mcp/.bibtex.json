@@ -9180,5 +9180,1506 @@
     "venue": "Journal of Physics: Conference Series",
     "year": 2025,
     "url": "https://www.semanticscholar.org/paper/8dcdeee263fcb2c03bbeff4f971b114b62e80073"
+  },
+  "Pinedo1994SchedulingTA": {
+    "title": "Scheduling: Theory, Algorithms, and Systems",
+    "bibtex": "@Inproceedings{Pinedo1994SchedulingTA,\n author = {Michael Pinedo},\n title = {Scheduling: Theory, Algorithms, and Systems},\n year = {1994}\n}\n",
+    "abstract": null,
+    "authors": [
+      "Michael Pinedo"
+    ],
+    "venue": "",
+    "year": 1994,
+    "url": "https://www.semanticscholar.org/paper/66f36aa7e598a94323ed465d4b12ca853108b6ff"
+  },
+  "Güngör2023ANO": {
+    "title": "A note on the shifting bottleneck procedure for job shop scheduling",
+    "bibtex": "@Article{Güngör2023ANO,\n author = {Murat Güngör},\n booktitle = {Journal of Scheduling},\n journal = {Journal of Scheduling},\n pages = {399-402},\n title = {A note on the shifting bottleneck procedure for job shop scheduling},\n volume = {26},\n year = {2023}\n}\n",
+    "abstract": null,
+    "authors": [
+      "Murat Güngör"
+    ],
+    "venue": "Journal of Scheduling",
+    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/1d68f6af134ae4815f97c3ce0f3c5601bed80846"
+  },
+  "Lin2004ParallelMS": {
+    "title": "Parallel machine scheduling of machine-dependent jobs with unit-length",
+    "bibtex": "@Article{Lin2004ParallelMS,\n author = {Yixun Lin and Wenhua Li},\n booktitle = {European Journal of Operational Research},\n journal = {Eur. J. Oper. Res.},\n pages = {261-266},\n title = {Parallel machine scheduling of machine-dependent jobs with unit-length},\n volume = {156},\n year = {2004}\n}\n",
+    "abstract": null,
+    "authors": [
+      "Yixun Lin",
+      "Wenhua Li"
+    ],
+    "venue": "European Journal of Operational Research",
+    "year": 2004,
+    "url": "https://www.semanticscholar.org/paper/37e8aaed3f0465fdfe05e20a7a57520ee5d84bc7"
+  },
+  "Dudi2020ShortestPE": {
+    "title": "Shortest Path Evaluation with Enhanced Linear Graph and Dijkstra Algorithm",
+    "bibtex": "@Article{Dudi2020ShortestPE,\n author = {T. Dudi and R. Singhal and R. Kumar},\n booktitle = {Annual Conference of the Society of Instrument and Control Engineers of Japan},\n journal = {2020 59th Annual Conference of the Society of Instrument and Control Engineers of Japan (SICE)},\n pages = {451-456},\n title = {Shortest Path Evaluation with Enhanced Linear Graph and Dijkstra Algorithm},\n year = {2020}\n}\n",
+    "abstract": "Path planning is one of the vital tasks in the intelligent control of autonomous robots. It is of prime importance from industrial as well as commercial point of view. Various autonomous vehicles are gaining popularity to reduce the on-field intervention of humans. The path planning problem is divided into two sub-problems: finding the feasible node pairs and then evaluate the shortest feasible path from the obtained feasible node pairs. Feasible node pair is the part of the path which do not pass through any obstacle. For the known static arena, the most popular method to solve these kinds of problems is the visibility graph (VGraph), but it is computationally intensive. This paper proposes an Enhanced Linear Graph (ELGraph), a method for finding feasible node pairs. The ELGraph has simplified linear structure which exploits the concept of line segment intersection, which may take low computational time. The simulations were carried out for VGraph and ELGraph to get the feasible node pair, and then Dijkstra algorithm evaluates the shortest feasible path. The results obtained shows that ELGraph takes lesser evaluation time and is computationally lesser intensive than VGraph, without compromising on finding the shortest possible feasible path.",
+    "authors": [
+      "T. Dudi",
+      "R. Singhal",
+      "R. Kumar"
+    ],
+    "venue": "Annual Conference of the Society of Instrument and Control Engineers of Japan",
+    "year": 2020,
+    "url": "https://www.semanticscholar.org/paper/6abc6d23ad24c69b5e3135ea8299a0bf38b694f1"
+  },
+  "Gu2012TheRO": {
+    "title": "The Research of Dijkstra Shortest Path Algorithm Based on Matlab",
+    "bibtex": "@Inproceedings{Gu2012TheRO,\n author = {Hailan Gu and Xiaomei Shang},\n pages = {1839-1841},\n title = {The Research of Dijkstra Shortest Path Algorithm Based on Matlab},\n year = {2012}\n}\n",
+    "abstract": null,
+    "authors": [
+      "Hailan Gu",
+      "Xiaomei Shang"
+    ],
+    "venue": "",
+    "year": 2012,
+    "url": "https://www.semanticscholar.org/paper/479129820c4734b1f8ec23bd7798d8918733d800"
+  },
+  "Biswas2017ZDijkstrasAT": {
+    "title": "Z-Dijkstra’s Algorithm to solve Shortest Path Problem in a Z-Graph",
+    "bibtex": "@Article{Biswas2017ZDijkstrasAT,\n author = {S. Biswas},\n journal = {Oriental journal of computer science and technology},\n pages = {180-186},\n title = {Z-Dijkstra’s Algorithm to solve Shortest Path Problem in a Z-Graph},\n volume = {10},\n year = {2017}\n}\n",
+    "abstract": "In this paper the author introduces the notion of Z-weighted graph or Z-graph in Graph Theory, considers the Shortest Path Problem (SPP) in a Z-graph. The classical Dijkstra’s algorithm to find the shortest path in graphs is not applicable to Z-graphs. Consequently the author proposes a new algorithm called by Z-Dijkstra’s Algorithm with the philosophy of the classical Dijkstra’s Algorithm to solve the SPP in a Z-graph.",
+    "authors": [
+      "S. Biswas"
+    ],
+    "venue": "",
+    "year": 2017,
+    "url": "https://www.semanticscholar.org/paper/1b719b19c13271f67e74e20c8321fd14924bdcad"
+  },
+  "Kirkpatrick1983OptimizationBS": {
+    "title": "Optimization by Simulated Annealing",
+    "bibtex": "@Article{Kirkpatrick1983OptimizationBS,\n author = {S. Kirkpatrick and C. D. Gelatt and M. Vecchi},\n booktitle = {Science},\n journal = {Science},\n pages = {671 - 680},\n title = {Optimization by Simulated Annealing},\n volume = {220},\n year = {1983}\n}\n",
+    "abstract": null,
+    "authors": [
+      "S. Kirkpatrick",
+      "C. D. Gelatt",
+      "M. Vecchi"
+    ],
+    "venue": "Science",
+    "year": 1983,
+    "url": "https://www.semanticscholar.org/paper/dd5061631a4d11fa394f4421700ebf7e78dcbc59"
+  },
+  "Kirkpatrick1984OptimizationBS": {
+    "title": "Optimization by simulated annealing: Quantitative studies",
+    "bibtex": "@Article{Kirkpatrick1984OptimizationBS,\n author = {S. Kirkpatrick},\n journal = {Journal of Statistical Physics},\n pages = {975-986},\n title = {Optimization by simulated annealing: Quantitative studies},\n volume = {34},\n year = {1984}\n}\n",
+    "abstract": null,
+    "authors": [
+      "S. Kirkpatrick"
+    ],
+    "venue": "",
+    "year": 1984,
+    "url": "https://www.semanticscholar.org/paper/15735398be9f5922a1a7207985bb504192827dc2"
+  },
+  "Caracciolo2023SimulatedAO": {
+    "title": "Simulated annealing, optimization, searching for ground states",
+    "bibtex": "@Inproceedings{Caracciolo2023SimulatedAO,\n author = {S. Caracciolo and A. Hartmann and S. Kirkpatrick and M. Weigel},\n title = {Simulated annealing, optimization, searching for ground states},\n year = {2023}\n}\n",
+    "abstract": "The chapter starts with a historical summary of first attempts to optimize the spin glass Hamiltonian, comparing it to recent results on searching largest cliques in random graphs. Exact algorithms to find ground states in generic spin glass models are then explored in Section 1.2, while Section 1.3 is dedicated to the bidimensional case where polynomial algorithms exist and allow for the study of much larger systems. Finally Section 1.4 presents a summary of results for the assignment problem where the finite size corrections for the ground state can be studied in great detail.",
+    "authors": [
+      "S. Caracciolo",
+      "A. Hartmann",
+      "S. Kirkpatrick",
+      "M. Weigel"
+    ],
+    "venue": "",
+    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/3400f97a008b3c899c508046255becdb4d635424"
+  },
+  "Grefenstette1988ProceedingsOT": {
+    "title": "Proceedings of the First International Conference on Genetic Algorithms and their Applications, July 24-26, 1985, at the Carnegie-Mellon University, Pittsburgh, PA",
+    "bibtex": "@Inproceedings{Grefenstette1988ProceedingsOT,\n author = {J. Grefenstette},\n title = {Proceedings of the First International Conference on Genetic Algorithms and their Applications, July 24-26, 1985, at the Carnegie-Mellon University, Pittsburgh, PA},\n year = {1988}\n}\n",
+    "abstract": null,
+    "authors": [
+      "J. Grefenstette"
+    ],
+    "venue": "",
+    "year": 1988,
+    "url": "https://www.semanticscholar.org/paper/5c8700bc6055848c17e620f4529b4535d9a6e81c"
+  },
+  "Naik2017OptimalDO": {
+    "title": "Optimal Design of Laminated Composite Plates by using Advanced G A. A REVIEW",
+    "bibtex": "@Inproceedings{Naik2017OptimalDO,\n author = {M. B. Naik and Mr. K. Sathish and Dr. N. Jeevan Kumar},\n title = {Optimal Design of Laminated Composite Plates by using Advanced G A. A REVIEW},\n year = {2017}\n}\n",
+    "abstract": null,
+    "authors": [
+      "M. B. Naik",
+      "Mr. K. Sathish",
+      "Dr. N. Jeevan Kumar"
+    ],
+    "venue": "",
+    "year": 2017,
+    "url": "https://www.semanticscholar.org/paper/600c766e2b37d4fbbc2896e813cce22b31dfe9cb"
+  },
+  "Han2024ADP": {
+    "title": "A dual population collaborative genetic algorithm for solving flexible job shop scheduling problem with AGV",
+    "bibtex": "@Article{Han2024ADP,\n author = {Xiaoqing Han and Weiyao Cheng and Lei-lei Meng and Biao Zhang and Kaizhou Gao and Chaoyong Zhang and Peng Duan},\n booktitle = {Swarm and Evolutionary Computation},\n journal = {Swarm Evol. Comput.},\n pages = {101538},\n title = {A dual population collaborative genetic algorithm for solving flexible job shop scheduling problem with AGV},\n volume = {86},\n year = {2024}\n}\n",
+    "abstract": null,
+    "authors": [
+      "Xiaoqing Han",
+      "Weiyao Cheng",
+      "Lei-lei Meng",
+      "Biao Zhang",
+      "Kaizhou Gao",
+      "Chaoyong Zhang",
+      "Peng Duan"
+    ],
+    "venue": "Swarm and Evolutionary Computation",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/5cddf60358edcfead8f1b46e7f5f0ac4795d1878"
+  },
+  "Garey1975BoundsFM": {
+    "title": "Bounds for Multiprocessor Scheduling with Resource Constraints",
+    "bibtex": "@Article{Garey1975BoundsFM,\n author = {M. Garey and R. Graham},\n booktitle = {SIAM journal on computing (Print)},\n journal = {SIAM J. Comput.},\n pages = {187-200},\n title = {Bounds for Multiprocessor Scheduling with Resource Constraints},\n volume = {4},\n year = {1975}\n}\n",
+    "abstract": null,
+    "authors": [
+      "M. Garey",
+      "R. Graham"
+    ],
+    "venue": "SIAM journal on computing (Print)",
+    "year": 1975,
+    "url": "https://www.semanticscholar.org/paper/7ebaeaa1088b79c6515b37eba37a669e69a3c407"
+  },
+  "Kellerer1991BoundsFN": {
+    "title": "Bounds for nonpreemptive scheduling of jobs with similar processing times on multiprocessor systems using the LPT-Algorithm",
+    "bibtex": "@Article{Kellerer1991BoundsFN,\n author = {H. Kellerer},\n booktitle = {Computing},\n journal = {Computing},\n pages = {183-191},\n title = {Bounds for nonpreemptive scheduling of jobs with similar processing times on multiprocessor systems using the LPT-Algorithm},\n volume = {46},\n year = {1991}\n}\n",
+    "abstract": null,
+    "authors": [
+      "H. Kellerer"
+    ],
+    "venue": "Computing",
+    "year": 1991,
+    "url": "https://www.semanticscholar.org/paper/515e65fbe87dab0642ebf357e5273400bc7bc4e2"
+  },
+  "Tovey1990ASA": {
+    "title": "A Simplified Anomaly and Reduction for Precedence Constrained Multiprocessor Scheduling",
+    "bibtex": "@Article{Tovey1990ASA,\n author = {C. Tovey},\n booktitle = {SIAM Journal on Discrete Mathematics},\n journal = {SIAM J. Discret. Math.},\n pages = {582-584},\n title = {A Simplified Anomaly and Reduction for Precedence Constrained Multiprocessor Scheduling},\n volume = {3},\n year = {1990}\n}\n",
+    "abstract": null,
+    "authors": [
+      "C. Tovey"
+    ],
+    "venue": "SIAM Journal on Discrete Mathematics",
+    "year": 1990,
+    "url": "https://www.semanticscholar.org/paper/88701c82aae83a9c1df01fdfbfb4c1a9da60fddb"
+  },
+  "Driess2023PaLMEAE": {
+    "title": "PaLM-E: An Embodied Multimodal Language Model",
+    "bibtex": "@Article{Driess2023PaLMEAE,\n author = {Danny Driess and F. Xia and Mehdi S. M. Sajjadi and Corey Lynch and A. Chowdhery and Brian Ichter and Ayzaan Wahid and Jonathan Tompson and Q. Vuong and Tianhe Yu and Wenlong Huang and Yevgen Chebotar and P. Sermanet and Daniel Duckworth and S. Levine and Vincent Vanhoucke and Karol Hausman and Marc Toussaint and Klaus Greff and Andy Zeng and Igor Mordatch and Peter R. Florence},\n booktitle = {International Conference on Machine Learning},\n pages = {8469-8488},\n title = {PaLM-E: An Embodied Multimodal Language Model},\n year = {2023}\n}\n",
+    "abstract": "Large language models excel at a wide range of complex tasks. However, enabling general inference in the real world, e.g., for robotics problems, raises the challenge of grounding. We propose embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts. Input to our embodied language model are multi-modal sentences that interleave visual, continuous state estimation, and textual input encodings. We train these encodings end-to-end, in conjunction with a pre-trained large language model, for multiple embodied tasks including sequential robotic manipulation planning, visual question answering, and captioning. Our evaluations show that PaLM-E, a single large embodied multimodal model, can address a variety of embodied reasoning tasks, from a variety of observation modalities, on multiple embodiments, and further, exhibits positive transfer: the model benefits from diverse joint training across internet-scale language, vision, and visual-language domains. Our largest model, PaLM-E-562B with 562B parameters, in addition to being trained on robotics tasks, is a visual-language generalist with state-of-the-art performance on OK-VQA, and retains generalist language capabilities with increasing scale.",
+    "authors": [
+      "Danny Driess",
+      "F. Xia",
+      "Mehdi S. M. Sajjadi",
+      "Corey Lynch",
+      "A. Chowdhery",
+      "Brian Ichter",
+      "Ayzaan Wahid",
+      "Jonathan Tompson",
+      "Q. Vuong",
+      "Tianhe Yu",
+      "Wenlong Huang",
+      "Yevgen Chebotar",
+      "P. Sermanet",
+      "Daniel Duckworth",
+      "S. Levine",
+      "Vincent Vanhoucke",
+      "Karol Hausman",
+      "Marc Toussaint",
+      "Klaus Greff",
+      "Andy Zeng",
+      "Igor Mordatch",
+      "Peter R. Florence"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/38fe8f324d2162e63a967a9ac6648974fc4c66f3"
+  },
+  "Chen2025MultimodalAR": {
+    "title": "Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees",
+    "bibtex": "@Article{Chen2025MultimodalAR,\n author = {Hongpeng Chen and Shimin Liu and Zhiyuan Li and D. Navarro-Alarcón and Pai Zheng},\n booktitle = {IEEE/RJS International Conference on Intelligent RObots and Systems},\n journal = {2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},\n pages = {20283-20290},\n title = {Multimodal Autonomous Robotic Long-Horizon Task Planning via Embodied Language Model and Behavior Trees},\n year = {2025}\n}\n",
+    "abstract": "Enabling robotic systems to perform long-horizon manipulation planning in real-world environments based on multimodal embodied perception and comprehension remains a longstanding challenge. Recent advancements in large language models (LLMs) have spurred the development of LLM-based planners; however, these approaches often rely on human-provided textual representations or extensive prompt engineering, lacking the ability to quantitatively interpret the environment. To overcome these limitations, we propose a novel framework that leverages LLMs and vision-language models (VLMs) to perform abstract reasoning and extract task-relevant representations from the environment using grounding mechanisms. To further enhance robotic capabilities, we introduce a systematic approach to constructing robotic skill libraries, enabling efficient generation of feasible and optimal actions. Unlike prior work, our LLM-based task planner reformulates user instructions into Planning Domain Description Language (PDDL) problems and employs Behavior Trees to represent the hierarchical structure of tasks, offering interpretable and modular task execution. Extensive evaluations on diverse real-world long-horizon manipulation tasks demonstrate the effectiveness of the proposed method, achieving an average success rate exceeding 80%. Furthermore, the framework functions as a high-level planner, empowering robots with substantial autonomy in unstructured environments by leveraging multimodal sensor inputs.",
+    "authors": [
+      "Hongpeng Chen",
+      "Shimin Liu",
+      "Zhiyuan Li",
+      "D. Navarro-Alarcón",
+      "Pai Zheng"
+    ],
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/a2adb1151b49a06818864f6e9ffa2231cf331914"
+  },
+  "Li2023ManipLLMEM": {
+    "title": "ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation",
+    "bibtex": "@Article{Li2023ManipLLMEM,\n author = {Xiaoqi Li and Mingxu Zhang and Yiran Geng and Haoran Geng and Yuxing Long and Yan Shen and Renrui Zhang and Jiaming Liu and Hao Dong},\n booktitle = {Computer Vision and Pattern Recognition},\n journal = {2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n pages = {18061-18070},\n title = {ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation},\n year = {2023}\n}\n",
+    "abstract": "Robot manipulation relies on accurately predicting contact points and end-effector directions to ensure successful operation. However, learning-based robot manipulation, trained on a limited category within a simulator, often struggles to achieve generalizability, especially when confronted with extensive categories. Therefore, we introduce an innovative approach for robot manipulation that leverages the robust reasoning capabilities of Multimodal Large Language Models (MLLMs) to enhance the stability and generalization of manipulation. By fine-tuning the injected adapters, we preserve the inherent common sense and reasoning ability of the MLLMs while equipping them with the ability for manipulation. The fundamental insight lies in the introduced fine-tuning paradigm, encompassing object category understanding, affordance prior reasoning, and object-centric pose prediction to stimulate the reasoning ability of MLLM in manipulation. During inference, our approach utilizes an RGB image and text prompt to predict the end effector's pose in chain of thoughts. After the initial contact is established, an active impedance adaptation policy is introduced to plan the upcoming way-points in a closed-loop manner. Moreover, in real world, we design a test-time adaptation (TTA) strategy for manipulation to enable the model better adapt to the current real-world scene configuration. Experiments in simulator and real-world show the promising performance of Mani-pLLM. More details and demonstrations can be found at https://sites.google.com/view/manipllm.",
+    "authors": [
+      "Xiaoqi Li",
+      "Mingxu Zhang",
+      "Yiran Geng",
+      "Haoran Geng",
+      "Yuxing Long",
+      "Yan Shen",
+      "Renrui Zhang",
+      "Jiaming Liu",
+      "Hao Dong"
+    ],
+    "venue": "Computer Vision and Pattern Recognition",
+    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/d23662d2275498f4fa7a937dabd60fbc7faf9c14"
+  },
+  "Bamatraf2024VariableNS": {
+    "title": "Variable Neighborhood Search for Minimizing the Makespan in a Uniform Parallel Machine Scheduling",
+    "bibtex": "@Article{Bamatraf2024VariableNS,\n author = {Khaled Bamatraf and A. Gharbi},\n booktitle = {Syst.},\n journal = {Syst.},\n pages = {221},\n title = {Variable Neighborhood Search for Minimizing the Makespan in a Uniform Parallel Machine Scheduling},\n volume = {12},\n year = {2024}\n}\n",
+    "abstract": "This paper investigates a uniform parallel machine scheduling problem for makespan minimization. Due to the problem’s NP-hardness, much effort from researchers has been directed toward proposing heuristic and metaheuristic algorithms that can find an optimal or a near-optimal solution in a reasonable amount of time. This work proposes two versions of a variable neighborhood search (VNS) algorithm with five neighborhood structures, differing in their initial solution generation strategy. The first uses the longest processing time (LPT) rule, while the second introduces a novel element by utilizing a randomized longest processing time (RLPT) rule. The neighborhood structures for both versions were modified from the literature to account for the variable processing times in uniform parallel machines. We evaluated the performance of both VNS versions using a numerical example, comparing them against a genetic algorithm and a tabu search from existing literature. Results showed that the proposed VNS algorithms were competitive and obtained the optimal solution with much less effort. Additionally, we assessed the performance of the VNS algorithms on randomly generated instances. For small-sized instances, we compared their performance against the optimal solution obtained from a mathematical formulation, and against lower bounds derived from the literature for larger instances. Computational results showed that the VNS version with the randomized LPT rule (RLPT) as the initial solution (RVNS) outperformed that with the LPT rule as the initial solution (LVNS). Moreover, RVNS found the optimal solution in 90.19% of the small instances and yielded an average relative gap of about 0.15% for all cases.",
+    "authors": [
+      "Khaled Bamatraf",
+      "A. Gharbi"
+    ],
+    "venue": "Syst.",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/ec2281308bbb5c90a68b48da9dbd81ef31c2d85c"
+  },
+  "Beaton2016MakespanMF": {
+    "title": "Makespan minimization for parallel machine scheduling of semi-resumable and non-resumable jobs with multiple availability constraints",
+    "bibtex": "@Article{Beaton2016MakespanMF,\n author = {Clifford Beaton and C. Diallo and E. Gunn},\n booktitle = {INFOR. Information systems and operational research},\n journal = {INFOR: Information Systems and Operational Research},\n pages = {305 - 316},\n title = {Makespan minimization for parallel machine scheduling of semi-resumable and non-resumable jobs with multiple availability constraints},\n volume = {54},\n year = {2016}\n}\n",
+    "abstract": null,
+    "authors": [
+      "Clifford Beaton",
+      "C. Diallo",
+      "E. Gunn"
+    ],
+    "venue": "INFOR. Information systems and operational research",
+    "year": 2016,
+    "url": "https://www.semanticscholar.org/paper/ddbed481eef2797a7c5eb260b7f88d245ef140c7"
+  },
+  "Ramos-Figueroa2023AnES": {
+    "title": "An Experimental Study of Grouping Mutation Operators for the Unrelated Parallel-Machine Scheduling Problem",
+    "bibtex": "@Article{Ramos-Figueroa2023AnES,\n author = {Octavio Ramos-Figueroa and Marcela Quiroz-Castellanos and E. Mezura-Montes and Nicadro Cruz-Ramírez},\n booktitle = {Mathematical and Computational Applications},\n journal = {Mathematical and Computational Applications},\n title = {An Experimental Study of Grouping Mutation Operators for the Unrelated Parallel-Machine Scheduling Problem},\n year = {2023}\n}\n",
+    "abstract": "The Grouping Genetic Algorithm (GGA) is an extension to the standard Genetic Algorithm that uses a group-based representation scheme and variation operators that work at the group-level. This metaheuristic is one of the most used to solve combinatorial optimization grouping problems. Its optimization process consists of different components, although the crossover and mutation operators are the most recurrent. This article aims to highlight the impact that a well-designed operator can have on the final performance of a GGA. We present a comparative experimental study of different mutation operators for a GGA designed to solve the Parallel-Machine scheduling problem with unrelated machines and makespan minimization, which comprises scheduling a collection of jobs in a set of machines. The proposed approach is focused on identifying the strategies involved in the mutation operations and adapting them to the characteristics of the studied problem. As a result of this experimental study, knowledge of the problem-domain was gained and used to design a new mutation operator called 2-Items Reinsertion. Experimental results indicate that the state-of-the-art GGA performance considerably improves by replacing the original mutation operator with the new one, achieving better results, with an improvement rate of 52%.",
+    "authors": [
+      "Octavio Ramos-Figueroa",
+      "Marcela Quiroz-Castellanos",
+      "E. Mezura-Montes",
+      "Nicadro Cruz-Ramírez"
+    ],
+    "venue": "Mathematical and Computational Applications",
+    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/02f3df161e06f4340fe4cd75253e011e0307ae32"
+  },
+  "Drolet2016DistanceTF": {
+    "title": "Distance to faults as a proxy for radon gas concentration in dwellings.",
+    "bibtex": "@Article{Drolet2016DistanceTF,\n author = {J. Drolet and R. Martel},\n booktitle = {Journal of Environmental Radioactivity},\n journal = {Journal of environmental radioactivity},\n pages = {\n          8-15\n        },\n title = {Distance to faults as a proxy for radon gas concentration in dwellings.},\n volume = {152},\n year = {2016}\n}\n",
+    "abstract": null,
+    "authors": [
+      "J. Drolet",
+      "R. Martel"
+    ],
+    "venue": "Journal of Environmental Radioactivity",
+    "year": 2016,
+    "url": "https://www.semanticscholar.org/paper/96bf101b6aa25439477b12c0004760189f03fd2c"
+  },
+  "Bhurawat2025IoTBasedET": {
+    "title": "IoT-Based Emergency Tracking System for Women Safety with Real-Time Location Alerts and Panic Button Activation",
+    "bibtex": "@Conference{Bhurawat2025IoTBasedET,\n author = {Keshi Bhurawat and Shreya Bangde and Richa R. Khandelwal},\n booktitle = {2025 International Conference on Computing and Communications (COMPUTINGCON)},\n journal = {2025 International Conference on Computing and Communications (COMPUTINGCON)},\n pages = {1-6},\n title = {IoT-Based Emergency Tracking System for Women Safety with Real-Time Location Alerts and Panic Button Activation},\n year = {2025}\n}\n",
+    "abstract": "In the era of increasing safety concerns, swift action during emergencies is important especially within cities. This paper presents an IoT system for personal tracking and alerts using the ESP32 microcontroller for design and implementation. For SMS alerts in real-time, the system integrates a GSM module (SIM800L) as well as a GPS module for purposes of location tracking. A panic button initiates the system into emergency mode. In this mode, the system sends a live location to the mobile number that is registered every minute. Concurrently, the system uses longitude and latitude to compute the distance to the closest hospital and police station using a mathematical equation that measures the great-circle distance between two points on the Earth's surface -the Haversine formula. An emergency contact for a person receives the locations that are identified via SMS, along with Google Maps links and distances. ThingSpeak IoT cloud also receives the GPS data. Data are logged into the cloud in the form of latitudes and longitudes of the user's current location. GSM/Wi-Fi communication, low-power microcontrollers, and geospatial mathematics combine to offer an affordable, compact solution for emergency response scenarios.",
+    "authors": [
+      "Keshi Bhurawat",
+      "Shreya Bangde",
+      "Richa R. Khandelwal"
+    ],
+    "venue": "2025 International Conference on Computing and Communications (COMPUTINGCON)",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/d37dca079703f4bc2ef5e7939d28fd4eb8907bdd"
+  },
+  "Baskar2021AFL": {
+    "title": "A facility location model for marine applications",
+    "bibtex": "@Article{Baskar2021AFL,\n author = {A. Baskar and M. A. Xavior},\n journal = {Materials Today: Proceedings},\n title = {A facility location model for marine applications},\n year = {2021}\n}\n",
+    "abstract": "Abstract In any facility location problem, some measure of point-to-point distance is a fundamental consideration. The distance metric may be based on a straight line, rectilinear, great circle. Cosine or similar. Though Euclidean distance is used in most of the applications, it may not yield accurate results when the data points are located on Earth surface and are fairly separated. Great Circle Distance is used in such cases assuming the Earth as a perfect sphere, though it is not so. Vincenty’s formulae are based on an ellipsoidal model of the Earth and report better results. This paper proposes and analyses a simple model using Vincenty’s formulae and compared it with the Haversine formula which is used to calculate the great circle distance. One and two collection points are optimally located for 10 supply points using Weiszfeld iterative algorithm. Though this model can be readily applied for marine applications like oil rigs, drill ships, floating production systems and other drilling barges; they can be used on land also with suitable modifications.",
+    "authors": [
+      "A. Baskar",
+      "M. A. Xavior"
+    ],
+    "venue": "",
+    "year": 2021,
+    "url": "https://www.semanticscholar.org/paper/600e69e2bbadf63c612e9958c0359bf7bcf3abe0"
+  },
+  "Lyu2023DecentralizedSN": {
+    "title": "Decentralized Safe Navigation for Multi-agent Systems via Risk-aware Weighted Buffered Voronoi Cells",
+    "bibtex": "@Article{Lyu2023DecentralizedSN,\n author = {Yiwei Lyu and J. Dolan and Wenhao Luo},\n booktitle = {Adaptive Agents and Multi-Agent Systems},\n pages = {1476-1484},\n title = {Decentralized Safe Navigation for Multi-agent Systems via Risk-aware Weighted Buffered Voronoi Cells},\n year = {2023}\n}\n",
+    "abstract": "In this paper, we propose Risk-aware Weighted Buffered Voronoi tessellation, a variant of Generalized Voronoi tessellation, for decentralized multi-agent collision-free navigation. Inherited from the traditional Voronoi tessellation, a safety guarantee in terms of inter-robot collision avoidance is achieved by partitioning the joint state space of the multi-agent system into individual cells that constrain each individual agent's motion in a distributed manner. Different from many existing Voronoi tessellations-based collision avoidance approaches, our Risk-aware Weighted Buffered Voronoi Cell (Risk-aware WBVC) partition not only takes agent positional information into account, but also the motion information when determining the cell boundaries between pairwise robots. Our risk-aware WBVC relies on the novel use of Control Barrier Functions (CBF) as a measure of risk evaluation that captures to what extent the safety constraints are satisfied between pairwise robots. With that, the cell boundaries of risk-aware WBVC are determined by (1) the varying levels of relative efforts between pairwise agents to respond to potential collisions, and (2) the accumulated risk each agent experiences that is caused by the surrounding agents. This allows for an adaptive constrained space partition among robots that balances between individual's efforts in respecting the safety constraints and the overall threats due to other agents in the environment, e.g. an aggressive robot moving with higher speed requires a relatively larger space for responding to potential collisions, and a less-threatened robot may be expected to yield and make more room for those exposed to higher risk. Rigorous proofs of formal safety guarantees are provided and simulations are demonstrated on up to 16 robots to show the effectiveness of our method.",
+    "authors": [
+      "Yiwei Lyu",
+      "J. Dolan",
+      "Wenhao Luo"
+    ],
+    "venue": "Adaptive Agents and Multi-Agent Systems",
+    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/1a5016c6c6e74bfff1c567dda07e5f0bc24028d4"
+  },
+  "Lyu2023CBFinspiredWB": {
+    "title": "CBF-inspired Weighted Buffered Voronoi Cells for Distributed Multi-agent Collision Avoidance",
+    "bibtex": "@Article{Lyu2023CBFinspiredWB,\n author = {Yiwei Lyu and J. Dolan and Wenhao Luo},\n booktitle = {American Control Conference},\n journal = {2023 American Control Conference (ACC)},\n pages = {4513-4518},\n title = {CBF-inspired Weighted Buffered Voronoi Cells for Distributed Multi-agent Collision Avoidance},\n year = {2023}\n}\n",
+    "abstract": "In this paper, we introduce Risk-aware Weighted Buffered Voronoi tessellation, a variant of the Generalized Voronoi tessellation. Inherited from traditional Voronoi tessellation, safety guarantees in terms of collision avoidance are provided by partitioning the joint state space of the multi-agent system into individual cells to constrain each individual agent’s motion in a distributed manner. Different from existing Weighted Buffered Voronoi tessellations, our CBF-inspired Weighted Buffered Voronoi Cell (CBF-inspired WBVC) partition not only takes agent positional information into account, but also their motion information when determining the cell boundaries. Cell partitioning is conducted based on risk evaluation of the possibility to collide, in which Control Barrier Function is leveraged to capture the behavior of how the agents approach their safety boundaries in a model-based way. In other words, for any point in the joint state space, the cell assignment criteria are not solely based on how close it is to each agent, but on how much risk it experiences generated by each agent. With our Control Barrier Function-inspired risk measurement, the weight of CBF-inspired WBVC is dynamically updated and biases the boundary towards the agents exposed to higher accumulated risk caused by inter-agent interactions. In this way, by taking the neighbors of the neighbors into account with aggregated risk evaluation, agents facing higher risk from multi-agent interaction can have larger relative cells compared to agents exposed to lower risk. With our proposed CBF-inspired WBVC, multi-agent systems are able to perform tasks in a risk-aware manner with the enhanced knowledge of risk provided by the CBF-inspired risk evaluation framework, but without requiring the use of a CBF-based controller. It is therefore generally applicable to various agent controllers while providing safety guarantees.",
+    "authors": [
+      "Yiwei Lyu",
+      "J. Dolan",
+      "Wenhao Luo"
+    ],
+    "venue": "American Control Conference",
+    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/e85db473b0c33374cc34594a5df7e71daaf8d541"
+  },
+  "Zhu2022DecentralizedPM": {
+    "title": "Decentralized probabilistic multi-robot collision avoidance using buffered uncertainty-aware Voronoi cells",
+    "bibtex": "@Article{Zhu2022DecentralizedPM,\n author = {Hai Zhu and B. Brito and Javier Alonso-Mora},\n booktitle = {Autonomous Robots},\n journal = {Autonomous Robots},\n pages = {401 - 420},\n title = {Decentralized probabilistic multi-robot collision avoidance using buffered uncertainty-aware Voronoi cells},\n volume = {46},\n year = {2022}\n}\n",
+    "abstract": "In this paper, we present a decentralized and communication-free collision avoidance approach for multi-robot systems that accounts for both robot localization and sensing uncertainties. The approach relies on the computation of an uncertainty-aware safe region for each robot to navigate among other robots and static obstacles in the environment, under the assumption of Gaussian-distributed uncertainty. In particular, at each time step, we construct a chance-constrained buffered uncertainty-aware Voronoi cell (B-UAVC) for each robot given a specified collision probability threshold. Probabilistic collision avoidance is achieved by constraining the motion of each robot to be within its corresponding B-UAVC, i.e. the collision probability between the robots and obstacles remains below the specified threshold. The proposed approach is decentralized, communication-free, scalable with the number of robots and robust to robots’ localization and sensing uncertainties. We applied the approach to single-integrator, double-integrator, differential-drive robots, and robots with general nonlinear dynamics. Extensive simulations and experiments with a team of ground vehicles, quadrotors, and heterogeneous robot teams are performed to analyze and validate the proposed approach.",
+    "authors": [
+      "Hai Zhu",
+      "B. Brito",
+      "Javier Alonso-Mora"
+    ],
+    "venue": "Autonomous Robots",
+    "year": 2022,
+    "url": "https://www.semanticscholar.org/paper/21de794c98c52666a27154c81df42886c914bc64"
+  },
+  "Ma2024MotionPF": {
+    "title": "Motion Planning for Multi-Agent Systems with Obstacles Based on Buffered Voronoi Cell",
+    "bibtex": "@Conference{Ma2024MotionPF,\n author = {Meng Ma and Quoc-Viet Dang},\n booktitle = {2024 IEEE 2nd International Conference on Control, Electronics and Computer Technology (ICCECT)},\n journal = {2024 IEEE 2nd International Conference on Control, Electronics and Computer Technology (ICCECT)},\n pages = {386-392},\n title = {Motion Planning for Multi-Agent Systems with Obstacles Based on Buffered Voronoi Cell},\n year = {2024}\n}\n",
+    "abstract": "This thesis presents a decentralized motion planning algorithm for multi-robot systems in the environment with static obstacles. In the proposed algorithm, the environment is divided into several obstacle-free convex spaces to make sure tools like convex programming can be used and the algorithm do not lead the robot to local minima points. In each time step, the robot finds the largest obstacle-free convex area containing its current position and builds a buffered Voronoi cell based on the position information of the robots in its obstacle-free convex area. Within the buffered Voronoi Cell the robot can move freely without collision. A prediction and recovery mechanism is employed to solve the deadlock that occurred between robots and obstacles. The simulation results indicate that the proposed algorithm can solve the problem effectively for single integrator dynamics robots without non-holonomic constraints in 2D. The idea of the algorithm can also be extended into 3D for Unmanned Aerial Vehicles (UAVs).",
+    "authors": [
+      "Meng Ma",
+      "Quoc-Viet Dang"
+    ],
+    "venue": "2024 IEEE 2nd International Conference on Control, Electronics and Computer Technology (ICCECT)",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/e2cd7b68f287cda82c7bfb9be53682a61438dd5f"
+  },
+  "Lin2025ProbabilisticTG": {
+    "title": "Probabilistic Trajectory Generation Based on Distributed Model Predictive Control for Multi-Robot Systems",
+    "bibtex": "@Conference{Lin2025ProbabilisticTG,\n author = {Jie Lin and Li Dai and Yunshan Deng and Peizhang Wang and Yuanqing Xia},\n booktitle = {Chinese Control and Decision Conference},\n journal = {2025 37th Chinese Control and Decision Conference (CCDC)},\n pages = {633-638},\n title = {Probabilistic Trajectory Generation Based on Distributed Model Predictive Control for Multi-Robot Systems},\n year = {2025}\n}\n",
+    "abstract": "This paper proposes a probabilistic trajectory generation algorithm based on distributed model predictive control (MPC) for multi-robot systems in the presence of state estimation noises and motion disturbances. Our method enhances collision avoidance by incorporating uncertainties through the time-aware Safe Corridor (TASC) formulation. Considering the uncertainties, we establish collision avoidance chance constraints by transforming probabilistic conditions into deterministic constraints on the mean and covariance of robot states. To prevent potential deadlocks, we introduce a resolution strategy that combines a warning band with the right-hand rule. These chance constraints and the deadlock resolution strategy are integrated into the distributed MPC framework to generate locally optimal trajectories. Simulation results show that our approach significantly improves both safety and stability in uncertain environments.",
+    "authors": [
+      "Jie Lin",
+      "Li Dai",
+      "Yunshan Deng",
+      "Peizhang Wang",
+      "Yuanqing Xia"
+    ],
+    "venue": "Chinese Control and Decision Conference",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/6fecbaedd64e708de4c2cefc49636f20a4b2a9da"
+  },
+  "Hailu2025ForecastDrivenMF": {
+    "title": "Forecast-Driven MPC for Decentralized Multi-Robot Collision Avoidance",
+    "bibtex": "@Article{Hailu2025ForecastDrivenMF,\n author = {Hadush Hailu and Bruk Gebregziabher and Prudhvi Raj},\n booktitle = {2025 8th International Conference on Intelligent Robotics and Control Engineering (IRCE)},\n journal = {2025 8th International Conference on Intelligent Robotics and Control Engineering (IRCE)},\n pages = {44-51},\n title = {Forecast-Driven MPC for Decentralized Multi-Robot Collision Avoidance},\n year = {2025}\n}\n",
+    "abstract": "The Iterative Forecast Planner (IFP) is a geometric planning approach that offers lightweight computations, scalable, and reactive solutions for multi-robot path planning in decentralized, communication-free settings. However, it struggles in symmetric configurations, where mirrored interactions often lead to collisions and deadlocks. We introduce eIFP-MPC, an optimized and extended version of IFP that improves robustness and path consistency in dense, dynamic environments. The method refines threat prioritization using a time-to-collision heuristic, stabilizes path generation through cost-based viapoint selection, and ensures dynamic feasibility by incorporating model predictive control (MPC) into the planning process. These enhancements are tightly integrated into the IFP to preserve its efficiency while improving its adaptability and stability. Extensive simulations across symmetric and high-density scenarios show that eIFP-MPC significantly reduces oscillations, ensures collision-free motion, and improves trajectory efficiency. The results demonstrate that geometric planners can be strengthened through optimization, enabling robust performance at scale in complex multi-agent environments.",
+    "authors": [
+      "Hadush Hailu",
+      "Bruk Gebregziabher",
+      "Prudhvi Raj"
+    ],
+    "venue": "2025 8th International Conference on Intelligent Robotics and Control Engineering (IRCE)",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/55629a15ccba692c721d1f40450c1ccae5ac24ba"
+  },
+  "Saeedinia2022TheSO": {
+    "title": "The synergy of the multi-modal MPC and Q-learning approach for the navigation of a three-wheeled omnidirectional robot based on the dynamic model with obstacle collision avoidance purposes",
+    "bibtex": "@Article{Saeedinia2022TheSO,\n author = {S. Saeedinia and Mehdi Tale Masouleh},\n booktitle = {Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science},\n journal = {Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science},\n pages = {9716 - 9729},\n title = {The synergy of the multi-modal MPC and Q-learning approach for the navigation of a three-wheeled omnidirectional robot based on the dynamic model with obstacle collision avoidance purposes},\n volume = {236},\n year = {2022}\n}\n",
+    "abstract": "This paper proposes a new navigation control scheme for a three-wheel OMnidirectional Robot (OMR), taking into account the dynamic constraints with the aim of collision avoidance in dynamic environments. The proposed control strategy is inherently a multi-modal adaptive-Reinforcing model-based controller (MAR-MPC), which can be regarded as a judicious synergy of multi-modal MPC (MMPC) and Q-Learning (QL) to optimal navigation. This method takes advantage of a larger convergence area, compared to MMPC and MPC, and presents near-optimal MPC performance. The navigation scheme utilizes an online stochastic observer, namely, a Kalman filter, to estimate the future state of the robot. This paper formulates a general collision avoidance navigation problem in a constrained linear convex cone structure to make it real-time implementable. Furthermore, the proposed multi-modal path planning algorithm reduces the required prediction horizon and consequently affects computational cost. To evaluate the performance of the proposed navigation strategy, two static and two dynamic environment instances are simulated, and the results are compared with four algorithms, namely, Exploring Random Tree (RRT), Potential Field (PF), MPC, and MMPC. Results indicate the superior performance of the proposed navigation method in aspects of time and distance costs and collision avoidance criterion. Moreover, the proposed algorithm provides the feasibility and stability guarantee and a larger convergence region.",
+    "authors": [
+      "S. Saeedinia",
+      "Mehdi Tale Masouleh"
+    ],
+    "venue": "Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science",
+    "year": 2022,
+    "url": "https://www.semanticscholar.org/paper/0b9f097ccf3d1ae1d2f0b2c922405fb0b45ea160"
+  },
+  "Fu2022DatadrivenRD": {
+    "title": "Data-driven robust distributed MPC for collision avoidance formation navigation of constrained nonholonomic multi-robot systems",
+    "bibtex": "@Conference{Fu2022DatadrivenRD,\n author = {Junjie Fu and G. Wen},\n booktitle = {2022 4th International Conference on Data-driven Optimization of Complex Systems (DOCS)},\n journal = {2022 4th International Conference on Data-driven Optimization of Complex Systems (DOCS)},\n pages = {1-5},\n title = {Data-driven robust distributed MPC for collision avoidance formation navigation of constrained nonholonomic multi-robot systems},\n year = {2022}\n}\n",
+    "abstract": "In this work, we consider the robust collision avoidance formation navigation problem for multiple constrained nonholonomic robots with uncertain dynamics. Distributed model predictive control (MPC) based method is proposed in view of its ability to handle the input and state constraints of the robots explicitly. A synchronous non-iterative distributed algorithm is employed which reduces the communication requirement of the system. Furthermore, to enable the state trajectory prediction under uncertain robot dynamics, a data-driven online learning method is proposed to generate an accurate model of the nonholonomic robots adaptively. Based on the proposed control strategy, it is shown that robust collision avoidance formation navigation is successfully achieved while the input and state constraints of the robots are satisfied. Simulation examples are given to demonstrate the performance of the data-driven learning method and the distributed MPC based formation navigation controller.",
+    "authors": [
+      "Junjie Fu",
+      "G. Wen"
+    ],
+    "venue": "2022 4th International Conference on Data-driven Optimization of Complex Systems (DOCS)",
+    "year": 2022,
+    "url": "https://www.semanticscholar.org/paper/ddfef327fb62732a5950c59e1215d1fa8dffdbea"
+  },
+  "Xing2022CollisionAD": {
+    "title": "Collision and Deadlock Avoidance in Multi-Robot Systems Based on Glued Nodes",
+    "bibtex": "@Article{Xing2022CollisionAD,\n author = {Zichao Xing and Xinyu Chen and Xingkai Wang and Weimin Wu and Ruifen Hu},\n booktitle = {IEEE CAA J. Autom. Sinica},\n journal = {IEEE CAA J. Autom. Sinica},\n pages = {1327-1330},\n title = {Collision and Deadlock Avoidance in Multi-Robot Systems Based on Glued Nodes},\n volume = {9},\n year = {2022}\n}\n",
+    "abstract": null,
+    "authors": [
+      "Zichao Xing",
+      "Xinyu Chen",
+      "Xingkai Wang",
+      "Weimin Wu",
+      "Ruifen Hu"
+    ],
+    "venue": "IEEE CAA J. Autom. Sinica",
+    "year": 2022,
+    "url": "https://www.semanticscholar.org/paper/17daf76112634d7c8d88d133ef7b603787607874"
+  },
+  "Kong2025CurrentSO": {
+    "title": "Current Stress Optimization-Based Unbiased Model Predictive Control for Dual Active Bridge Converters",
+    "bibtex": "@Conference{Kong2025CurrentSO,\n author = {Dehao Kong and Heyang Sun and Chuang Liu and Jose Rodriguez and Ralph M. Kennel and M. Heldwein},\n booktitle = {2025 IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE)},\n journal = {2025 IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE)},\n pages = {1-6},\n title = {Current Stress Optimization-Based Unbiased Model Predictive Control for Dual Active Bridge Converters},\n year = {2025}\n}\n",
+    "abstract": "To improve the power transfer efficiency, dynamic response, and robustness of dual active bridge (DAB) converters, this paper proposes a bias-free model predictive control (MPC) method. First, to mitigate high conduction losses and low conversion efficiency, the Karush-Kuhn-Tucker (KKT) conditions are employed to determine the optimal phase-shift angle for minimizing current stress. Then, a comprehensive set of cost functions is designed to evaluate and optimize candidate control variables, while adaptively correcting the reference commands. This approach eliminates steady-state errors caused by model parameter mismatches and enhances system robustness. Finally, an experimental prototype is developed to validate the effectiveness of the proposed control strategy.",
+    "authors": [
+      "Dehao Kong",
+      "Heyang Sun",
+      "Chuang Liu",
+      "Jose Rodriguez",
+      "Ralph M. Kennel",
+      "M. Heldwein"
+    ],
+    "venue": "2025 IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE)",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/d9065c8d64432812facacf2f9cad956bc104ac34"
+  },
+  "Dan2026FrequencyShapedPO": {
+    "title": "Frequency-Shaped Primal-Dual Optimization for Distributed Model Predictive Control of Nonlinear Multi-Agent Systems",
+    "bibtex": "@Article{Dan2026FrequencyShapedPO,\n author = {Hayato Dan and Daisuke Kurabayashi},\n booktitle = {IEEE Control Systems Letters},\n journal = {IEEE Control Systems Letters},\n pages = {25-30},\n title = {Frequency-Shaped Primal-Dual Optimization for Distributed Model Predictive Control of Nonlinear Multi-Agent Systems},\n volume = {10},\n year = {2026}\n}\n",
+    "abstract": "This letter proposes a distributed model predictive control (DMPC) method for multi-agent systems with smooth nonlinear dynamics and constraints, including pairwise distance constraints for collision avoidance. We cast the finite-horizon DMPC problem as a coupled optimization and apply a fully distributed generalized primal-dual gradient method that requires only neighbor-to-neighbor communication to solve the optimization problem. The update law for the optimization is built from diagonal transfer-function blocks that enable frequency-domain shaping of the iteration dynamics to mitigate oscillations and improve convergence. We show that any equilibrium satisfies the Karush-Kuhn-Tucker (KKT) conditions of the original DMPC problem and prove local convergence under a strong monotonicity assumption around a KKT-point. In a four-robot example, frequency-shaped tuning reduces KKT residuals by one to two orders of magnitude and yields collision-free trajectories comparable to a centralized MPC benchmark.",
+    "authors": [
+      "Hayato Dan",
+      "Daisuke Kurabayashi"
+    ],
+    "venue": "IEEE Control Systems Letters",
+    "year": 2026,
+    "url": "https://www.semanticscholar.org/paper/23985af3d0dbee411fa91490a2c53afce2c444b7"
+  },
+  "Nam2025RobustMP": {
+    "title": "Robust Model Predictive Control for DAB Converters Using Extended Phase Shift Modulation With Minimum Backflow Power and ZVS Design",
+    "bibtex": "@Article{Nam2025RobustMP,\n author = {Nguyen Ngoc Nam and Dong Hun Lee and Young Il Lee},\n booktitle = {IEEE Access},\n journal = {IEEE Access},\n pages = {115248-115262},\n title = {Robust Model Predictive Control for DAB Converters Using Extended Phase Shift Modulation With Minimum Backflow Power and ZVS Design},\n volume = {13},\n year = {2025}\n}\n",
+    "abstract": "This paper introduces a method for deriving an optimal closed-form solution for extended phase shift (EPS) control of a dual active bridge (DAB) DC-DC converter, capable of achieving both minimum backflow power (MBP) and zero-voltage switching (ZVS) conditions. First, backflow power, which significantly impacts the converter’s efficiency, is analyzed and minimized using Karush-Kuhn-Tucker (KKT) conditions. By solving an optimization problem with constraints that include power transfer, ZVS, and EPS conditions, the proposed method provides closed-form solutions for the inner and outer phase shifts. Second, based on the KKT solutions and the output filter, robust model predictive control (RMPC) is designed, taking system parameter uncertainties into account. As a result, the closed-loop control can simultaneously adjust the inner and outer phase shifts, facilitating overall performance improvement. This approach ensures that the converter operates efficiently and reliably, reducing power losses and enhancing efficiency. Finally, to validate the theoretical findings, various real-time simulations on hardware-in-the-loop (HIL) 404 devices are conducted. Furthermore, the effectiveness of the proposed method is demonstrated through comparisons with previous works.",
+    "authors": [
+      "Nguyen Ngoc Nam",
+      "Dong Hun Lee",
+      "Young Il Lee"
+    ],
+    "venue": "IEEE Access",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/d6f2a7052a64b5385a3cb84be0912dea2d40409a"
+  },
+  "Liu2024NewtonMI": {
+    "title": "Newton Methods in Generalized Nash Equilibrium Problems with Applications to Game-Theoretic Model Predictive Control",
+    "bibtex": "@Inproceedings{Liu2024NewtonMI,\n author = {Mushuang Liu and I. Kolmanovsky},\n title = {Newton Methods in Generalized Nash Equilibrium Problems with Applications to Game-Theoretic Model Predictive Control},\n year = {2024}\n}\n",
+    "abstract": "We prove input-to-state stability (ISS) of perturbed Newton-type methods for generalized equations arising from Nash equilibrium (NE) and generalized NE (GNE) problems. This ISS property allows the use of inexact computations in equilibrium-seeking to enable fast solution tracking in dynamic systems such as in model predictive control (MPC). For NE problems, we address the local convergence of perturbed Josephy-Newton methods from the variational inequality (VI) stability analysis, and establish the ISS result under less restrictive regularity conditions compared to the existing results established for nonlinear optimization. Agent-distributed algorithms are also developed. For GNE problems, since they cannot be reduced to VI problems in general, we use semismooth Newton methods to solve the semismooth equations arising from the Karush-Kuhn-Tucker (KKT) systems of the GNE problem and establish the ISS result under a quasi-regularity condition. To illustrate the use of the ISS in dynamic systems, applications to constrained game-theoretic MPC (CG-MPC) are studied with time-distributed solution-tracking for real-time implementation. Boundness of tracking errors is proven. Numerical examples are reported.",
+    "authors": [
+      "Mushuang Liu",
+      "I. Kolmanovsky"
+    ],
+    "venue": "",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/b73831ffb0332b93c8f09c9a15e511d53482c9d2"
+  },
+  "Paris2023GeometricalMM": {
+    "title": "Geometrical Modulated Model Predictive Control With Current Limiting for Power Converters",
+    "bibtex": "@Article{Paris2023GeometricalMM,\n author = {Jean-Michel De Paris and V. Montagner and Daniel Martins Lima and F. Carnielutti and H. Pinheiro},\n booktitle = {IEEE Journal of Emerging and Selected Topics in Power Electronics},\n journal = {IEEE Journal of Emerging and Selected Topics in Power Electronics},\n pages = {4749-4760},\n title = {Geometrical Modulated Model Predictive Control With Current Limiting for Power Converters},\n volume = {11},\n year = {2023}\n}\n",
+    "abstract": "This article introduces a method called geometrical modulated model predictive control (GM2PC) for three-phase power converters. Its objective is to guarantee voltage synthesis, current limiting, fixed switching frequency, no need for weighting factors or cascaded control structure, and fast dynamic response, while also addressing overmodulation issues and distributing PWM signals in cascaded H-bridge (CHB) multilevel converters in a simple and efficient manner. A convex optimization problem is formulated using a discrete-time model to minimize the output tracking error in a three-phase converter connected to an LC output filter. This formulation includes two quadratic constraints and takes into account external disturbances. To solve this problem, the constraints are treated as circular areas within the space vector diagram for current limitation and voltage synthesis. The Karush–Kuhn–Tucker (KKT) conditions are applied to obtain an unconstrained solution that identifies the mode of operation, which is used to geometrically find an optimal solution. Unlike conventional quadratic minimization algorithms, the proposed method does not require recursive solutions nor the analysis of all vectors or sectors in the space vector diagram, reducing significantly the computational burden. The method is validated for a five-level CHB, and the results demonstrate its efficiency and fast control algorithm.",
+    "authors": [
+      "Jean-Michel De Paris",
+      "V. Montagner",
+      "Daniel Martins Lima",
+      "F. Carnielutti",
+      "H. Pinheiro"
+    ],
+    "venue": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/5113385d1213540da7d559fc225be4c6e78225a0"
+  },
+  "Gora2024GaitGO": {
+    "title": "Gait Generation of 22-DOF Humanoid Robot on Hard and Deformable Terrain with Double Support Phase",
+    "bibtex": "@Article{Gora2024GaitGO,\n author = {Sunil Gora and Shakti S. Gupta and Ashish Dutta},\n booktitle = {International Workshop on Robot Motion and Control},\n journal = {2024 13th International Workshop on Robot Motion and Control (RoMoCo)},\n pages = {1-6},\n title = {Gait Generation of 22-DOF Humanoid Robot on Hard and Deformable Terrain with Double Support Phase},\n year = {2024}\n}\n",
+    "abstract": "In real-world application, the humanoid robot may have to walk with each foot placed on terrains having different properties. The effect of terrain parameters can be included in the dynamics using the compliant contact model with a spring and a damper element. In this paper, the humanoid robot is modeled as a spherical inverted pendulum in the single support phase (SSP) and a suspended pendulum in the double support phase (DSP). In the DSP, a pendulum is assumed to be suspended at a virtual support point (VSP), and equivalent terrain parameters are used for contact modeling. The right and left leg foot of the humanoid robot are placed on terrains having different properties. The foot trajectories in the DSP are obtained by resolving forces using minimization of the moment about the VSP. The joint trajectories of the 22-DOF humanoid robot are optimized based on the motion of the simplified model such that the angular momentum about the center of mass (COM) is minimum. The simulation of the floating-base robot proves that the 22-DOF humanoid robot can walk on terrains with different properties by following the COM trajectory of the simplified model.",
+    "authors": [
+      "Sunil Gora",
+      "Shakti S. Gupta",
+      "Ashish Dutta"
+    ],
+    "venue": "International Workshop on Robot Motion and Control",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/169f146c62c2dcd0b2320b237ad6c806a5d89a4f"
+  },
+  "Farivarnejad2020DecentralizedPC": {
+    "title": "Decentralized PD control for multi-robot collective transport to a target location using minimal information",
+    "bibtex": "@Inproceedings{Farivarnejad2020DecentralizedPC,\n author = {Hamed Farivarnejad and S. Berman},\n booktitle = {Defense + Commercial Sensing},\n pages = {1142506 - 1142506-11},\n title = {Decentralized PD control for multi-robot collective transport to a target location using minimal information},\n volume = {11425},\n year = {2020}\n}\n",
+    "abstract": null,
+    "authors": [
+      "Hamed Farivarnejad",
+      "S. Berman"
+    ],
+    "venue": "Defense + Commercial Sensing",
+    "year": 2020,
+    "url": "https://www.semanticscholar.org/paper/1579d5b755e7f57e9e48390bd7586a3087ce9808"
+  },
+  "Mashayekhi2023ANA": {
+    "title": "A New Approach for Simplifying Multi-Degree of Freedom Haptic Device Dynamics Model",
+    "bibtex": "@Article{Mashayekhi2023ANA,\n author = {A. Mashayekhi and Abbas Karami and B. Siciliano},\n booktitle = {Journal of Intelligent and Robotic Systems},\n journal = {Journal of Intelligent & Robotic Systems},\n title = {A New Approach for Simplifying Multi-Degree of Freedom Haptic Device Dynamics Model},\n volume = {108},\n year = {2023}\n}\n",
+    "abstract": null,
+    "authors": [
+      "A. Mashayekhi",
+      "Abbas Karami",
+      "B. Siciliano"
+    ],
+    "venue": "Journal of Intelligent and Robotic Systems",
+    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/b08002462b362b4a36cfe40d24d4c841ad31dcc5"
+  },
+  "Lu2025DecrementalDP": {
+    "title": "Decremental Dynamics Planning for Robot Navigation",
+    "bibtex": "@Article{Lu2025DecrementalDP,\n author = {Yuanjie Lu and Tong Xu and Linji Wang and N. Hawes and Xuesu Xiao},\n booktitle = {IEEE/RJS International Conference on Intelligent RObots and Systems},\n journal = {2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},\n pages = {4559-4565},\n title = {Decremental Dynamics Planning for Robot Navigation},\n year = {2025}\n}\n",
+    "abstract": "Most, if not all, robot navigation systems employ a decomposed planning framework that includes global and local planning. To trade-off onboard computation and plan quality, current systems have to limit all robot dynamics considerations only within the local planner, while leveraging an extremely simplified robot representation (e.g., a point-mass holonomic model without dynamics) in the global level. However, such an artificial decomposition based on either full or zero consideration of robot dynamics can lead to gaps between the two levels, e.g., a global path based on a holonomic point-mass model may not be realizable by a non-holonomic robot, especially in highly constrained obstacle environments. Motivated by such a limitation, we propose a novel paradigm, Decremental Dynamics Planning (DDP)1, that integrates dynamic constraints into the entire planning process, with a focus on high-fidelity dynamics modeling at the beginning and a gradual fidelity reduction as the planning progresses. To validate the effectiveness of this paradigm, we augment three different planners with DDP and show overall improved planning performance. We also develop a new DDP-based navigation system, which achieves second place in both the simulation phase and real-world phase of the 2025 BARN Challenge2. Both simulated and physical experiments validate DDP’s hypothesized benefits.",
+    "authors": [
+      "Yuanjie Lu",
+      "Tong Xu",
+      "Linji Wang",
+      "N. Hawes",
+      "Xuesu Xiao"
+    ],
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/a313c0db4354753a2645c2f6878afc1ba3e2922f"
+  },
+  "Baek2025WholeBodyBT": {
+    "title": "Whole-Body Bilateral Teleoperation with Multi-Stage Object Parameter Estimation for Wheeled Humanoid Locomanipulation",
+    "bibtex": "@Article{Baek2025WholeBodyBT,\n author = {D. Baek and Amartya Purushottam and Jason J. Choi and João Ramos},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {Whole-Body Bilateral Teleoperation with Multi-Stage Object Parameter Estimation for Wheeled Humanoid Locomanipulation},\n volume = {abs/2508.09846},\n year = {2025}\n}\n",
+    "abstract": "This paper presents an object-aware whole-body bilateral teleoperation framework for wheeled humanoid loco-manipulation. This framework combines whole-body bilateral teleoperation with an online multi-stage object inertial parameter estimation module, which is the core technical contribution of this work. The multi-stage process sequentially integrates a vision-based object size estimator, an initial parameter guess generated by a large vision-language model (VLM), and a decoupled hierarchical sampling strategy. The visual size estimate and VLM prior offer a strong initial guess of the object's inertial parameters, significantly reducing the search space for sampling-based refinement and improving the overall estimation speed. A hierarchical strategy first estimates mass and center of mass, then infers inertia from object size to ensure physically feasible parameters, while a decoupled multi-hypothesis scheme enhances robustness to VLM prior errors. Our estimator operates in parallel with high-fidelity simulation and hardware, enabling real-time online updates. The estimated parameters are then used to update the wheeled humanoid's equilibrium point, allowing the operator to focus more on locomotion and manipulation. This integration improves the haptic force feedback for dynamic synchronization, enabling more dynamic whole-body teleoperation. By compensating for object dynamics using the estimated parameters, the framework also improves manipulation tracking while preserving compliant behavior. We validate the system on a customized wheeled humanoid with a robotic gripper and human-machine interface, demonstrating real-time execution of lifting, delivering, and releasing tasks with a payload weighing approximately one-third of the robot's body weight.",
+    "authors": [
+      "D. Baek",
+      "Amartya Purushottam",
+      "Jason J. Choi",
+      "João Ramos"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/47fd10613d78e12a1ac630e85ca492b921d6ec37"
+  },
+  "Farouq2025SafePCAEA": {
+    "title": "SafePCA: Enhancing Autonomous Robot Navigation in Dynamic Crowds Using Proximal Policy Optimization and Cellular Automata",
+    "bibtex": "@Article{Farouq2025SafePCAEA,\n author = {A. Farouq and D. Tran and Joo-Ho Lee},\n booktitle = {IEEE International Conference on Robotics and Automation},\n journal = {2025 IEEE International Conference on Robotics and Automation (ICRA)},\n pages = {10765-10771},\n title = {SafePCA: Enhancing Autonomous Robot Navigation in Dynamic Crowds Using Proximal Policy Optimization and Cellular Automata},\n year = {2025}\n}\n",
+    "abstract": "Navigating robots in dynamic environments, such as human crowds, is a major challenge due to the trade-off between performance and robustness. Traditional reinforcement learning methods, such as Proximal Policy Optimization (PPO), have shown strong adaptation capabilities but require extensive training and lack explicit mechanisms for collision avoidance. On the other hand, rule-based approaches, such as the Dynamic Window Approach (DWA), offer computational efficiency but struggle with generalization to unseen crowd behaviors. The proposed SafePCA framework aims to address this trade-off by integrating Cellular Automata (CA) into PPO-based navigation. CA enhances robustness by predicting high-risk areas based on pedestrian movement patterns, reducing unnecessary collisions. However, this approach may lead to conservative behavior, potentially affecting navigation performance in reaching the goal efficiently. The core research question addressed in this work is whether SafePCA can balance these trade-offs to ensure safe yet efficient robot navigation in dynamic crowds. Experiments demonstrate that SafePCA outperforms traditional PPO by providing superior risk assessment and avoidance strategies, achieving optimal performance with fewer training episodes. SafePCA's real-time adaptability ensures robust navigation in dynamic environments. By leveraging PPO's adaptive learning and CA's risk analysis, SafePCA offers an efficient solution for autonomous robot navigation in crowded environments, advancing the field and broadening application possibilities.",
+    "authors": [
+      "A. Farouq",
+      "D. Tran",
+      "Joo-Ho Lee"
+    ],
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/c6efb9f63bd8bc2fb414e7310637ee8efcb9556b"
+  },
+  "Ding2021DistributedMC": {
+    "title": "Distributed Multi-robot Collision Avoidance Using the Voronoi-based Method",
+    "bibtex": "@Conference{Ding2021DistributedMC,\n author = {Yiran Ding},\n booktitle = {Journal of Physics: Conference Series},\n journal = {Journal of Physics: Conference Series},\n title = {Distributed Multi-robot Collision Avoidance Using the Voronoi-based Method},\n volume = {1948},\n year = {2021}\n}\n",
+    "abstract": "Collision avoidance is a fundamental problem in multi-robot motion planning, enabling robots to coordinate in a safe and efficient manner. In this paper, we introduce several best-known distributed collision avoidance algorithms and present the Voronoi-based method in detail, which assigns optimal dominance regions for robots using the Voronoi diagram, constrains robot motions within the buffered Voronoi diagram, and follows right-hand rule when deadlock happens during navigating to the goals. A series of simulations are conducted to demonstrate the efficacy of collision avoidance guarantee under robot localization uncertainty while avoiding deadlock using our presented algorithm. We claim that such a method is superior to most of the existing distribution methods in a known environment in efficiency of implementation.",
+    "authors": [
+      "Yiran Ding"
+    ],
+    "venue": "Journal of Physics: Conference Series",
+    "year": 2021,
+    "url": "https://www.semanticscholar.org/paper/487fb24d9fde833d10b8a9b07f0dbe5a3c6b5c73"
+  },
+  "Lonklang2024MultiMR": {
+    "title": "Multi Mobile Robots Path Planning by Improved RRT* Algorithm with Right-of-Way Rule",
+    "bibtex": "@Book{Lonklang2024MultiMR,\n author = {Aphilak Lonklang and Haichen Xu and Pedro Alejandro Cordero Jara and János Botzheim},\n booktitle = {ICRSA},\n journal = {Proceedings of the 2024 7th International Conference on Robot Systems and Applications},\n title = {Multi Mobile Robots Path Planning by Improved RRT* Algorithm with Right-of-Way Rule},\n year = {2024}\n}\n",
+    "abstract": "Multi-robot path planning is crucial for various applications, from automated warehouses to search and rescue missions, where efficient and safe navigation of multiple robots is essential. This paper presents the multi-robot path planning algorithm named Improved RRT* with Reduced Random Map Size (IRRT*-RRMS) combined with the Right-of-Way Rule (RoW). The RoW Rule is integrated to lead the local path planning of each robot, ensuring collision-free navigation in multi-robot systems by using the proposed virtual obstacle. The proposed Virtual Obstacle Shape can force the path planning algorithm to avoid unknown obstacles by searching for the optimal solution path on the right-hand side first. Experimental results demonstrate the algorithm’s performance in terms of path optimality, computation time, and adaptability in dynamic environments. The proposed algorithm was implemented in real mobile robots.",
+    "authors": [
+      "Aphilak Lonklang",
+      "Haichen Xu",
+      "Pedro Alejandro Cordero Jara",
+      "János Botzheim"
+    ],
+    "venue": "ICRSA",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/8337f43dc88da1e367cc708694ac8c2617272169"
+  },
+  "Abdullhak2021DeadlockPA": {
+    "title": "Deadlock Prediction and Recovery for Distributed Collision Avoidance with Buffered Voronoi Cells",
+    "bibtex": "@Article{Abdullhak2021DeadlockPA,\n author = {Mohammed Abdullhak and A. Vardy},\n booktitle = {IEEE/RJS International Conference on Intelligent RObots and Systems},\n journal = {2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},\n pages = {429-436},\n title = {Deadlock Prediction and Recovery for Distributed Collision Avoidance with Buffered Voronoi Cells},\n year = {2021}\n}\n",
+    "abstract": "This paper introduces a distributed multi-robot collision avoidance algorithm based on the concept of Buffered Voronoi Cells (BVC). We propose a novel algorithm for avoiding deadlocks consisting of three stages: deadlock prediction, deadlock recovery, and deadlock recovery success prediction. Simple heuristics (such as the right-hand rule) are often used to avoid deadlocks. Such heuristics might reduce deadlock in simple configurations and sparsely populated environments, but they begin to fail in complex configurations and more densely populated environments. We evaluate the performance of our algorithm using an open-source web-based multi-robot simulation. The results show that while the proposed algorithm does not eliminate the occurrence of deadlocks, it drastically reduces their occurrence, and leads to a considerable improvement in performance, especially in high-density environments. We also validate the real-world performance of the proposed algorithm in live experiments.",
+    "authors": [
+      "Mohammed Abdullhak",
+      "A. Vardy"
+    ],
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "year": 2021,
+    "url": "https://www.semanticscholar.org/paper/1a2e55d6ddd21f35dc207aabecd2a90a3b3dd394"
+  },
+  "Riman2023FuzzyLC": {
+    "title": "Fuzzy Logic Control for Mobile Robot Navigation in Automated Storage",
+    "bibtex": "@Article{Riman2023FuzzyLC,\n author = {C. Riman and P. E. Abi-Char},\n booktitle = {International Journal of Mechanical Engineering and Robotics Research},\n journal = {International Journal of Mechanical Engineering and Robotics Research},\n title = {Fuzzy Logic Control for Mobile Robot Navigation in Automated Storage},\n year = {2023}\n}\n",
+    "abstract": "—Automated Storage (AS) are designed to store and retrieve products in specific locations within manufacturing, warehouses, institutions, and others. These AS involve the usage of robots to move the stored items in and out of the warehouse. However, a challenge for AS systems is to solve the path planning for finding shortest path in a minimum amount of time while avoiding collisions with other robots or static obstacles. Fuzzy Logic systems are widely used in several application areas requiring mimicking the human decision logic under uncertainty. In this paper, we proposed an Automated Storage (AS) robot navigation by using three Fuzzy subsystems combined together to ensure path planning with obstacle avoidance. These three fuzzy subsystems are: Reach Target, Avoid Obstacle, and Escape Cul-De-sac. Therefore, fuzzy rules are employed along with the corresponding defuzzication process to control left and right wheel movement steps of the robot. These systems achieve reaching the goal (using the first subsystem) while avoiding different obstacles on the way (using the second subsystem), even the ones that form a trap (using the third subsystem). These three systems will be used for path planning and following. The overall model was simulated using C# code. The initial results showed the effectiveness of the model in different scenarios: namely no obstacles, static ones, traps, and dynamic obstacles. The path length was comparable to that of traditional shortest path methods such as Dijkstra and A*. The results were also compared to a newer method called APSO. The system’s response was quick due to the fewer needed instructions and reduced memory storage needs. All this was done assuming a constant speed for robots and dynamic obstacles.",
+    "authors": [
+      "C. Riman",
+      "P. E. Abi-Char"
+    ],
+    "venue": "International Journal of Mechanical Engineering and Robotics Research",
+    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/f3b28a7d673cb5dc8ebebf31959c68021f4da88c"
+  },
+  "Luo2025HyperGraphRAGRG": {
+    "title": "HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation",
+    "bibtex": "@Inproceedings{Luo2025HyperGraphRAGRG,\n author = {Haoran Luo and E. Haihong and Guanting Chen and Yandan Zheng and Xiaobao Wu and Yikai Guo and Qika Lin and Yu Feng and Ze-min Kuang and Meina Song and Yifan Zhu and Anh Tuan Luu},\n title = {HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation},\n year = {2025}\n}\n",
+    "abstract": "Standard Retrieval-Augmented Generation (RAG) relies on chunk-based retrieval, whereas GraphRAG advances this approach by graph-based knowledge representation. However, existing graph-based RAG approaches are constrained by binary relations, as each edge in an ordinary graph connects only two entities, limiting their ability to represent the n-ary relations (n>= 2) in real-world knowledge. In this work, we propose HyperGraphRAG, a novel hypergraph-based RAG method that represents n-ary relational facts via hyperedges, and consists of knowledge hypergraph construction, retrieval, and generation. Experiments across medicine, agriculture, computer science, and law demonstrate that HyperGraphRAG outperforms both standard RAG and previous graph-based RAG methods in answer accuracy, retrieval efficiency, and generation quality. Our data and code are publicly available at https://github.com/LHRLAB/HyperGraphRAG.",
+    "authors": [
+      "Haoran Luo",
+      "E. Haihong",
+      "Guanting Chen",
+      "Yandan Zheng",
+      "Xiaobao Wu",
+      "Yikai Guo",
+      "Qika Lin",
+      "Yu Feng",
+      "Ze-min Kuang",
+      "Meina Song",
+      "Yifan Zhu",
+      "Anh Tuan Luu"
+    ],
+    "venue": "",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/f9aae0a851d4c58eebad0f48d4324f1bdb7232d4"
+  },
+  "Rani2024AugmentingCS": {
+    "title": "Augmenting Code Sequencing with Retrieval-Augmented Generation (RAG) for Context-Aware Code Synthesis",
+    "bibtex": "@Conference{Rani2024AugmentingCS,\n author = {S. Rani and S. G. Deepika and D. Devdharshini and Harini Ravindran},\n booktitle = {2024 First International Conference on Software, Systems and Information Technology (SSITCON)},\n journal = {2024 First International Conference on Software, Systems and Information Technology (SSITCON)},\n pages = {1-7},\n title = {Augmenting Code Sequencing with Retrieval-Augmented Generation (RAG) for Context-Aware Code Synthesis},\n year = {2024}\n}\n",
+    "abstract": "The growing demand for efficient code generation has driven research into improving Large Language Models (LLMs). This project presents a novel system designed to enhance code generation by leveraging Retrieval-Augmented Generation (RAG), Grounding techniques, and Prompt Parameters. RAG integrates external knowledge to enrich code outputs, while Grounding methods improve the model’s ability to interpret language with real-world context. Prompt Parameters offer flexibility, enabling customized outputs based on user preferences. These methods were implemented and tested on various code generation tasks, resulting in contextually relevant and accurate outputs. The proposed system streamlines software development workflows, reduces errors, and fosters better collaboration between developers and machine-assisted coding tools. Ultimately, this approach represents a significant advancement in automating code generation from natural language descriptions.",
+    "authors": [
+      "S. Rani",
+      "S. G. Deepika",
+      "D. Devdharshini",
+      "Harini Ravindran"
+    ],
+    "venue": "2024 First International Conference on Software, Systems and Information Technology (SSITCON)",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/7ee8252c4350ac2641740c6e406f49cf5fdd37a7"
+  },
+  "Fuchß2025LiSSATG": {
+    "title": "LiSSA: Toward Generic Traceability Link Recovery Through Retrieval- Augmented Generation",
+    "bibtex": "@Article{Fuchß2025LiSSATG,\n author = {Dominik Fuchß and Tobias Hey and Jan Keim and Haoyu Liu and Niklas Ewald and Tobias Thirolf and A. Koziolek},\n booktitle = {International Conference on Software Engineering},\n journal = {2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)},\n pages = {1396-1408},\n title = {LiSSA: Toward Generic Traceability Link Recovery Through Retrieval- Augmented Generation},\n year = {2025}\n}\n",
+    "abstract": "There are a multitude of software artifacts which need to be handled during the development and maintenance of a software system. These artifacts interrelate in multiple, complex ways. Therefore, many software engineering tasks are enabled - and even empowered - by a clear understanding of artifact interrelationships and also by the continued advancement of techniques for automated artifact linking. However, current approaches in automatic Traceability Link Recovery (TLR) target mostly the links between specific sets of artifacts, such as those between requirements and code. Fortu-nately, recent advancements in Large Language Models (LLMs) can enable TLR approaches to achieve broad applicability. Still, it is a nontrivial problem how to provide the LLMs with the specific information needed to perform TLR. In this paper, we present LiSSA, a framework that har-nesses LLM performance and enhances them through Retrieval-Augmented Generation (RAG). We empirically evaluate LiSSA on three different TLR tasks, requirements to code, documentation to code, and architecture documentation to architecture models, and we compare our approach to state-of-the-art approaches. Our results show that the RAG-based approach can signifi-cantly outperform the state-of-the-art on the code-related tasks. However, further research is required to improve the performance of RAG-based approaches to be applicable in practice.",
+    "authors": [
+      "Dominik Fuchß",
+      "Tobias Hey",
+      "Jan Keim",
+      "Haoyu Liu",
+      "Niklas Ewald",
+      "Tobias Thirolf",
+      "A. Koziolek"
+    ],
+    "venue": "International Conference on Software Engineering",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/1432d10f4adb9fcf949ec19f6de5122bc654004a"
+  },
+  "Yin2025CoCoBenchAC": {
+    "title": "CoCo-Bench: A Comprehensive Code Benchmark For Multi-task Large Language Model Evaluation",
+    "bibtex": "@Article{Yin2025CoCoBenchAC,\n author = {Wenjing Yin and Tianze Sun and Yijiong Yu and Jiawei Fang and Guangyao Su and Jianchen Wang and Ze Wang and Wei Wang and Ran Chen and Ziyun Dai and Shuai Yuan and Menghang Dong and Peng Luo and Dong Cao and Da Lei and Yajun Zhang and Hao Chen and Xiang Ma and Yong Liu and Weifeng Liu and Yuanjian Xu and Jingfei Pei},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {CoCo-Bench: A Comprehensive Code Benchmark For Multi-task Large Language Model Evaluation},\n volume = {abs/2504.20673},\n year = {2025}\n}\n",
+    "abstract": "Large language models (LLMs) play a crucial role in software engineering, excelling in tasks like code generation and maintenance. However, existing benchmarks are often narrow in scope, focusing on a specific task and lack a comprehensive evaluation framework that reflects real-world applications. To address these gaps, we introduce CoCo-Bench (Comprehensive Code Benchmark), designed to evaluate LLMs across four critical dimensions: code understanding, code generation, code modification, and code review. These dimensions capture essential developer needs, ensuring a more systematic and representative evaluation. CoCo-Bench includes multiple programming languages and varying task difficulties, with rigorous manual review to ensure data quality and accuracy. Empirical results show that CoCo-Bench aligns with existing benchmarks while uncovering significant variations in model performance, effectively highlighting strengths and weaknesses. By offering a holistic and objective evaluation, CoCo-Bench provides valuable insights to guide future research and technological advancements in code-oriented LLMs, establishing a reliable benchmark for the field.",
+    "authors": [
+      "Wenjing Yin",
+      "Tianze Sun",
+      "Yijiong Yu",
+      "Jiawei Fang",
+      "Guangyao Su",
+      "Jianchen Wang",
+      "Ze Wang",
+      "Wei Wang",
+      "Ran Chen",
+      "Ziyun Dai",
+      "Shuai Yuan",
+      "Menghang Dong",
+      "Peng Luo",
+      "Dong Cao",
+      "Da Lei",
+      "Yajun Zhang",
+      "Hao Chen",
+      "Xiang Ma",
+      "Yong Liu",
+      "Weifeng Liu",
+      "Yuanjian Xu",
+      "Jingfei Pei"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/fec9e093490721edfb7be9a154dcc4adaf7b2688"
+  },
+  "Xiang2025ModiGenAL": {
+    "title": "ModiGen: A Large Language Model-Based Workflow for Multi-Task Modelica Code Generation",
+    "bibtex": "@Article{Xiang2025ModiGenAL,\n author = {Jiahui Xiang and Tong Ye and Peiyu Liu and Yinan Zhang and Wenhai Wang},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {ModiGen: A Large Language Model-Based Workflow for Multi-Task Modelica Code Generation},\n volume = {abs/2503.18460},\n year = {2025}\n}\n",
+    "abstract": "Modelica is a widely adopted language for simulating complex physical systems, yet effective model creation and optimization require substantial domain expertise. Although large language models (LLMs) have demonstrated promising capabilities in code generation, their application to modeling remains largely unexplored. To address this gap, we have developed benchmark datasets specifically designed to evaluate the performance of LLMs in generating Modelica component models and test cases. Our evaluation reveals substantial limitations in current LLMs, as the generated code often fails to simulate successfully. To overcome these challenges, we propose a specialized workflow that integrates supervised fine-tuning, graph retrieval-augmented generation, and feedback optimization to improve the accuracy and reliability of Modelica code generation. The evaluation results demonstrate significant performance gains: the maximum improvement in pass@1 reached 0.3349 for the component generation task and 0.2457 for the test case generation task. This research underscores the potential of LLMs to advance intelligent modeling tools and offers valuable insights for future developments in system modeling and engineering applications.",
+    "authors": [
+      "Jiahui Xiang",
+      "Tong Ye",
+      "Peiyu Liu",
+      "Yinan Zhang",
+      "Wenhai Wang"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/279f766dda04733d88f70bd02f7b86aa9355631c"
+  },
+  "Yang2025APICoderAM": {
+    "title": "APICoder: A Multi-Role Large Language Model Framework for API Service Call Code Generation",
+    "bibtex": "@Article{Yang2025APICoderAM,\n author = {Conghui Yang and Lei Yu and Huafeng Su and Xiang Zhou},\n booktitle = {2025 IEEE International Conference on Web Services (ICWS)},\n journal = {2025 IEEE International Conference on Web Services (ICWS)},\n pages = {849-851},\n title = {APICoder: A Multi-Role Large Language Model Framework for API Service Call Code Generation},\n year = {2025}\n}\n",
+    "abstract": "With the rapid advancement of large language models (LLMs) in code generation, the task of API service invocation code generation faces increasing challenges such as inaccurate context understanding, improper API selection, and outdated data. To address these issues, this paper constructs a high-quality dataset, APIDataset, and fine-tunes the DeepSeek-Coder-V2-Lite-Instruct model based on this dataset. We further integrate a retrieval-augmented generation (RAG) approach to enhance the model's contextual comprehension capabilities. Moreover, we propose APICoder, a multi-role collaborative framework that optimizes different stages of code generation, significantly improving the quality of generated API invocation code. Finally, we develop the APITest benchmark and conduct two rounds of evaluation combining both API-specific and general code generation test sets. Experimental results demonstrate that APICoder achieves superior performance in both API invocation and general code generation tasks, validating its effectiveness and practical potential.",
+    "authors": [
+      "Conghui Yang",
+      "Lei Yu",
+      "Huafeng Su",
+      "Xiang Zhou"
+    ],
+    "venue": "2025 IEEE International Conference on Web Services (ICWS)",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/0b28e1ea8d7bba2c16713d9f75e805cd6495d1f2"
+  },
+  "Wang2025MIRIXMM": {
+    "title": "MIRIX: Multi-Agent Memory System for LLM-Based Agents",
+    "bibtex": "@Article{Wang2025MIRIXMM,\n author = {Yu Wang and Xi Chen},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {MIRIX: Multi-Agent Memory System for LLM-Based Agents},\n volume = {abs/2507.07957},\n year = {2025}\n}\n",
+    "abstract": "Although memory capabilities of AI agents are gaining increasing attention, existing solutions remain fundamentally limited. Most rely on flat, narrowly scoped memory components, constraining their ability to personalize, abstract, and reliably recall user-specific information over time. To this end, we introduce MIRIX, a modular, multi-agent memory system that redefines the future of AI memory by solving the field's most critical challenge: enabling language models to truly remember. Unlike prior approaches, MIRIX transcends text to embrace rich visual and multimodal experiences, making memory genuinely useful in real-world scenarios. MIRIX consists of six distinct, carefully structured memory types: Core, Episodic, Semantic, Procedural, Resource Memory, and Knowledge Vault, coupled with a multi-agent framework that dynamically controls and coordinates updates and retrieval. This design enables agents to persist, reason over, and accurately retrieve diverse, long-term user data at scale. We validate MIRIX in two demanding settings. First, on ScreenshotVQA, a challenging multimodal benchmark comprising nearly 20,000 high-resolution computer screenshots per sequence, requiring deep contextual understanding and where no existing memory systems can be applied, MIRIX achieves 35% higher accuracy than the RAG baseline while reducing storage requirements by 99.9%. Second, on LOCOMO, a long-form conversation benchmark with single-modal textual input, MIRIX attains state-of-the-art performance of 85.4%, far surpassing existing baselines. These results show that MIRIX sets a new performance standard for memory-augmented LLM agents. To allow users to experience our memory system, we provide a packaged application powered by MIRIX. It monitors the screen in real time, builds a personalized memory base, and offers intuitive visualization and secure local storage to ensure privacy.",
+    "authors": [
+      "Yu Wang",
+      "Xi Chen"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/a38a3460a68c50270548977e66162e92f195334c"
+  },
+  "Jiang2026LSTMMASAL": {
+    "title": "LSTM-MAS: A Long Short-Term Memory Inspired Multi-Agent System for Long-Context Understanding",
+    "bibtex": "@Article{Jiang2026LSTMMASAL,\n author = {Yichen Jiang and Peng Ye and Jiakang Yuan and Chongjun Tu and Lei Bai and Tao Chen},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {LSTM-MAS: A Long Short-Term Memory Inspired Multi-Agent System for Long-Context Understanding},\n volume = {abs/2601.11913},\n year = {2026}\n}\n",
+    "abstract": "Effectively processing long contexts remains a fundamental yet unsolved challenge for large language models (LLMs). Existing single-LLM-based methods primarily reduce the context window or optimize the attention mechanism, but they often encounter additional computational costs or constrained expanded context length. While multi-agent-based frameworks can mitigate these limitations, they remain susceptible to the accumulation of errors and the propagation of hallucinations. In this work, we draw inspiration from the Long Short-Term Memory (LSTM) architecture to design a Multi-Agent System called LSTM-MAS, emulating LSTM's hierarchical information flow and gated memory mechanisms for long-context understanding. Specifically, LSTM-MAS organizes agents in a chained architecture, where each node comprises a worker agent for segment-level comprehension, a filter agent for redundancy reduction, a judge agent for continuous error detection, and a manager agent for globally regulates information propagation and retention, analogous to LSTM and its input gate, forget gate, constant error carousel unit, and output gate. These novel designs enable controlled information transfer and selective long-term dependency modeling across textual segments, which can effectively avoid error accumulation and hallucination propagation. We conducted an extensive evaluation of our method. Compared with the previous best multi-agent approach, CoA, our model achieves improvements of 40.93%, 43.70%,121.57% and 33.12%, on NarrativeQA, Qasper, HotpotQA, and MuSiQue, respectively.",
+    "authors": [
+      "Yichen Jiang",
+      "Peng Ye",
+      "Jiakang Yuan",
+      "Chongjun Tu",
+      "Lei Bai",
+      "Tao Chen"
+    ],
+    "venue": "arXiv.org",
+    "year": 2026,
+    "url": "https://www.semanticscholar.org/paper/86b159df06f3b1c0000a92ddc6d07ddb29adf9e4"
+  },
+  "Glocker2025LLMEmpoweredEA": {
+    "title": "LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics",
+    "bibtex": "@Article{Glocker2025LLMEmpoweredEA,\n author = {Marc Glocker and Peter Hönig and Matthias Hirschmanner and Markus Vincze},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics},\n volume = {abs/2504.21716},\n year = {2025}\n}\n",
+    "abstract": "We present an embodied robotic system with an LLM-driven agent-orchestration architecture for autonomous household object management. The system integrates memory-augmented task planning, enabling robots to execute high-level user commands while tracking past actions. It employs three specialized agents: a routing agent, a task planning agent, and a knowledge base agent, each powered by task-specific LLMs. By leveraging in-context learning, our system avoids the need for explicit model training. RAG enables the system to retrieve context from past interactions, enhancing long-term object tracking. A combination of Grounded SAM and LLaMa3.2-Vision provides robust object detection, facilitating semantic scene understanding for task planning. Evaluation across three household scenarios demonstrates high task planning accuracy and an improvement in memory recall due to RAG. Specifically, Qwen2.5 yields best performance for specialized agents, while LLaMA3.1 excels in routing tasks. The source code is available at: https://github.com/marc1198/chat-hsr.",
+    "authors": [
+      "Marc Glocker",
+      "Peter Hönig",
+      "Matthias Hirschmanner",
+      "Markus Vincze"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/f4ecdaebd24583e0fede6b1c5648008c659d1486"
+  },
+  "Fumero2025CyberSleuthAB": {
+    "title": "CyberSleuth: Autonomous Blue-Team LLM Agent for Web Attack Forensics",
+    "bibtex": "@Article{Fumero2025CyberSleuthAB,\n author = {Stefano Fumero and Kai Huang and Matteo Boffa and Danilo Giordano and Marco Mellia and Zied Ben-Houidi and Dario Rossi},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {CyberSleuth: Autonomous Blue-Team LLM Agent for Web Attack Forensics},\n volume = {abs/2508.20643},\n year = {2025}\n}\n",
+    "abstract": "Post-mortem analysis of compromised systems is a key aspect of cyber forensics, today a mostly manual, slow, and error-prone task. Agentic AI, i.e., LLM-powered agents, is a promising avenue for automation. However, applying such agents to cybersecurity remains largely unexplored and difficult, as this domain demands long-term reasoning, contextual memory, and consistent evidence correlation - capabilities that current LLM agents struggle to master. In this paper, we present the first systematic study of LLM agents to automate post-mortem investigation. As a first scenario, we consider realistic attacks in which remote attackers try to abuse online services using well-known CVEs (30 controlled cases). The agent receives as input the network traces of the attack and extracts forensic evidence. We compare three AI agent architectures, six LLM backends, and assess their ability to i) identify compromised services, ii) map exploits to exact CVEs, and iii) prepare thorough reports. Our best-performing system, CyberSleuth, achieves 80% accuracy on 2025 incidents, producing complete, coherent, and practically useful reports (judged by a panel of 25 experts). We next illustrate how readily CyberSleuth adapts to face the analysis of infected machine traffic, showing that the effective AI agent design can transfer across forensic tasks. Our findings show that (i) multi-agent specialisation is key to sustained reasoning; (ii) simple orchestration outperforms nested hierarchical architectures; and (iii) the CyberSleuth design generalises across different forensic tasks.",
+    "authors": [
+      "Stefano Fumero",
+      "Kai Huang",
+      "Matteo Boffa",
+      "Danilo Giordano",
+      "Marco Mellia",
+      "Zied Ben-Houidi",
+      "Dario Rossi"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/7d173f58b810ac4767ec4f01f5ee9f5b0edc4c61"
+  },
+  "Liu2024FromLT": {
+    "title": "From LLM to Conversational Agent: A Memory Enhanced Architecture with Fine-Tuning of Large Language Models",
+    "bibtex": "@Article{Liu2024FromLT,\n author = {Na Liu and Liangyu Chen and Xiaoyu Tian and Wei Zou and Kaijiang Chen and Ming Cui},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {From LLM to Conversational Agent: A Memory Enhanced Architecture with Fine-Tuning of Large Language Models},\n volume = {abs/2401.02777},\n year = {2024}\n}\n",
+    "abstract": "This paper introduces RAISE (Reasoning and Acting through Scratchpad and Examples), an advanced architecture enhancing the integration of Large Language Models (LLMs) like GPT-4 into conversational agents. RAISE, an enhancement of the ReAct framework, incorporates a dual-component memory system, mirroring human short-term and long-term memory, to maintain context and continuity in conversations. It entails a comprehensive agent construction scenario, including phases like Conversation Selection, Scene Extraction, CoT Completion, and Scene Augmentation, leading to the LLMs Training phase. This approach appears to enhance agent controllability and adaptability in complex, multi-turn dialogues. Our preliminary evaluations in a real estate sales context suggest that RAISE has some advantages over traditional agents, indicating its potential for broader applications. This work contributes to the AI field by providing a robust framework for developing more context-aware and versatile conversational agents.",
+    "authors": [
+      "Na Liu",
+      "Liangyu Chen",
+      "Xiaoyu Tian",
+      "Wei Zou",
+      "Kaijiang Chen",
+      "Ming Cui"
+    ],
+    "venue": "arXiv.org",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/efcb8cfc8db63c0e71461ea960e0d63882aca7ee"
+  },
+  "Jiang2026ReflexiCoderTL": {
+    "title": "ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning",
+    "bibtex": "@Inproceedings{Jiang2026ReflexiCoderTL,\n author = {Juyong Jiang and Jiasi Shen and Sunghun Kim and K. Yoo and Jeonghoon Kim and Sungju Kim},\n title = {ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning},\n year = {2026}\n}\n",
+    "abstract": "While Large Language Models (LLMs) have revolutionized code generation, standard\"System 1\"approaches, generating solutions in a single forward pass, often hit a performance ceiling when faced with complex algorithmic tasks. Existing iterative refinement strategies attempt to bridge this gap at inference time, yet they predominantly rely on external oracles, execution feedback, or computationally expensive prompt-response cycles. In this work, we propose ReflexiCoder, a novel reinforcement learning (RL) framework that internalizes the structured reasoning trajectory, encompassing initial generation, bug and optimization aware reflection, and self-correction, directly into the model's weights. Unlike prior methods, ReflexiCoder shifts the paradigm from external-dependent refinement to an intrinsic, fully autonomous self-reflection and self-correction capabilities at inference time. We utilize an RL-zero training paradigm with granular reward functions to optimize the entire reflection-correction trajectory, teaching the model how to debug without reliance on ground-truth feedback or execution engines at inference time. Extensive experiments across seven benchmarks demonstrate that our ReflexiCoder-8B establishes a new state-of-the-art (SOTA) among leading open-source models in the 1.5B-14B range, achieving 94.51% (87.20%) on HumanEval (Plus), 81.80% (78.57%) on MBPP (Plus), 35.00% on BigCodeBench, 52.21% on LiveCodeBench, and 37.34% on CodeForces in a single-attempt setting, rivaling or surpassing proprietary models like GPT-5.1. Notably, our framework is significantly more token-efficient than base models, reducing inference-time compute overhead by approximately 40% through disciplined, high-speed reasoning and reflection patterns. Source code is available at https://github.com/juyongjiang/ReflexiCoder.",
+    "authors": [
+      "Juyong Jiang",
+      "Jiasi Shen",
+      "Sunghun Kim",
+      "K. Yoo",
+      "Jeonghoon Kim",
+      "Sungju Kim"
+    ],
+    "venue": "",
+    "year": 2026,
+    "url": "https://www.semanticscholar.org/paper/0243c0429ba764d9ba44d94e6d104690be8d888a"
+  },
+  "Fu2025CATArenaEE": {
+    "title": "CATArena: Evaluating Evolutionary Capabilities of Code Agents via Iterative Tournaments",
+    "bibtex": "@Inproceedings{Fu2025CATArenaEE,\n author = {Lingyue Fu and Xin Ding and Li Pan and Yaoming Zhu and Shaolei Zhang and Lin Qiu and Weiwen Liu and Weinan Zhang and Xuezhi Cao and Xunliang Cai and Jiaxin Ding and Yong Yu},\n title = {CATArena: Evaluating Evolutionary Capabilities of Code Agents via Iterative Tournaments},\n year = {2025}\n}\n",
+    "abstract": "Current evaluation for Large Language Model (LLM) code agents predominantly focus on generating functional code in single-turn scenarios, which fails to evaluate the agent's capability for continuous code optimization and multi-turn iterative development. To bridge this gap, we introduce CATArena, a framework designed to evaluate the evolutionary capabilities of code agents via iterative tournaments. Agents engage in multi-turn tournaments and continuously refine their code through self-reflection and peer-learning based on comprehensive execution feedback. For evaluation, we propose a dual-metric system to decouple static generation proficiency from evolutionary potential. Extensive experiments reveal that an agent's evolutionary potential is not strictly correlated with its initial proficiency. Our analysis further reveals that current agents struggle to concurrently leverage both peer-learning and self-reflection for effective performance gains. Furthermore, the results validate CATArena's high extensibility and resistance to variance tasks, establishing it as a continuous and reliable standard for assessing the evolutionary capability of LLM code agents.",
+    "authors": [
+      "Lingyue Fu",
+      "Xin Ding",
+      "Li Pan",
+      "Yaoming Zhu",
+      "Shaolei Zhang",
+      "Lin Qiu",
+      "Weiwen Liu",
+      "Weinan Zhang",
+      "Xuezhi Cao",
+      "Xunliang Cai",
+      "Jiaxin Ding",
+      "Yong Yu"
+    ],
+    "venue": "",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/58d3ae4169ef9ebc46206ffd8c41cd3e4f9b20f3"
+  },
+  "Renze2024SelfReflectionIL": {
+    "title": "Self-Reflection in Large Language Model Agents: Effects on Problem-Solving Performance",
+    "bibtex": "@Article{Renze2024SelfReflectionIL,\n author = {Matthew Renze and Erhan Guven},\n booktitle = {2024 2nd International Conference on Foundation and Large Language Models (FLLM)},\n journal = {2024 2nd International Conference on Foundation and Large Language Models (FLLM)},\n pages = {516-525},\n title = {Self-Reflection in Large Language Model Agents: Effects on Problem-Solving Performance},\n year = {2024}\n}\n",
+    "abstract": "In this study, we investigated the effects of self-reflection in large language models (LLMs) on problem-solving performance. We instructed nine popular LLMs to answer a series of multiple-choice questions to provide a performance baseline. For each incorrectly answered question, we instructed eight types of self-reflecting LLM agents to reflect on their mistakes and provide themselves with guidance to improve problem-solving. Then, using this guidance, each self-reflecting agent attempted to re-answer the same questions. Our results indicate that LLM agents are able to significantly improve their problem-solving performance through self-reflection (p < 0.001). In addition, we compared the various types of self-reflection to determine their individual contribution to performance. All code and data are available on GitHub at https://github.com/matthewrenze/self-reflection",
+    "authors": [
+      "Matthew Renze",
+      "Erhan Guven"
+    ],
+    "venue": "2024 2nd International Conference on Foundation and Large Language Models (FLLM)",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/92f81cd548ae953b7416fc6db6d5602f7a9d9a39"
+  },
+  "Ni2024NExTTL": {
+    "title": "NExT: Teaching Large Language Models to Reason about Code Execution",
+    "bibtex": "@Article{Ni2024NExTTL,\n author = {Ansong Ni and Miltiadis Allamanis and Arman Cohan and Yinlin Deng and Kensen Shi and Charles Sutton and Pengcheng Yin},\n booktitle = {International Conference on Machine Learning},\n pages = {37929-37956},\n title = {NExT: Teaching Large Language Models to Reason about Code Execution},\n year = {2024}\n}\n",
+    "abstract": "A fundamental skill among human developers is the ability to understand and reason about program execution. As an example, a programmer can mentally simulate code execution in natural language to debug and repair code (aka. rubber duck debugging). However, large language models (LLMs) of code are typically trained on the surface textual form of programs, thus may lack a semantic understanding of how programs execute at run-time. To address this issue, we propose NExT, a method to teach LLMs to inspect the execution traces of programs (variable states of executed lines) and reason about their run-time behavior through chain-of-thought (CoT) rationales. Specifically, NExT uses self-training to bootstrap a synthetic training set of execution-aware rationales that lead to correct task solutions (e.g., fixed programs) without laborious manual annotation. Experiments on program repair tasks based on MBPP and HumanEval demonstrate that NExT improves the fix rate of a PaLM 2 model, by 26.1% and 14.3% absolute, respectively, with significantly improved rationale quality as verified by automated metrics and human raters. Our model can also generalize to scenarios where program traces are absent at test-time.",
+    "authors": [
+      "Ansong Ni",
+      "Miltiadis Allamanis",
+      "Arman Cohan",
+      "Yinlin Deng",
+      "Kensen Shi",
+      "Charles Sutton",
+      "Pengcheng Yin"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/49306aa1fde2a21fadc77dbc8ec7e487fac72c5b"
+  },
+  "Yadavally2025LargeLM": {
+    "title": "Large Language Model Critics for Execution-Free Evaluation of Code Changes",
+    "bibtex": "@Article{Yadavally2025LargeLM,\n author = {Aashish Yadavally and Hoan Nguyen and Laurent Callot and Gauthier Guinet},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {Large Language Model Critics for Execution-Free Evaluation of Code Changes},\n volume = {abs/2501.16655},\n year = {2025}\n}\n",
+    "abstract": "Large language models (LLMs) offer a promising way forward for automating software engineering tasks, such as bug fixes, feature additions, etc., via multi-step LLM-based agentic workflows. However, existing metrics for evaluating such workflows, mainly build status and occasionally log analysis, are too sparse and limited in providing the information needed to assess the quality of changes made. In this work, we designed LLM-based critics to derive well-structured and rigorous intermediate/step-level, execution-free evaluation proxies for repo-level code changes. Importantly, we assume access to the gold test patch for the problem (i.e., reference-aware) to assess both semantics and executability of generated patches. With the gold test patch as a reference, we predict executability of all editing locations with an F1 score of 91.6%, aggregating which, we can predict the build status in 84.8% of the instances in SWE-bench. In particular, such an execution-focused LLM critic outperforms other reference-free and reference-aware LLM critics by 38.9% to 72.5%. Moreover, we demonstrate the usefulness of such a reference-aware framework in comparing patches generated by different agentic workflows. Finally, we open-source the library developed for this project, which allows further usage for either other agentic workflows or other benchmarks. The source code is available at https://github.com/amazon-science/code-agent-eval.",
+    "authors": [
+      "Aashish Yadavally",
+      "Hoan Nguyen",
+      "Laurent Callot",
+      "Gauthier Guinet"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/6a661fcb119177538244f4fe5985ad75e20a8001"
+  },
+  "Tan2025DynamicPR": {
+    "title": "Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement",
+    "bibtex": "@Inproceedings{Tan2025DynamicPR,\n author = {Yuqiao Tan and Shizhu He and Huanxuan Liao and Jun Zhao and Kang Liu},\n title = {Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement},\n year = {2025}\n}\n",
+    "abstract": "Retrieval-augmented generation (RAG) enhances large language models (LLMs) by retrieving relevant documents from external sources and incorporating them into the context. While it improves reliability by providing factual texts, it significantly increases inference costs as context length grows and introduces challenging issue of RAG hallucination, primarily caused by the lack of corresponding parametric knowledge in LLMs. An efficient solution is to enhance the knowledge of LLMs at test-time. Parametric RAG (PRAG) addresses this by embedding document into LLMs parameters to perform test-time knowledge enhancement, effectively reducing inference costs through offline training. However, its high training and storage costs, along with limited generalization ability, significantly restrict its practical adoption. To address these challenges, we propose Dynamic Parametric RAG (DyPRAG), a novel framework that leverages a lightweight parameter translator model to efficiently convert documents into parametric knowledge. DyPRAG not only reduces inference, training, and storage costs but also dynamically generates parametric knowledge, seamlessly enhancing the knowledge of LLMs and resolving knowledge conflicts in a plug-and-play manner at test-time. Extensive experiments on multiple datasets demonstrate the effectiveness and generalization capabilities of DyPRAG, offering a powerful and practical RAG paradigm which enables superior knowledge fusion and mitigates RAG hallucination in real-world applications. Our code is available at https://github.com/Trae1ounG/DyPRAG.",
+    "authors": [
+      "Yuqiao Tan",
+      "Shizhu He",
+      "Huanxuan Liao",
+      "Jun Zhao",
+      "Kang Liu"
+    ],
+    "venue": "",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/8a2acc213b370c342cff3fa0301935612b403b21"
+  },
+  "Bhat2024RetrievalAG": {
+    "title": "Retrieval Augmented Generation (RAG) Based Restaurant Chatbot with AI Testability",
+    "bibtex": "@Article{Bhat2024RetrievalAG,\n author = {V. Bhat and Sree Divya Cheerla and Jinu Rose Mathew and Nupur Pathak and Guannan Liu and J. Gao},\n booktitle = {International Conference on Big Data Computing Service and Applications},\n journal = {2024 IEEE 10th International Conference on Big Data Computing Service and Machine Learning Applications (BigDataService)},\n pages = {1-10},\n title = {Retrieval Augmented Generation (RAG) Based Restaurant Chatbot with AI Testability},\n year = {2024}\n}\n",
+    "abstract": "Post-COVID the restaurant industry is experiencing a surge in demand, presenting a unique challenge of efficiently managing increased customer flow while ensuring seamless interactions. Chatbots have emerged as an innovative solution to meet the demand increase. The paper addresses the enhancement of AI chatbots through the integration of Retrieval-Augmented Generation (RAG) with the Large Language Model (LLM). This paper focuses on the development of a restaurant chatbot that not only engages in natural-language conversations but also addresses context optimization and LLM optimization for restaurant context learning. The approach uses a Neo4j Knowledge graph built using the restaurant data as an external source of knowledge. The graph is traversed to match the user question with appropriate answer tokens using Term Frequency - Inverse Document Frequency (TF-IDF) embeddings. The relevant tokens along with user questions are used to provide additional context to the T5 language model to provide nuanced responses to the users. This improvement is quantitatively evidenced by a Bilingual Evaluation Understudy (BLEU) score of 0.60, indicating a high level of precision in language understanding and generation. An extensive evaluation of the chatbot includes assessing AI testability on the level of words, sentences, and information. These evaluations include simulated dialogue assessments and performance analyses, with a focus on the chatbot's ability to retrieve and integrate information. Based on the AI testability evaluation, the models consistently produce more knowledgeable, diverse, and relevant answers as compared with state-of-the-art models with an average information score in the range of 0.6-0.8.",
+    "authors": [
+      "V. Bhat",
+      "Sree Divya Cheerla",
+      "Jinu Rose Mathew",
+      "Nupur Pathak",
+      "Guannan Liu",
+      "J. Gao"
+    ],
+    "venue": "International Conference on Big Data Computing Service and Applications",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/7731b839ad0159a0b56dc8b85275998e83a1e5f9"
+  },
+  "Zhang2024InteractiveAW": {
+    "title": "Interactive AI With Retrieval-Augmented Generation for Next Generation Networking",
+    "bibtex": "@Article{Zhang2024InteractiveAW,\n author = {Ruichen Zhang and Hongyang Du and Yinqiu Liu and Dusist Niyato and Jiawen Kang and Sumei Sun and Xuemin Shen and H. V. Poor},\n booktitle = {IEEE Network},\n journal = {IEEE Network},\n pages = {414-424},\n title = {Interactive AI With Retrieval-Augmented Generation for Next Generation Networking},\n volume = {38},\n year = {2024}\n}\n",
+    "abstract": "With the advance of artificial intelligence (AI), the concept of interactive AI (IAI) has been introduced, which can interactively understand and respond not only to human user input but also to dynamic system and network conditions. In this article, we explore an integration and enhancement of IAI in networking. We first review recent developments and future perspectives of AI and then introduce the technology and components of IAI. We then explore the integration of IAI into next-generation networks, focusing on how implicit and explicit interactions can enhance network functionality, improve user experience, and promote efficient network management. Subsequently, we propose an IAI-enabled network management and optimization framework, which consists of environment, perception, action, and brain units. We also design a pluggable large language model (LLM) module and retrieval augmented generation (RAG) module to build the knowledge base and contextual memory for decision-making in the brain unit. We demonstrate through case studies that our IAI framework can effectively perform optimization problem design. Finally, we discuss potential research directions for IAI-based networks.",
+    "authors": [
+      "Ruichen Zhang",
+      "Hongyang Du",
+      "Yinqiu Liu",
+      "Dusist Niyato",
+      "Jiawen Kang",
+      "Sumei Sun",
+      "Xuemin Shen",
+      "H. V. Poor"
+    ],
+    "venue": "IEEE Network",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/c81c7fb670ac0e27c9d2025d95d68f4752aed99d"
+  },
+  "Shavaki2024KnowledgeGB": {
+    "title": "Knowledge Graph Based Retrieval-Augmented Generation for Multi-Hop Question Answering Enhancement",
+    "bibtex": "@Conference{Shavaki2024KnowledgeGB,\n author = {Mahdi Amiri Shavaki and Pouria Omrani and R. Toosi and M. Akhaee},\n booktitle = {Conference on Information and Knowledge Technology},\n journal = {2024 15th International Conference on Information and Knowledge Technology (IKT)},\n pages = {78-84},\n title = {Knowledge Graph Based Retrieval-Augmented Generation for Multi-Hop Question Answering Enhancement},\n year = {2024}\n}\n",
+    "abstract": "Multi-hop question answering (QA), which requires integrating information from multiple sources, poses significant challenges in natural language processing. Existing methods often struggle with effective retrieval across documents, leading to incomplete or inaccurate answers. Building upon Graph-based Retrieval-Augmented Generation (Graph RAG), we enhance multi-hop QA by leveraging structured knowledge graphs. Specifically, we construct individual knowledge graphs for each document, where entities are represented as nodes and the relationships between them as edges enriched with contextual properties. These individual graphs are then seamlessly integrated into a comprehensive, unified graph that captures cross-document relationships. Our method improves retrieval by utilizing vector embeddings of these graph relations, enabling more effective multi-hop reasoning across the interconnected data. To evaluate our approach, we assembled a dataset of 500 documents paired with 296 multi-hop questions requiring cross-document information retrieval. Our contributions include developing a novel graph-based retrieval mechanism that leverages vector embeddings of graph relations within the Graph RAG framework, and assembling a comprehensive dataset for multi-hop QA. Comparative experiments show that our enhanced Graph RAG method significantly outperforms the baseline in factual accuracy and semantic similarity, as measured by the RAGAS framework. Additionally, an LLM-based evaluator highlights our method's superior performance in answer comprehensiveness, empowerment, and directness.11The source code and dataset are available at: https://github.com/AmiriShavaki/KG-based-RAG-for-Multi-hop-QA",
+    "authors": [
+      "Mahdi Amiri Shavaki",
+      "Pouria Omrani",
+      "R. Toosi",
+      "M. Akhaee"
+    ],
+    "venue": "Conference on Information and Knowledge Technology",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/0b28b36ba158c4cf42a15b3b7af55452a720de2a"
+  },
+  "Zhu2026FSResearcherTS": {
+    "title": "FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents",
+    "bibtex": "@Inproceedings{Zhu2026FSResearcherTS,\n author = {Chiwei Zhu and Benfeng Xu and Mingxuan Du and Shaohan Wang and Xiaorui Wang and Zhendong Mao and Yongdong Zhang},\n title = {FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents},\n year = {2026}\n}\n",
+    "abstract": "Deep research is emerging as a representative long-horizon task for large language model (LLM) agents. However, long trajectories in deep research often exceed model context limits, compressing token budgets for both evidence collection and report writing, and preventing effective test-time scaling. We introduce FS-Researcher, a file-system-based, dual-agent framework that scales deep research beyond the context window via a persistent workspace. Specifically, a Context Builder agent acts as a librarian which browses the internet, writes structured notes, and archives raw sources into a hierarchical knowledge base that can grow far beyond context length. A Report Writer agent then composes the final report section by section, treating the knowledge base as the source of facts. In this framework, the file system serves as a durable external memory and a shared coordination medium across agents and sessions, enabling iterative refinement beyond the context window. Experiments on two open-ended benchmarks (DeepResearch Bench and DeepConsult) show that FS-Researcher achieves state-of-the-art report quality across different backbone models. Further analyses demonstrate a positive correlation between final report quality and the computation allocated to the Context Builder, validating effective test-time scaling under the file-system paradigm. The code and data are anonymously open-sourced at https://github.com/Ignoramus0817/FS-Researcher.",
+    "authors": [
+      "Chiwei Zhu",
+      "Benfeng Xu",
+      "Mingxuan Du",
+      "Shaohan Wang",
+      "Xiaorui Wang",
+      "Zhendong Mao",
+      "Yongdong Zhang"
+    ],
+    "venue": "",
+    "year": 2026,
+    "url": "https://www.semanticscholar.org/paper/9f4a9187b4d4238814ecd25ab3b7597b58d35309"
+  },
+  "Jain2025AUGUSTUSAL": {
+    "title": "AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory",
+    "bibtex": "@Article{Jain2025AUGUSTUSAL,\n author = {Jitesh Jain and Shubham Maheshwari and Ning Yu and Wen-Mei Hwu and Humphrey Shi},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory},\n volume = {abs/2510.15261},\n year = {2025}\n}\n",
+    "abstract": "Riding on the success of LLMs with retrieval-augmented generation (RAG), there has been a growing interest in augmenting agent systems with external memory databases. However, the existing systems focus on storing text information in their memory, ignoring the importance of multimodal signals. Motivated by the multimodal nature of human memory, we present AUGUSTUS, a multimodal agent system aligned with the ideas of human memory in cognitive science. Technically, our system consists of 4 stages connected in a loop: (i) encode: understanding the inputs; (ii) store in memory: saving important information; (iii) retrieve: searching for relevant context from memory; and (iv) act: perform the task. Unlike existing systems that use vector databases, we propose conceptualizing information into semantic tags and associating the tags with their context to store them in a graph-structured multimodal contextual memory for efficient concept-driven retrieval. Our system outperforms the traditional multimodal RAG approach while being 3.5 times faster for ImageNet classification and outperforming MemGPT on the MSC benchmark.",
+    "authors": [
+      "Jitesh Jain",
+      "Shubham Maheshwari",
+      "Ning Yu",
+      "Wen-Mei Hwu",
+      "Humphrey Shi"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/adaae40171df7d8ec7e1bdcd22a9f6875bc1871e"
+  },
+  "Xu2024OSAgentCO": {
+    "title": "OSAgent: Copiloting Operating System with LLM-based Agent",
+    "bibtex": "@Article{Xu2024OSAgentCO,\n author = {Jiaming Xu and Kaibin Guo and Wuxuan Gong and Runyu Shi},\n booktitle = {IEEE International Joint Conference on Neural Network},\n journal = {2024 International Joint Conference on Neural Networks (IJCNN)},\n pages = {1-9},\n title = {OSAgent: Copiloting Operating System with LLM-based Agent},\n year = {2024}\n}\n",
+    "abstract": "The large language model (LLM) has indeed made significant strides in enhancing human-computer interaction. However, it still faces challenges when dealing with more intricate tasks. Some agents have endeavored to augment LLM capabilities through external memory and tool invocation. Despite these efforts, the task completion rate remains less than satisfactory. This paper introduces a memory-enhanced LLM-based OSAgent designed to assist users in copiloting their operating systems. Specifically, we employ an external memory to store historical user requests, along with corresponding semantic vectors, intent vectors, and human-annotated task planning instructions. When receiving a user request, OSAgent first retrieves similar user requests and task planning instructions as examples to generate prompt, then LLM conducts task planning to manipulate OS tools. Extensive experiments were conducted on mobile operating systems employing seven LLMs. The results are indicative of OSAgent’s remarkable proficiency in invoking AI capabilities, third-party applications, system settings, and data resources.",
+    "authors": [
+      "Jiaming Xu",
+      "Kaibin Guo",
+      "Wuxuan Gong",
+      "Runyu Shi"
+    ],
+    "venue": "IEEE International Joint Conference on Neural Network",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/e085c991028450f0782ea9f6a341ca6247a0b5af"
+  },
+  "Rezazadeh2025CollaborativeMM": {
+    "title": "Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control",
+    "bibtex": "@Article{Rezazadeh2025CollaborativeMM,\n author = {Alireza Rezazadeh and Zichao Li and Ange Lou and Yuying Zhao and Wei Wei and Yujia Bao},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control},\n volume = {abs/2505.18279},\n year = {2025}\n}\n",
+    "abstract": "Complex tasks are increasingly delegated to ensembles of specialized LLM-based agents that reason, communicate, and coordinate actions-both among themselves and through interactions with external tools, APIs, and databases. While persistent memory has been shown to enhance single-agent performance, most approaches assume a monolithic, single-user context-overlooking the benefits and challenges of knowledge transfer across users under dynamic, asymmetric permissions. We introduce Collaborative Memory, a framework for multi-user, multi-agent environments with asymmetric, time-evolving access controls encoded as bipartite graphs linking users, agents, and resources. Our system maintains two memory tiers: (1) private memory-private fragments visible only to their originating user; and (2) shared memory-selectively shared fragments. Each fragment carries immutable provenance attributes (contributing agents, accessed resources, and timestamps) to support retrospective permission checks. Granular read policies enforce current user-agent-resource constraints and project existing memory fragments into filtered transformed views. Write policies determine fragment retention and sharing, applying context-aware transformations to update the memory. Both policies may be designed conditioned on system, agent, and user-level information. Our framework enables safe, efficient, and interpretable cross-user knowledge sharing, with provable adherence to asymmetric, time-varying policies and full auditability of memory operations.",
+    "authors": [
+      "Alireza Rezazadeh",
+      "Zichao Li",
+      "Ange Lou",
+      "Yuying Zhao",
+      "Wei Wei",
+      "Yujia Bao"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/54b569107d0cc26162438920ed7cb980bebd5863"
+  },
+  "Xu2025AMEMAM": {
+    "title": "A-MEM: Agentic Memory for LLM Agents",
+    "bibtex": "@Article{Xu2025AMEMAM,\n author = {Wujiang Xu and Zujie Liang and Kai Mei and Hang Gao and Juntao Tan and Yongfeng Zhang},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {A-MEM: Agentic Memory for LLM Agents},\n volume = {abs/2502.12110},\n year = {2025}\n}\n",
+    "abstract": "While large language model (LLM) agents can effectively use external tools for complex real-world tasks, they require memory systems to leverage historical experiences. Current memory systems enable basic storage and retrieval but lack sophisticated memory organization, despite recent attempts to incorporate graph databases. Moreover, these systems'fixed operations and structures limit their adaptability across diverse tasks. To address this limitation, this paper proposes a novel agentic memory system for LLM agents that can dynamically organize memories in an agentic way. Following the basic principles of the Zettelkasten method, we designed our memory system to create interconnected knowledge networks through dynamic indexing and linking. When a new memory is added, we generate a comprehensive note containing multiple structured attributes, including contextual descriptions, keywords, and tags. The system then analyzes historical memories to identify relevant connections, establishing links where meaningful similarities exist. Additionally, this process enables memory evolution - as new memories are integrated, they can trigger updates to the contextual representations and attributes of existing historical memories, allowing the memory network to continuously refine its understanding. Our approach combines the structured organization principles of Zettelkasten with the flexibility of agent-driven decision making, allowing for more adaptive and context-aware memory management. Empirical experiments on six foundation models show superior improvement against existing SOTA baselines. The source code for evaluating performance is available at https://github.com/WujiangXu/A-mem, while the source code of the agentic memory system is available at https://github.com/WujiangXu/A-mem-sys.",
+    "authors": [
+      "Wujiang Xu",
+      "Zujie Liang",
+      "Kai Mei",
+      "Hang Gao",
+      "Juntao Tan",
+      "Yongfeng Zhang"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/1f35a15fe9df43d24ec6ea551ec6c9766c17eccf"
+  },
+  "Chua2025RunningIC": {
+    "title": "Running in CIRCLE? A Simple Benchmark for LLM Code Interpreter Security",
+    "bibtex": "@Article{Chua2025RunningIC,\n author = {Gabriel Chua},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {Running in CIRCLE? A Simple Benchmark for LLM Code Interpreter Security},\n volume = {abs/2507.19399},\n year = {2025}\n}\n",
+    "abstract": "As large language models (LLMs) increasingly integrate native code interpreters, they enable powerful real-time execution capabilities, substantially expanding their utility. However, such integrations introduce potential system-level cybersecurity threats, fundamentally different from prompt-based vulnerabilities. To systematically evaluate these interpreter-specific risks, we propose CIRCLE (Code-Interpreter Resilience Check for LLM Exploits), a simple benchmark comprising 1,260 prompts targeting CPU, memory, and disk resource exhaustion. Each risk category includes explicitly malicious (\"direct\") and plausibly benign (\"indirect\") prompt variants. Our automated evaluation framework assesses not only whether LLMs refuse or generates risky code, but also executes the generated code within the interpreter environment to evaluate code correctness, simplifications made by the LLM to make the code safe, or execution timeouts. Evaluating 7 commercially available models from OpenAI and Google, we uncover significant and inconsistent vulnerabilities. For instance, evaluations show substantial disparities even within providers - OpenAI's o4-mini correctly refuses risky requests at 7.1%, notably higher rates compared to GPT-4.1 at 0.5%. Results particularly underscore that indirect, socially-engineered prompts substantially weaken model defenses. This highlights an urgent need for interpreter-specific cybersecurity benchmarks, dedicated mitigation tools (e.g., guardrails), and clear industry standards to guide safe and responsible deployment of LLM interpreter integrations. The benchmark dataset and evaluation code are publicly released to foster further research.",
+    "authors": [
+      "Gabriel Chua"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/584ced4e1a195cd814d44274a900437d79d15087"
+  },
+  "Copet2025CWMAO": {
+    "title": "CWM: An Open-Weights LLM for Research on Code Generation with World Models",
+    "bibtex": "@Article{Copet2025CWMAO,\n author = {Fair CodeGen team. Jade Copet and Quentin Carbonneaux and Gal Cohen and Jonas Gehring and Jacob Kahn and Jannik Kossen and F. Kreuk and Emily McMilin and Michel Meyer and Yuxiang Wei and David Zhang and Kunhao Zheng and Jordi Armengol-Estap'e and Pedram Bashiri and Maximilian Beck and Pierre Chambon and Abhishek Charnalia and Chris Cummins and Juliette Decugis and Zacharias V. Fisches and Franc¸ois Fleuret and Fabian Gloeckle and A. Gu and Michael Hassid and Daniel Haziza and Badr Youbi Idrissi and Christian Keller and Rahul K. Kindi and Hugh Leather and Gallil Maimon and A.A. Markosyan and Francisco Massa and Pierre-Emmanuel Mazar'e and Vegard Mella and N. Murray and Keyur Muzumdar and Peter O'Hearn and Matteo Pagliardini and Dmitrii Pedchenko and Tal Remez and Volker Seeker and Marco Selvi and Oren Sultan and Sida Wang and Luca Wehrstedt and Ori Yoran and Lingming Zhang and Taco Cohen and Yossi Adi and Gabriel Synnaeve},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {CWM: An Open-Weights LLM for Research on Code Generation with World Models},\n volume = {abs/2510.02387},\n year = {2025}\n}\n",
+    "abstract": "We release Code World Model (CWM), a 32-billion-parameter open-weights LLM, to advance research on code generation with world models. To improve code understanding beyond what can be learned from training on static code alone, we mid-train CWM on a large amount of observation-action trajectories from Python interpreter and agentic Docker environments, and perform extensive multi-task reasoning RL in verifiable coding, math, and multi-turn software engineering environments. With CWM, we provide a strong testbed for researchers to explore the opportunities world modeling affords for improving code generation with reasoning and planning in computational environments. We present first steps of how world models can benefit agentic coding, enable step-by-step simulation of Python code execution, and show early results of how reasoning can benefit from the latter. CWM is a dense, decoder-only LLM trained with a context size of up to 131k tokens. Independent of its world modeling capabilities, CWM offers strong performance on general coding and math tasks: it reaches pass@1 scores of 65.8% on SWE-bench Verified (with test-time scaling), 68.6% on LiveCodeBench, 96.6% on Math-500, and 76.0% on AIME 2024. To support further research on code world modeling, we release model checkpoints after mid-training, SFT, and RL.",
+    "authors": [
+      "Fair CodeGen team. Jade Copet",
+      "Quentin Carbonneaux",
+      "Gal Cohen",
+      "Jonas Gehring",
+      "Jacob Kahn",
+      "Jannik Kossen",
+      "F. Kreuk",
+      "Emily McMilin",
+      "Michel Meyer",
+      "Yuxiang Wei",
+      "David Zhang",
+      "Kunhao Zheng",
+      "Jordi Armengol-Estap'e",
+      "Pedram Bashiri",
+      "Maximilian Beck",
+      "Pierre Chambon",
+      "Abhishek Charnalia",
+      "Chris Cummins",
+      "Juliette Decugis",
+      "Zacharias V. Fisches",
+      "Franc¸ois Fleuret",
+      "Fabian Gloeckle",
+      "A. Gu",
+      "Michael Hassid",
+      "Daniel Haziza",
+      "Badr Youbi Idrissi",
+      "Christian Keller",
+      "Rahul K. Kindi",
+      "Hugh Leather",
+      "Gallil Maimon",
+      "A.A. Markosyan",
+      "Francisco Massa",
+      "Pierre-Emmanuel Mazar'e",
+      "Vegard Mella",
+      "N. Murray",
+      "Keyur Muzumdar",
+      "Peter O'Hearn",
+      "Matteo Pagliardini",
+      "Dmitrii Pedchenko",
+      "Tal Remez",
+      "Volker Seeker",
+      "Marco Selvi",
+      "Oren Sultan",
+      "Sida Wang",
+      "Luca Wehrstedt",
+      "Ori Yoran",
+      "Lingming Zhang",
+      "Taco Cohen",
+      "Yossi Adi",
+      "Gabriel Synnaeve"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/c771d6b56d4ec553c7a8b424026c17a8392a23fb"
+  },
+  "Chen2025R1CodeInterpreterTL": {
+    "title": "R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning",
+    "bibtex": "@Article{Chen2025R1CodeInterpreterTL,\n author = {Yongchao Chen and Yueying Liu and Junwei Zhou and Yilun Hao and Jingquan Wang and Yang Zhang and Chuchu Fan},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning},\n volume = {abs/2505.21668},\n year = {2025}\n}\n",
+    "abstract": null,
+    "authors": [
+      "Yongchao Chen",
+      "Yueying Liu",
+      "Junwei Zhou",
+      "Yilun Hao",
+      "Jingquan Wang",
+      "Yang Zhang",
+      "Chuchu Fan"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/0525026f436f3012c8e345b423f4bf04858d8203"
+  },
+  "Pysklo2026AgentDiffBL": {
+    "title": "Agent-Diff: Benchmarking LLM Agents on Enterprise API Tasks via Code Execution with State-Diff-Based Evaluation",
+    "bibtex": "@Inproceedings{Pysklo2026AgentDiffBL,\n author = {Hubert M. Pysklo and Artem Zhuravel and Patrick Watson},\n title = {Agent-Diff: Benchmarking LLM Agents on Enterprise API Tasks via Code Execution with State-Diff-Based Evaluation},\n year = {2026}\n}\n",
+    "abstract": "We present Agent-Diff, a novel benchmarking framework for evaluating agentic Large Language Models (LLMs) on real-world tasks that execute code via external APIs. Agentic LLM performance varies due to differences in models, external tool access, prompt structures, and agentic frameworks. Benchmarks must make fundamental trade-offs between a sandboxed approach that controls for variation in software environments and more ecologically valid approaches employing real services. Agent-Diff attempts to capture the desirable features of both of these approaches by including access to the real API interfaces for software services while sandboxing the environment in which calls are made, processed, and evaluated. This approach relies on two key innovations. The first is a novel state-diff contract, which separates process from outcome - rather than fuzzy trace or parameter matching, we define task success as whether the expected change in environment state was achieved. The second is a novel sandbox that provides a standardized scripting layer that all models use to execute code against external APIs (Slack, Box, Linear, Google Calendar). Thus, we can evaluate different agentic LLMs against a standardized set of contracts using a unified sandbox while still evaluating their performance on real-world service interfaces. Using the Agent-Diff framework, we provide benchmarks for nine LLMs across 224 tasks utilizing enterprise software workflows. In addition, we evaluate the robustness of the framework with ablation experiments to assess the contribution of access to API documentation on benchmark performance. Code and data: https://github.com/agent-diff-bench/agent-diff.",
+    "authors": [
+      "Hubert M. Pysklo",
+      "Artem Zhuravel",
+      "Patrick Watson"
+    ],
+    "venue": "",
+    "year": 2026,
+    "url": "https://www.semanticscholar.org/paper/731b58ca48706646b949b822e2a1d471da62f56b"
+  },
+  "Batatia2025FeatureEG": {
+    "title": "Feature Execution Graphs: A Human-AI Co-Programming Paradigm for Graph-Driven LLM Code Synthesis",
+    "bibtex": "@Article{Batatia2025FeatureEG,\n author = {H. Batatia and Ilia Svetlichnyi},\n booktitle = {Proceedings of the AAAI Symposium Series},\n journal = {Proceedings of the AAAI Symposium Series},\n title = {Feature Execution Graphs: A Human-AI Co-Programming Paradigm for Graph-Driven LLM Code Synthesis},\n year = {2025}\n}\n",
+    "abstract": "Recent advances in large language models (LLMs) have enabled\ntransformative approaches in software development,\npositioning Artificial Intelligence (AI) not just as an assistant\nbut as an integral programming layer.\nWe introduce a novel, five-tiered framework for LLM-driven\ncode synthesis. At its base is a minimal Task Execution\nMeta-Language (TEML) defining atomic tasks with typed\nparameters, return schemas, synchronous/asynchronous and\nfork/join control, plus hooks for logging, security and data\nmanagement. Layered atop TEML, a Domain Task Specification\nLanguage (DTSL) instantiates these primitives into semantically\nrich, field-specific operations and enforces valid\ninvocation patterns. The centrepiece is the Feature Execution\nGraph (FXG), a directed, attributed graph whose nodes\nand edges encode configured tasks and their calls. A Generation\nEngine traverses the FXG, issues context-aware prompts\nto an LLM to synthesise code for each task, and packages\nthe results either as local functions or as containerised services.\nFinally, an Orchestration Engine executes the synthesised\npipeline by invoking tasks locally or orchestrating services\nin environments such as Kubernetes.\nEvaluated on two representative workflows, a six-node\ndata-science pipeline and a twelve-node EEG signal-analysis\npipeline, our FXG-driven approach cut manual development\ntime by about 40%, produced code that passed unit tests on\nthe first attempt in 90% of local runs (85% when containerised),\nand preserved baseline predictive accuracy while trimming\nup to 25% of boilerplate.",
+    "authors": [
+      "H. Batatia",
+      "Ilia Svetlichnyi"
+    ],
+    "venue": "Proceedings of the AAAI Symposium Series",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/b5429f2883e92b51f2e4e07a4bbcb589536a214a"
+  },
+  "Packer2023MemGPTTL": {
+    "title": "MemGPT: Towards LLMs as Operating Systems",
+    "bibtex": "@Article{Packer2023MemGPTTL,\n author = {Charles Packer and Vivian Fang and Shishir G. Patil and Kevin Lin and Sarah Wooders and Joseph Gonzalez},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {MemGPT: Towards LLMs as Operating Systems},\n volume = {abs/2310.08560},\n year = {2023}\n}\n",
+    "abstract": "Large language models (LLMs) have revolutionized AI, but are constrained by limited context windows, hindering their utility in tasks like extended conversations and document analysis. To enable using context beyond limited context windows, we propose virtual context management, a technique drawing inspiration from hierarchical memory systems in traditional operating systems that provide the appearance of large memory resources through data movement between fast and slow memory. Using this technique, we introduce MemGPT (Memory-GPT), a system that intelligently manages different memory tiers in order to effectively provide extended context within the LLM's limited context window, and utilizes interrupts to manage control flow between itself and the user. We evaluate our OS-inspired design in two domains where the limited context windows of modern LLMs severely handicaps their performance: document analysis, where MemGPT is able to analyze large documents that far exceed the underlying LLM's context window, and multi-session chat, where MemGPT can create conversational agents that remember, reflect, and evolve dynamically through long-term interactions with their users. We release MemGPT code and data for our experiments at https://memgpt.ai.",
+    "authors": [
+      "Charles Packer",
+      "Vivian Fang",
+      "Shishir G. Patil",
+      "Kevin Lin",
+      "Sarah Wooders",
+      "Joseph Gonzalez"
+    ],
+    "venue": "arXiv.org",
+    "year": 2023,
+    "url": "https://www.semanticscholar.org/paper/908dad62c0e43d80e3e3cb3c0402f7c71c70499c"
+  },
+  "Santoni2026ContextualMV": {
+    "title": "Contextual Memory Virtualisation: DAG-Based State Management and Structurally Lossless Trimming for LLM Agents",
+    "bibtex": "@Inproceedings{Santoni2026ContextualMV,\n author = {C. Santoni},\n title = {Contextual Memory Virtualisation: DAG-Based State Management and Structurally Lossless Trimming for LLM Agents},\n year = {2026}\n}\n",
+    "abstract": "As large language models engage in extended reasoning tasks, they accumulate significant state -- architectural mappings, trade-off decisions, codebase conventions -- within the context window. This understanding is lost when sessions reach context limits and undergo lossy compaction. We propose Contextual Memory Virtualisation (CMV), a system that treats accumulated LLM understanding as version-controlled state. Borrowing from operating system virtual memory, CMV models session history as a Directed Acyclic Graph (DAG) with formally defined snapshot, branch, and trim primitives that enable context reuse across independent parallel sessions. We introduce a three-pass structurally lossless trimming algorithm that preserves every user message and assistant response verbatim while reducing token counts by a mean of 20% and up to 86% for sessions with significant overhead by stripping mechanical bloat such as raw tool outputs, base64 images, and metadata. A single-user case-study evaluation across 76 real-world coding sessions demonstrates that trimming remains economically viable under prompt caching, with the strongest gains in mixed tool-use sessions, which average 39% reduction and reach break-even within 10 turns. A reference implementation is available at https://github.com/CosmoNaught/claude-code-cmv.",
+    "authors": [
+      "C. Santoni"
+    ],
+    "venue": "",
+    "year": 2026,
+    "url": "https://www.semanticscholar.org/paper/3ba01e2c3cda48f023b4985f2402dc434459032d"
+  },
+  "Musbah2026LLMAssistedVE": {
+    "title": "LLM-Assisted Virtual Expert Weight Elicitation in Pharmaceutical Supply Chains: A Z-Number Multi-Agent Framework",
+    "bibtex": "@Article{Musbah2026LLMAssistedVE,\n author = {Jamal Musbah and Ibrahim Badi},\n booktitle = {Intelligent Systems Research and Applications Journal},\n journal = {Intelligent Systems Research and Applications Journal},\n title = {LLM-Assisted Virtual Expert Weight Elicitation in Pharmaceutical Supply Chains: A Z-Number Multi-Agent Framework},\n year = {2026}\n}\n",
+    "abstract": "The elicitation of criteria weights in spatial and logistical Multi-Criteria Decision Making (MCDM) typically relies on panels of human domain experts. However, in specialized high-stakes contexts such as pharmaceutical inventory management, expert availability is scarce, expensive, and subject to cognitive biases. This study proposes a novel methodological framework that offers a structured alternative to traditional human panels by employing a Multi-Agent System (MAS) of Large Language Models (LLMs) to generate subjective weights. We introduce a rigorous Z-number-based fuzzy AHP approach in which LLMs, acting as autonomous virtual experts, defined as Agents LLM1, LLM2, and LLM3, perform iterative pairwise comparisons. The methodology strictly separates internal logical consistency, verified via Consistency Ratios (CR) on crisp matrices, from confidence modeling, which is handled via Z-numbers. The LLM-derived weights were aggregated over k=3 iterations to mitigate stochasticity and hybridized with objective CRITIC weights to rank nine Vendor Managed Inventory (VMI) policies. Results indicate strong ranking invariance across all agents and hybridization ratios (ρ=1.0). Beyond numerical stability, the framework demonstrates \"behavioral isomorphism\" with human ethical standards, explicitly enforcing a \"safety-first\" constraint. This suggests that LLM-driven frameworks exhibit \"dominance stability,\" positioning them as robust cognitive simulators that align optimization metrics with domain-specific priorities such as patient safety.",
+    "authors": [
+      "Jamal Musbah",
+      "Ibrahim Badi"
+    ],
+    "venue": "Intelligent Systems Research and Applications Journal",
+    "year": 2026,
+    "url": "https://www.semanticscholar.org/paper/e33b56e6e19914e3290b5e4f65ac56c8c7f84b0b"
+  },
+  "Simmons2025WIPCA": {
+    "title": "WIP: Context-Aware AI in Learning Management Systems for Computer Science Courses",
+    "bibtex": "@Conference{Simmons2025WIPCA,\n author = {Archer Simmons and Maristela Holanda and Dilma Da Silva},\n booktitle = {Frontiers in Education Conference},\n journal = {2025 IEEE Frontiers in Education Conference (FIE)},\n pages = {1-5},\n title = {WIP: Context-Aware AI in Learning Management Systems for Computer Science Courses},\n year = {2025}\n}\n",
+    "abstract": "The growing adoption of virtual assistants in education has sparked interest in integrating artificial intelligence (AI) into Learning Management Systems (LMSes). This study presents ongoing research on the development and evaluation of an AI-powered plugin for the Moodle LMS that implements a context-aware virtual assistant for Computer Science 1 (CS1) courses. The proposed framework comprises three components: (1) a chat interface embedded within the student's Moodle session, (2) an interchangeable large language model (LLM) hosted locally or via the cloud, and (3) a microservice using LangChain to embed real-time student data in prompts before inference. The main objective is to develop a virtual assistant that seamlessly integrates with the Moodle platform and delivers context-aware, personalized responses. The plugin was built using Moodle's open-source block-plugin framework. A Python-based FastAPI microservice connects the front end to the LLM, utilizing LangChain to access student-specific data-such as grades, submitted code, and chat history-during prompt construction. System performance was assessed using benchmarks for latency, context awareness, and hallucination rates. Preliminary results in a simulated environment show that the system effectively embeds student data to generate accurate responses with low latency. The interchangeable LLM design offers flexibility in deployment configurations for various use cases. This research demonstrates the technical feasibility of embedding AI assistants in LMS environments and sets the stage for future mixed-methods studies. Upcoming pilot implementations will assess the virtual assistant's effectiveness in supporting student engagement and improving learning outcomes in real-world settings.",
+    "authors": [
+      "Archer Simmons",
+      "Maristela Holanda",
+      "Dilma Da Silva"
+    ],
+    "venue": "Frontiers in Education Conference",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/8e024f41d6171f3f6e39b6d030d199e26fab1d3a"
+  },
+  "Dyachenko2025LLMSI": {
+    "title": "LLM services in the management of social communications",
+    "bibtex": "@Article{Dyachenko2025LLMSI,\n author = {Yuriy Dyachenko and O. Humenna and Oleg Soloviov and Inna Skarga-Bandurova and Nayden Nenkov},\n booktitle = {Frontiers Artif. Intell.},\n journal = {Frontiers in Artificial Intelligence},\n title = {LLM services in the management of social communications},\n volume = {8},\n year = {2025}\n}\n",
+    "abstract": "This paper proposes enhancing social communication management with a behavioral economics approach through artificial intelligence instruments. The research aims to explore the influence of social communication on citizens’ behavior using large language model services and assess its effectiveness. The paper builds on Daniel Kahneman’s dual-process theory, highlighting the intuitive system (System 1) and the rational system (System 2) in decision-making. The author introduces a third system, System 3, representing rooted in identity socially conditioned behavior influenced by societal norms and self-awareness. On this theoretical basis, the paper emphasizes automating communication management through large language model services, freeing up citizens’ potential for self-determination and self-organization. By leveraging these services, messages can be crafted to support social transformation while respecting historical, cultural, and political contexts. Based on the preconditions and restrictions described above, we use GPT-4 model to generate messages based on these narratives. The experiment will use an observational study design with virtual persons. To compare the impact of original and modified messages according to the addressee’s mentality, we used the Claude 3.5 Sonnet model. We can see that the potential activity of respondents after perceiving the changed message does not change much, and the original message is perceived. Modifying messages by LLM services crafted to support social transformation while respecting historical, cultural, and political contexts cause attitudes to become substantially more negative (2.5 units downward shift in median); the intentions showed a slight positive increase (0.2 units upward change in median).",
+    "authors": [
+      "Yuriy Dyachenko",
+      "O. Humenna",
+      "Oleg Soloviov",
+      "Inna Skarga-Bandurova",
+      "Nayden Nenkov"
+    ],
+    "venue": "Frontiers Artif. Intell.",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/bb15ca7243fe2027938eb52b22d2779c0173b238"
+  },
+  "Tang2025LLMAssistedRL": {
+    "title": "LLM-Assisted Reinforcement Learning: Leveraging Lightweight Large Language Model Capabilities for Efficient Task Scheduling in Multi-Cloud Environment",
+    "bibtex": "@Article{Tang2025LLMAssistedRL,\n author = {Xuhao Tang and Fagui Liu and Dishi Xu and Jun Jiang and Quan Tang and Bin Wang and Qingbo Wu and C. L. Philip Chen},\n booktitle = {IEEE transactions on consumer electronics},\n journal = {IEEE Transactions on Consumer Electronics},\n pages = {5631-5644},\n title = {LLM-Assisted Reinforcement Learning: Leveraging Lightweight Large Language Model Capabilities for Efficient Task Scheduling in Multi-Cloud Environment},\n volume = {71},\n year = {2025}\n}\n",
+    "abstract": "In the contemporary landscape of large language models (LLMs) development, it is crucial to address the challenges of deploying these models on hardware-constrained consumer electronic devices (CEDs), especially within complex dynamic task scheduling in multi-cloud environments (MCE). We propose a novel methodology leveraging a lightweight LLM to enhance task scheduling decisions in MCE. Our approach involves creating a task scheduling expert database informed by optimization objectives to fine-tune the lightweight LLM. This enables the model to generate a schedulable candidate set of tasks based on the current state of tasks and operational conditions within CEDs across MCE, optimizing scheduling decisions and enhancing overall efficiency. Simulations using both synthetic and real-world datasets demonstrate that our method outperforms three other algorithms in cost minimization, makespan reduction, and energy consumption. In summary, our methodology empowers CEDs to optimize the utilization of multi-cloud resources and harness the capabilities of lightweight LLMs to effectively minimize makespan, operational costs, and energy consumption during the task scheduling process, thereby facilitating efficient task scheduling.",
+    "authors": [
+      "Xuhao Tang",
+      "Fagui Liu",
+      "Dishi Xu",
+      "Jun Jiang",
+      "Quan Tang",
+      "Bin Wang",
+      "Qingbo Wu",
+      "C. L. Philip Chen"
+    ],
+    "venue": "IEEE transactions on consumer electronics",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/4ceec65c6e6c791c33ad8d4ae04281366c64e742"
+  },
+  "Chu2025LLMMAPBR": {
+    "title": "LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language",
+    "bibtex": "@Article{Chu2025LLMMAPBR,\n author = {Kun Chu and Xufeng Zhao and C. Weber and Stefan Wermter},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language},\n volume = {abs/2503.17309},\n year = {2025}\n}\n",
+    "abstract": "Bimanual robotic manipulation provides significant versatility, but also presents an inherent challenge due to the complexity involved in the spatial and temporal coordination between two hands. Existing works predominantly focus on attaining human-level manipulation skills for robotic hands, yet little attention has been paid to task planning on long-horizon timescales. With their outstanding in-context learning and zero-shot generation abilities, Large Language Models (LLMs) have been applied and grounded in diverse robotic embodiments to facilitate task planning. However, LLMs still suffer from errors in long-horizon reasoning and from hallucinations in complex robotic tasks, lacking a guarantee of logical correctness when generating the plan. Previous works, such as LLM+P, extended LLMs with symbolic planners. However, none have been successfully applied to bimanual robots. New challenges inevitably arise in bimanual manipulation, necessitating not only effective task decomposition but also efficient task allocation. To address these challenges, this paper introduces LLM+MAP, a bimanual planning framework that integrates LLM reasoning and multi-agent planning, automating effective and efficient bimanual task planning. We conduct simulated experiments on various long-horizon manipulation tasks of differing complexity. Our method is built using GPT-4o as the backend, and we compare its performance against plans generated directly by LLMs, including GPT-4o, V3 and also recent strong reasoning models o1 and R1. By analyzing metrics such as planning time, success rate, group debits, and planning-step reduction rate, we demonstrate the superior performance of LLM+MAP, while also providing insights into robotic reasoning. Code is available at https://github.com/Kchu/LLM-MAP.",
+    "authors": [
+      "Kun Chu",
+      "Xufeng Zhao",
+      "C. Weber",
+      "Stefan Wermter"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/fb48d1326f632da1613a238439f9cf108a483f8b"
+  },
+  "Yu2025DynTaskMASAD": {
+    "title": "DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems",
+    "bibtex": "@Article{Yu2025DynTaskMASAD,\n author = {Junwei Yu and Yepeng Ding and Hiroyuki Sato},\n booktitle = {Proceedings of the  ... International Conference on Automated Planning and Scheduling},\n journal = {ArXiv},\n title = {DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems},\n volume = {abs/2503.07675},\n year = {2025}\n}\n",
+    "abstract": "The emergence of Large Language Models (LLMs) in Multi-Agent Systems (MAS) has opened new possibilities for artificial intelligence, yet current implementations face significant challenges in resource management, task coordination, and system efficiency. While existing frameworks demonstrate the potential of LLM-based agents in collaborative problem-solving, they often lack sophisticated mechanisms for parallel execution and dynamic task management. This paper introduces DynTaskMAS, a novel framework that orchestrates asynchronous and parallel operations in LLM-based MAS through dynamic task graphs. The framework features four key innovations: (1) a Dynamic Task Graph Generator that intelligently decomposes complex tasks while maintaining logical dependencies, (2) an Asynchronous Parallel Execution Engine that optimizes resource utilization through efficient task scheduling, (3) a Semantic-Aware Context Management System that enables efficient information sharing among agents, and (4) an Adaptive Workflow Manager that dynamically optimizes system performance. Experimental evaluations demonstrate that DynTaskMAS achieves significant improvements over traditional approaches: a 21-33% reduction in execution time across task complexities (with higher gains for more complex tasks), a 35.4% improvement in resource utilization (from 65% to 88%), and near-linear throughput scaling up to 16 concurrent agents (3.47× improvement for 4× agents). Our framework establishes a foundation for building scalable, high-performance LLM-based multi-agent systems capable of handling complex, dynamic tasks efficiently.",
+    "authors": [
+      "Junwei Yu",
+      "Yepeng Ding",
+      "Hiroyuki Sato"
+    ],
+    "venue": "Proceedings of the  ... International Conference on Automated Planning and Scheduling",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/0423f727d85b5d5591b69af41a61ecb7a7e94088"
+  },
+  "Taleb2025GraphTrafficGPTET": {
+    "title": "GraphTrafficGPT: Enhancing Traffic Management Through Graph-Based AI Agent Coordination",
+    "bibtex": "@Article{Taleb2025GraphTrafficGPTET,\n author = {Nabil Abdelaziz Ferhat Taleb and Abdolazim Rezaei and Raj Atulkumar Patel and Mehdi Sookhak},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {GraphTrafficGPT: Enhancing Traffic Management Through Graph-Based AI Agent Coordination},\n volume = {abs/2507.13511},\n year = {2025}\n}\n",
+    "abstract": "Large Language Models (LLMs) offer significant promise for intelligent traffic management; however, current chain-based systems like TrafficGPT are hindered by sequential task execution, high token usage, and poor scalability, making them inefficient for complex, real-world scenarios. To address these limitations, we propose GraphTrafficGPT, a novel graph-based architecture, which fundamentally redesigns the task coordination process for LLM-driven traffic applications. GraphTrafficGPT represents tasks and their dependencies as nodes and edges in a directed graph, enabling efficient parallel execution and dynamic resource allocation. The main idea behind the proposed model is a Brain Agent that decomposes user queries, constructs optimized dependency graphs, and coordinates a network of specialized agents for data retrieval, analysis, visualization, and simulation. By introducing advanced context-aware token management and supporting concurrent multi-query processing, the proposed architecture handles interdependent tasks typical of modern urban mobility environments. Experimental results demonstrate that GraphTrafficGPT reduces token consumption by 50.2% and average response latency by 19.0% compared to TrafficGPT, while supporting simultaneous multi-query execution with up to 23.0% improvement in efficiency.",
+    "authors": [
+      "Nabil Abdelaziz Ferhat Taleb",
+      "Abdolazim Rezaei",
+      "Raj Atulkumar Patel",
+      "Mehdi Sookhak"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/3512643876359354d216329be8c8f2323eba1caf"
+  },
+  "Weiner2025HybridVT": {
+    "title": "Hybrid Voting-Based Task Assignment in Modular Construction Scenarios",
+    "bibtex": "@Article{Weiner2025HybridVT,\n author = {Daniel Weiner and Raj Korpan},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {Hybrid Voting-Based Task Assignment in Modular Construction Scenarios},\n volume = {abs/2505.13278},\n year = {2025}\n}\n",
+    "abstract": "Modular construction, involving off-site prefabrication and on-site assembly, offers significant advantages but presents complex coordination challenges for robotic automation. Effective task allocation is critical for leveraging multi-agent systems (MAS) in these structured environments. This paper introduces the Hybrid Voting-Based Task Assignment (HVBTA) framework, a novel approach to optimizing collaboration between heterogeneous multi-agent construction teams. Inspired by human reasoning in task delegation, HVBTA uniquely integrates multiple voting mechanisms with the capabilities of a Large Language Model (LLM) for nuanced suitability assessment between agent capabilities and task requirements. The framework operates by assigning Capability Profiles to agents and detailed requirement lists called Task Descriptions to construction tasks, subsequently generating a quantitative Suitability Matrix. Six distinct voting methods, augmented by a pre-trained LLM, analyze this matrix to robustly identify the optimal agent for each task. Conflict-Based Search (CBS) is integrated for decentralized, collision-free path planning, ensuring efficient and safe spatio-temporal coordination of the robotic team during assembly operations. HVBTA enables efficient, conflict-free assignment and coordination, facilitating potentially faster and more accurate modular assembly. Current work is evaluating HVBTA's performance across various simulated construction scenarios involving diverse robotic platforms and task complexities. While designed as a generalizable framework for any domain with clearly definable tasks and capabilities, HVBTA will be particularly effective for addressing the demanding coordination requirements of multi-agent collaborative robotics in modular construction due to the predetermined construction planning involved.",
+    "authors": [
+      "Daniel Weiner",
+      "Raj Korpan"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/87be28e02fffddbc1da88c3a34ce5db26c8ef44d"
+  },
+  "Li2025SwarmSysDS": {
+    "title": "SwarmSys: Decentralized Swarm-Inspired Agents for Scalable and Adaptive Reasoning",
+    "bibtex": "@Article{Li2025SwarmSysDS,\n author = {Ruohao Li and Hongjun Liu and Leyi Zhao and Zisu Li and Jiawei Li and Jiaju Jiang and Lin Xu and Chen Zhao and Mingming Fan and Chen Liang},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {SwarmSys: Decentralized Swarm-Inspired Agents for Scalable and Adaptive Reasoning},\n volume = {abs/2510.10047},\n year = {2025}\n}\n",
+    "abstract": "Large language model (LLM) agents have shown remarkable reasoning abilities. However, existing multi-agent frameworks often rely on fixed roles or centralized control, limiting scalability and adaptability in long-horizon reasoning. We introduce SwarmSys, a closed-loop framework for distributed multi-agent reasoning inspired by swarm intelligence. Coordination in SwarmSys emerges through iterative interactions among three specialized roles, Explorers, Workers, and Validators, that continuously cycle through exploration, exploitation, and validation. To enable scalable and adaptive collaboration, we integrate adaptive agent and event profiles, embedding-based probabilistic matching, and a pheromone-inspired reinforcement mechanism, supporting dynamic task allocation and self-organizing convergence without global supervision. Across symbolic reasoning, research synthesis, and scientific programming tasks, SwarmSys consistently outperforms baselines, improving both accuracy and reasoning stability. These findings highlight swarm-inspired coordination as a promising paradigm for scalable, robust, and adaptive multi-agent reasoning, suggesting that coordination scaling may rival model scaling in advancing LLM intelligence.",
+    "authors": [
+      "Ruohao Li",
+      "Hongjun Liu",
+      "Leyi Zhao",
+      "Zisu Li",
+      "Jiawei Li",
+      "Jiaju Jiang",
+      "Lin Xu",
+      "Chen Zhao",
+      "Mingming Fan",
+      "Chen Liang"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/7734f31df4e99be28e6c3ac4aa7e534ace5d1363"
+  },
+  "Gao2025ContextualTE": {
+    "title": "Contextual Trust Evaluation for Robust Coordination in Large Language Model Multi-Agent Systems",
+    "bibtex": "@Conference{Gao2025ContextualTE,\n author = {Kangning Gao and Haotian Zhu and Rui Liu and Jinming Li and Xu Yan and Yifan Hu},\n booktitle = {2025 5th International Conference on Electronic Information Engineering and Computer Communication (EIECC)},\n journal = {2025 5th International Conference on Electronic Information Engineering and Computer Communication (EIECC)},\n pages = {1-6},\n title = {Contextual Trust Evaluation for Robust Coordination in Large Language Model Multi-Agent Systems},\n year = {2025}\n}\n",
+    "abstract": "Large Language Model (LLM)-based multi-agent systems have emerged as a promising paradigm for tackling complex tasks that exceed individual agent capabilities. However, existing approaches often suffer from coordination inefficiencies, a lack of trust mechanisms, and suboptimal role assignment strategies. This paper presents a novel trust-aware coordination framework that enhances multi-agent collaboration through dynamic role assignment and context sharing. Our framework introduces a multi-dimensional trust evaluation mechanism that continuously assesses agent reliability based on performance history, interaction quality, and behavioral consistency. The coordinator leverages these trust scores to dynamically assign roles and orchestrate agent interactions while maintaining a shared context repository for transparent information exchange. We evaluate our framework across eight diverse task scenarios with varying complexity levels, demonstrating significant improvements over baseline approaches. Experimental results show that our trust-aware framework achieves a 87.4% task success rate, reducing execution time by 36.3% compared to non-trust-based methods, while maintaining 43.2% lower communication overhead. The framework's ability to adapt agent roles based on evolving trust scores enables more efficient resource utilization and robust fault tolerance in dynamic multiagent environments.",
+    "authors": [
+      "Kangning Gao",
+      "Haotian Zhu",
+      "Rui Liu",
+      "Jinming Li",
+      "Xu Yan",
+      "Yifan Hu"
+    ],
+    "venue": "2025 5th International Conference on Electronic Information Engineering and Computer Communication (EIECC)",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/8eace5462af68d9576fbd3df03acccdb8f4a8bac"
+  },
+  "Yang2025AutoHMALLMET": {
+    "title": "AutoHMA-LLM: Efficient Task Coordination and Execution in Heterogeneous Multi-Agent Systems Using Hybrid Large Language Models",
+    "bibtex": "@Article{Yang2025AutoHMALLMET,\n author = {Tinging Yang and Ping Feng and Qixin Guo and Jindi Zhang and Xiufeng Zhang and Jiahong Ning and Xinghan Wang and Zhongyang Mao},\n booktitle = {IEEE Transactions on Cognitive Communications and Networking},\n journal = {IEEE Transactions on Cognitive Communications and Networking},\n pages = {987-998},\n title = {AutoHMA-LLM: Efficient Task Coordination and Execution in Heterogeneous Multi-Agent Systems Using Hybrid Large Language Models},\n volume = {11},\n year = {2025}\n}\n",
+    "abstract": "Heterogeneous multi-agent systems (HMAS) comprise various intelligent agents with specialized functions, such as drones, ground robots, and automated devices, working in coordinated settings. This paper presents AutoHMA-LLM, a novel framework that combines Large Language Models (LLMs) with classical control algorithms to address the challenges of task coordination and scheduling in complex, dynamic environments. The framework is designed with a multi-tier architecture, utilizing a cloud-based LLM as the central planner alongside device-specific LLMs and Generative Agents to improve task execution efficiency and accuracy. Specifically targeting dynamic scenarios, the system enhances resource utilization and stabilizes task execution through refined task scheduling and real-time feedback mechanisms. In experiments conducted across logistics, inspection, and search & rescue scenarios, AutoHMA-LLM demonstrated a 5.7% improvement in task completion accuracy, a 46% reduction in communication steps, and a 31% decrease in token usage and API calls compared to baseline methods. These results highlight our framework’s scalability and efficiency, offering substantial support for effective multi-agent collaboration in complex, resource-constrained environments.",
+    "authors": [
+      "Tinging Yang",
+      "Ping Feng",
+      "Qixin Guo",
+      "Jindi Zhang",
+      "Xiufeng Zhang",
+      "Jiahong Ning",
+      "Xinghan Wang",
+      "Zhongyang Mao"
+    ],
+    "venue": "IEEE Transactions on Cognitive Communications and Networking",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/1487ff63c991f8a76029471ab902dc5931d71eb8"
+  },
+  "Wang2024LLMbasedRT": {
+    "title": "LLM-based Robot Task Planning with Exceptional Handling for General Purpose Service Robots",
+    "bibtex": "@Article{Wang2024LLMbasedRT,\n author = {Ruoyu Wang and Zhipeng Yang and Zinan Zhao and Xinyang Tong and Zhi Hong and Kun Qian},\n booktitle = {Cybersecurity and Cyberforensics Conference},\n journal = {2024 43rd Chinese Control Conference (CCC)},\n pages = {4439-4444},\n title = {LLM-based Robot Task Planning with Exceptional Handling for General Purpose Service Robots},\n year = {2024}\n}\n",
+    "abstract": "The development of a general purpose service robot for daily life necessitates the robot’s ability to deploy a myriad of fundamental behaviors judiciously. Recent advancements in training Large Language Models (LLMs) can be used to generate action sequences directly, given an instruction in natural language with no additional domain information. However, while the outputs of LLMs are semantically correct, the generated task plans may not accurately map to acceptable actions and might encompass various linguistic ambiguities. LLM hallucinations pose another challenge for robot task planning, which results in content that is inconsistent with real-world facts or user inputs. In this paper, we propose a task planning method based on a constrained LLM prompt scheme, which can generate an executable action sequence from a command. An exceptional handling module is further proposed to deal with LLM hallucinations problem. This module can ensure the LLM-generated results are admissible in the current environment. We evaluate our method on the commands generated by the RoboCup@Home Command Generator, observing that the robot demonstrates exceptional performance in both comprehending instructions and executing tasks.",
+    "authors": [
+      "Ruoyu Wang",
+      "Zhipeng Yang",
+      "Zinan Zhao",
+      "Xinyang Tong",
+      "Zhi Hong",
+      "Kun Qian"
+    ],
+    "venue": "Cybersecurity and Cyberforensics Conference",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/99e00f5073246b35f6be3ffb4193f59d43bce766"
+  },
+  "Borate2025LLMBasedGH": {
+    "title": "LLM-Based Generalizable Hierarchical Task Planning and Execution for Heterogeneous Robot Teams with Event-Driven Replanning",
+    "bibtex": "@Article{Borate2025LLMBasedGH,\n author = {Suraj S. Borate and Bhavish Rai and Vipul Pardeshi and Madhu Vadali},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {LLM-Based Generalizable Hierarchical Task Planning and Execution for Heterogeneous Robot Teams with Event-Driven Replanning},\n volume = {abs/2511.22354},\n year = {2025}\n}\n",
+    "abstract": "This paper introduces CoMuRoS (Collaborative Multi-Robot System), a generalizable hierarchical architecture for heterogeneous robot teams that unifies centralized deliberation with decentralized execution, and supports event-driven replanning. A Task Manager LLM interprets natural-language goals, classifies tasks, and allocates subtasks using static rules plus dynamic contexts (task, history, robot and task status, and events).Each robot runs a local LLM that composes executable Python code from primitive skills (ROS2 nodes, policies), while onboard perception (VLMs/image processing) continuously monitors events and classifies them into relevant or irrelevant to the task. Task failures or user intent changes trigger replanning, allowing robots to assist teammates, resume tasks, or request human help. Hardware studies demonstrate autonomous recovery from disruptive events, filtering of irrelevant distractions, and tightly coordinated transport with emergent human-robot cooperation (e.g., multirobot collaborative object recovery success rate: 9/10, coordinated transport: 8/8, human-assisted recovery: 5/5).Simulation studies show intention-aware replanning. A curated textual benchmark spanning 22 scenarios (3 tasks each, around 20 robots) evaluates task allocation, classification, IoU, executability, and correctness, with high average scores (e.g., correctness up to 0.91) across multiple LLMs, a separate replanning set (5 scenarios) achieves 1.0 correctness. Compared with prior LLM-based systems, CoMuRoS uniquely demonstrates runtime, event-driven replanning on physical robots, delivering robust, flexible multi-robot and human-robot collaboration.",
+    "authors": [
+      "Suraj S. Borate",
+      "Bhavish Rai",
+      "Vipul Pardeshi",
+      "Madhu Vadali"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/f33a0b2a32a575af736237eead60be66654b8c1a"
+  },
+  "Huang2025AFF": {
+    "title": "A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents",
+    "bibtex": "@Article{Huang2025AFF,\n author = {Yuting Huang and Leilei Ding and Zhipeng Tang and Tianfu Wang and Xinrui Lin and Wuyang Zhang and Mingxiao Ma and Yanyong Zhang},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents},\n volume = {abs/2504.14650},\n year = {2025}\n}\n",
+    "abstract": "Large Language Models (LLMs) exhibit substantial promise in enhancing task-planning capabilities within embodied agents due to their advanced reasoning and comprehension. However, the systemic safety of these agents remains an underexplored frontier. In this study, we present Safe-BeAl, an integrated framework for the measurement (SafePlan-Bench) and alignment (Safe-Align) of LLM-based embodied agents' behaviors. SafePlan-Bench establishes a comprehensive benchmark for evaluating task-planning safety, encompassing 2,027 daily tasks and corresponding environments distributed across 8 distinct hazard categories (e.g., Fire Hazard). Our empirical analysis reveals that even in the absence of adversarial inputs or malicious intent, LLM-based agents can exhibit unsafe behaviors. To mitigate these hazards, we propose Safe-Align, a method designed to integrate physical-world safety knowledge into LLM-based embodied agents while maintaining task-specific performance. Experiments across a variety of settings demonstrate that Safe-BeAl provides comprehensive safety validation, improving safety by 8.55 - 15.22%, compared to embodied agents based on GPT-4, while ensuring successful task completion.",
+    "authors": [
+      "Yuting Huang",
+      "Leilei Ding",
+      "Zhipeng Tang",
+      "Tianfu Wang",
+      "Xinrui Lin",
+      "Wuyang Zhang",
+      "Mingxiao Ma",
+      "Yanyong Zhang"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/88307eeb6d60a38f3fcc52a5683f29cfaf46d5ce"
+  },
+  "Deng2024MobileBenchAE": {
+    "title": "Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents",
+    "bibtex": "@Article{Deng2024MobileBenchAE,\n author = {Shihan Deng and Weikai Xu and Hongda Sun and Wei Liu and Tao Tan and Jianfeng Liu and Ang Li and Jian Luan and Bin Wang and Rui Yan and Shuo Shang},\n booktitle = {Annual Meeting of the Association for Computational Linguistics},\n journal = {ArXiv},\n title = {Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents},\n volume = {abs/2407.00993},\n year = {2024}\n}\n",
+    "abstract": "With the remarkable advancements of large language models (LLMs), LLM-based agents have become a research hotspot in human-computer interaction. However, there is a scarcity of benchmarks available for LLM-based mobile agents. Benchmarking these agents generally faces three main challenges: (1) The inefficiency of UI-only operations imposes limitations to task evaluation. (2) Specific instructions within a singular application lack adequacy for assessing the multi-dimensional reasoning and decision-making capacities of LLM mobile agents. (3) Current evaluation metrics are insufficient to accurately assess the process of sequential actions. To this end, we propose Mobile-Bench, a novel benchmark for evaluating the capabilities of LLM-based mobile agents. First, we expand conventional UI operations by incorporating 103 collected APIs to accelerate the efficiency of task completion. Subsequently, we collect evaluation data by combining real user queries with augmentation from LLMs. To better evaluate different levels of planning capabilities for mobile agents, our data is categorized into three distinct groups: SAST, SAMT, and MAMT, reflecting varying levels of task complexity. Mobile-Bench comprises 832 data entries, with more than 200 tasks specifically designed to evaluate multi-APP collaboration scenarios. Furthermore, we introduce a more accurate evaluation metric, named CheckPoint, to assess whether LLM-based mobile agents reach essential points during their planning and reasoning steps.",
+    "authors": [
+      "Shihan Deng",
+      "Weikai Xu",
+      "Hongda Sun",
+      "Wei Liu",
+      "Tao Tan",
+      "Jianfeng Liu",
+      "Ang Li",
+      "Jian Luan",
+      "Bin Wang",
+      "Rui Yan",
+      "Shuo Shang"
+    ],
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/47aacaab789e80388d22598b4810213655e62888"
+  },
+  "Yang2025HierarchicalTD": {
+    "title": "Hierarchical Task Decomposition for Long-Horizon Robotic Autonomy via Multimodal Language Model Synergy",
+    "bibtex": "@Conference{Yang2025HierarchicalTD,\n author = {Genjian Yang and Liuhua Zhang and Zhiwei Gao},\n booktitle = {2025 IEEE 8th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)},\n journal = {2025 IEEE 8th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)},\n pages = {523-529},\n title = {Hierarchical Task Decomposition for Long-Horizon Robotic Autonomy via Multimodal Language Model Synergy},\n year = {2025}\n}\n",
+    "abstract": "Robots are increasingly being applied in fields such as industrial manufacturing and logistics sorting, where task planning has become a critical component for enabling autonomous and efficient operations. Unlike short-term tasks such as grasping or moving, long-horizon and complex tasks—such as electronic device assembly and sanitation services—span extended time periods and involve multiple consecutive and interrelated actions. These tasks often take place in complex and dynamic environments, where obstacles and task requirements may change unpredictably. To address these challenges, this paper proposes a task planning framework based on the collaboration between large language models (LLMs) and vision-language models (VLMs), incorporating an active question-answering mechanism for continuous task updates. The framework decomposes complex tasks into executable action sequences based on scene descriptions, and employs a dynamic, asynchronous hierarchical executor to adaptively regulate the frequency of task planning and action execution. Additionally, we introduce a training strategy based on a real-time learning method that leverages both positive and negative experiences. Experimental results demonstrate that the proposed task planning framework effectively leverages pretrained policies and dynamically updates action sequences, thereby improving the success rate of complex task execution.",
+    "authors": [
+      "Genjian Yang",
+      "Liuhua Zhang",
+      "Zhiwei Gao"
+    ],
+    "venue": "2025 IEEE 8th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/301480f62a09d9ee3b81c8d5e52e5026086e8d31"
+  },
+  "Liu2024HDEvalAL": {
+    "title": "HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition",
+    "bibtex": "@Article{Liu2024HDEvalAL,\n author = {Yuxuan Liu and Tianchi Yang and Shaohan Huang and Zihan Zhang and Haizhen Huang and Furu Wei and Weiwei Deng and Feng Sun and Qi Zhang},\n booktitle = {Annual Meeting of the Association for Computational Linguistics},\n journal = {ArXiv},\n title = {HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition},\n volume = {abs/2402.15754},\n year = {2024}\n}\n",
+    "abstract": "Large language models (LLMs) have emerged as a promising alternative to expensive human evaluations. However, the alignment and coverage of LLM-based evaluations are often limited by the scope and potential bias of the evaluation prompts and criteria. To address this challenge, we propose HD-Eval, a novel framework that iteratively aligns LLM-based evaluators with human preference via Hierarchical Criteria Decomposition. HD-Eval inherits the essence from the evaluation mindset of human experts and enhances the alignment of LLM-based evaluators by decomposing a given evaluation task into finer-grained criteria, aggregating them according to estimated human preferences, pruning insignificant criteria with attribution, and further decomposing significant criteria. By integrating these steps within an iterative alignment training process, we obtain a hierarchical decomposition of criteria that comprehensively captures aspects of natural language at multiple levels of granularity. Implemented as a white box, the human preference-guided aggregator is efficient to train and more explainable than relying solely on prompting, and its independence from model parameters makes it applicable to closed-source LLMs. Extensive experiments on three evaluation domains demonstrate the superiority of HD-Eval in further aligning state-of-the-art evaluators and providing deeper insights into the explanation of evaluation results and the task itself.",
+    "authors": [
+      "Yuxuan Liu",
+      "Tianchi Yang",
+      "Shaohan Huang",
+      "Zihan Zhang",
+      "Haizhen Huang",
+      "Furu Wei",
+      "Weiwei Deng",
+      "Feng Sun",
+      "Qi Zhang"
+    ],
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "year": 2024,
+    "url": "https://www.semanticscholar.org/paper/868c06e552be0c9a53d41d18eaa233402a2bb7ee"
+  },
+  "Lin2025HierarchicalDL": {
+    "title": "Hierarchical Debate-Based Large Language Model (LLM) for Complex Task Planning of 6G Network Management",
+    "bibtex": "@Article{Lin2025HierarchicalDL,\n author = {Yuyan Lin and Hao Zhou and Chengming Hu and Xue Liu and Hao Chen and Yan Xin and Jianzhong Zhang},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {Hierarchical Debate-Based Large Language Model (LLM) for Complex Task Planning of 6G Network Management},\n volume = {abs/2506.06519},\n year = {2025}\n}\n",
+    "abstract": "6G networks have become increasingly complicated due to novel network architecture and newly emerging signal processing and transmission techniques, leading to significant burdens to 6G network management. Large language models (LLMs) have recently been considered a promising technique to equip 6G networks with AI-native intelligence. Different from most existing studies that only consider a single LLM, this work involves a multi-LLM debate-based scheme for 6G network management, where multiple LLMs can collaboratively improve the initial solution sequentially. Considering the complex nature of 6G domain, we propose a novel hierarchical debate scheme: LLMs will first debate the sub-task decomposition, and then debate each subtask step-by-step. Such a hierarchical approach can significantly reduce the overall debate difficulty by sub-task decomposition, aligning well with the complex nature of 6G networks and ensuring the final solution qualities. In addition, to better evaluate the proposed technique, we have defined a novel dataset named 6GPlan, including 110 complex 6G network management tasks and 5000 keyword solutions. Finally, the experiments show that the proposed hierarchical debate can significantly improve performance compared to baseline techniques, e.g. more than 30% coverage rate and global recall rate improvement.",
+    "authors": [
+      "Yuyan Lin",
+      "Hao Zhou",
+      "Chengming Hu",
+      "Xue Liu",
+      "Hao Chen",
+      "Yan Xin",
+      "Jianzhong Zhang"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/478f0070b029bd12ced4f325a3ded89d444f7bd1"
+  },
+  "Pan2025ModularTD": {
+    "title": "Modular Task Decomposition and Dynamic Collaboration in Multi-Agent Systems Driven by Large Language Models",
+    "bibtex": "@Article{Pan2025ModularTD,\n author = {Shuaidong Pan and Di Wu},\n booktitle = {2025 6th International Conference on Information Science, Parallel and Distributed Systems (ISPDS)},\n journal = {2025 6th International Conference on Information Science, Parallel and Distributed Systems (ISPDS)},\n pages = {59-63},\n title = {Modular Task Decomposition and Dynamic Collaboration in Multi-Agent Systems Driven by Large Language Models},\n year = {2025}\n}\n",
+    "abstract": "This paper addresses the limitations of a single agent in task decomposition and collaboration during complex task execution, and proposes a multi-agent architecture for modular task decomposition and dynamic collaboration based on large language models. The method first converts natural language task descriptions into unified semantic representations through a large language model. On this basis, a modular decomposition mechanism is introduced to break down the overall goal into multiple hierarchical sub-tasks. Then, dynamic scheduling and routing mechanisms enable reasonable division of labor and real-time collaboration among agents, allowing the system to adjust strategies continuously according to environmental feedback, thus maintaining efficiency and stability in complex tasks. Furthermore, a constraint parsing and global consistency mechanism is designed to ensure coherent connections between sub-tasks and balanced workload, preventing performance degradation caused by redundant communication or uneven resource allocation. The experiments validate the architecture across multiple dimensions, including task success rate, decomposition efficiency, sub-task coverage, and collaboration balance. The results show that the proposed method outperforms existing approaches in both overall performance and robustness, achieving a better balance between task complexity and communication overhead. In conclusion, this study demonstrates the effectiveness and feasibility of language-driven task decomposition and dynamic collaboration in multi-agent systems, providing a systematic solution for task execution in complex environments.",
+    "authors": [
+      "Shuaidong Pan",
+      "Di Wu"
+    ],
+    "venue": "2025 6th International Conference on Information Science, Parallel and Distributed Systems (ISPDS)",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/dcf4975aa89c4bdb524c4fae2f9b10f53b38c1bc"
+  },
+  "Zhang2025ReCAPRC": {
+    "title": "ReCAP: Recursive Context-Aware Reasoning and Planning for Large Language Model Agents",
+    "bibtex": "@Article{Zhang2025ReCAPRC,\n author = {Zhenyu Zhang and Tianyi Chen and Weiran Xu and A. Pentland and Jiaxin Pei},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {ReCAP: Recursive Context-Aware Reasoning and Planning for Large Language Model Agents},\n volume = {abs/2510.23822},\n year = {2025}\n}\n",
+    "abstract": "Long-horizon tasks requiring multi-step reasoning and dynamic re-planning remain challenging for large language models (LLMs). Sequential prompting methods are prone to context drift, loss of goal information, and recurrent failure cycles, while hierarchical prompting methods often weaken cross-level continuity or incur substantial runtime overhead. We introduce ReCAP (Recursive Context-Aware Reasoning and Planning), a hierarchical framework with shared context for reasoning and planning in LLMs. ReCAP combines three key mechanisms: (i) plan-ahead decomposition, in which the model generates a full subtask list, executes the first item, and refines the remainder; (ii) structured re-injection of parent plans, maintaining consistent multi-level context during recursive return; and (iii) memory-efficient execution, bounding the active prompt so costs scale linearly with task depth. Together these mechanisms align high-level goals with low-level actions, reduce redundant prompting, and preserve coherent context updates across recursion. Experiments demonstrate that ReCAP substantially improves subgoal alignment and success rates on various long-horizon reasoning benchmarks, achieving a 32% gain on synchronous Robotouille and a 29% improvement on asynchronous Robotouille under the strict pass@1 protocol.",
+    "authors": [
+      "Zhenyu Zhang",
+      "Tianyi Chen",
+      "Weiran Xu",
+      "A. Pentland",
+      "Jiaxin Pei"
+    ],
+    "venue": "arXiv.org",
+    "year": 2025,
+    "url": "https://www.semanticscholar.org/paper/dc7a4814b8dd0b6d3db3f895b14152c1df6064c9"
   }
 }
