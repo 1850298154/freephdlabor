@@ -38,5 +38,112 @@
     "year": 2017,
     "url": "https://www.semanticscholar.org/paper/f9c602cc436a9ea2f9e7db48c77d924e09ce3c32",
     "bibtex": "@Article{Xiao2017FashionMNISTAN,\n author = {Han Xiao and Kashif Rasul and Roland Vollgraf},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms},\n volume = {abs/1708.07747},\n year = {2017}\n}\n"
+  },
+  "Paszke2019PyTorchAI": {
+    "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+    "abstract": "Deep learning frameworks have often focused on either usability or speed, but not both. PyTorch is a machine learning library that shows that these two goals are in fact compatible: it was designed from first principles to support an imperative and Pythonic programming style that supports code as a model, makes debugging easy and is consistent with other popular scientific computing libraries, while remaining efficient and supporting hardware accelerators such as GPUs. In this paper, we detail the principles that drove the implementation of PyTorch and how they are reflected in its architecture. We emphasize that every aspect of PyTorch is a regular Python program under the full control of its user. We also explain how the careful and pragmatic implementation of the key components of its runtime enables them to work together to achieve compelling performance. We demonstrate the efficiency of individual subsystems, as well as the overall speed of PyTorch on several commonly used benchmarks.",
+    "authors": [
+      "Adam Paszke",
+      "Sam Gross",
+      "Francisco Massa",
+      "Adam Lerer",
+      "James Bradbury",
+      "Gregory Chanan",
+      "Trevor Killeen",
+      "Zeming Lin",
+      "N. Gimelshein",
+      "L. Antiga",
+      "Alban Desmaison",
+      "Andreas Köpf",
+      "E. Yang",
+      "Zachary DeVito",
+      "Martin Raison",
+      "Alykhan Tejani",
+      "Sasank Chilamkurthy",
+      "Benoit Steiner",
+      "Lu Fang",
+      "Junjie Bai",
+      "Soumith Chintala"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "year": 2019,
+    "url": "https://www.semanticscholar.org/paper/3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+    "bibtex": "@Article{Paszke2019PyTorchAI,\n author = {Adam Paszke and Sam Gross and Francisco Massa and Adam Lerer and James Bradbury and Gregory Chanan and Trevor Killeen and Zeming Lin and N. Gimelshein and L. Antiga and Alban Desmaison and Andreas Köpf and E. Yang and Zachary DeVito and Martin Raison and Alykhan Tejani and Sasank Chilamkurthy and Benoit Steiner and Lu Fang and Junjie Bai and Soumith Chintala},\n booktitle = {Neural Information Processing Systems},\n journal = {ArXiv},\n title = {PyTorch: An Imperative Style, High-Performance Deep Learning Library},\n volume = {abs/1912.01703},\n year = {2019}\n}\n"
+  },
+  "Isensee2020nnUNetAS": {
+    "title": "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation",
+    "abstract": null,
+    "authors": [
+      "Fabian Isensee",
+      "P. Jaeger",
+      "Simon A. A. Kohl",
+      "Jens Petersen",
+      "Klaus Hermann Maier-Hein"
+    ],
+    "venue": "Nature Methods",
+    "year": 2020,
+    "url": "https://www.semanticscholar.org/paper/f28e387d4229c5f690ce4570a391c0f47e7155c7",
+    "bibtex": "@Article{Isensee2020nnUNetAS,\n author = {Fabian Isensee and P. Jaeger and Simon A. A. Kohl and Jens Petersen and Klaus Hermann Maier-Hein},\n booktitle = {Nature Methods},\n journal = {Nature Methods},\n pages = {203 - 211},\n title = {nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation},\n volume = {18},\n year = {2020}\n}\n"
+  },
+  "Li2017DiffusionCR": {
+    "title": "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting",
+    "abstract": null,
+    "authors": [
+      "Yaguang Li",
+      "Rose Yu",
+      "C. Shahabi",
+      "Yan Liu"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2017,
+    "url": "https://www.semanticscholar.org/paper/9ba0186ed40656329c421f55ada7313293e13f17",
+    "bibtex": "@Article{Li2017DiffusionCR,\n author = {Yaguang Li and Rose Yu and C. Shahabi and Yan Liu},\n booktitle = {International Conference on Learning Representations},\n journal = {arXiv: Learning},\n title = {Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting},\n year = {2017}\n}\n"
+  },
+  "Hendrycks2019BenchmarkingNN": {
+    "title": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+    "abstract": "In this paper we establish rigorous benchmarks for image classifier robustness. Our first benchmark, ImageNet-C, standardizes and expands the corruption robustness topic, while showing which classifiers are preferable in safety-critical applications. Then we propose a new dataset called ImageNet-P which enables researchers to benchmark a classifier's robustness to common perturbations. Unlike recent robustness research, this benchmark evaluates performance on common corruptions and perturbations not worst-case adversarial perturbations. We find that there are negligible changes in relative corruption robustness from AlexNet classifiers to ResNet classifiers. Afterward we discover ways to enhance corruption and perturbation robustness. We even find that a bypassed adversarial defense provides substantial common perturbation robustness. Together our benchmarks may aid future work toward networks that robustly generalize.",
+    "authors": [
+      "Dan Hendrycks",
+      "Thomas G. Dietterich"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "year": 2019,
+    "url": "https://www.semanticscholar.org/paper/49b64383fe36268410c430352637ed23b16820c5",
+    "bibtex": "@Article{Hendrycks2019BenchmarkingNN,\n author = {Dan Hendrycks and Thomas G. Dietterich},\n booktitle = {International Conference on Learning Representations},\n journal = {ArXiv},\n title = {Benchmarking Neural Network Robustness to Common Corruptions and Perturbations},\n volume = {abs/1903.12261},\n year = {2019}\n}\n"
+  },
+  "Liu2021SwinTH": {
+    "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+    "abstract": "This paper presents a new vision Transformer, called Swin Transformer, that capably serves as a general-purpose backbone for computer vision. Challenges in adapting Transformer from language to vision arise from differences between the two domains, such as large variations in the scale of visual entities and the high resolution of pixels in images compared to words in text. To address these differences, we propose a hierarchical Transformer whose representation is computed with Shifted windows. The shifted windowing scheme brings greater efficiency by limiting self-attention computation to non-overlapping local windows while also allowing for cross-window connection. This hierarchical architecture has the flexibility to model at various scales and has linear computational complexity with respect to image size. These qualities of Swin Transformer make it compatible with a broad range of vision tasks, including image classification (87.3 top-1 accuracy on ImageNet-1K) and dense prediction tasks such as object detection (58.7 box AP and 51.1 mask AP on COCO test-dev) and semantic segmentation (53.5 mIoU on ADE20K val). Its performance surpasses the previous state-of-the-art by a large margin of +2.7 box AP and +2.6 mask AP on COCO, and +3.2 mIoU on ADE20K, demonstrating the potential of Transformer-based models as vision backbones. The hierarchical design and the shifted window approach also prove beneficial for all-MLP architectures. The code and models are publicly available at https://github.com/microsoft/Swin-Transformer.",
+    "authors": [
+      "Ze Liu",
+      "Yutong Lin",
+      "Yue Cao",
+      "Han Hu",
+      "Yixuan Wei",
+      "Zheng Zhang",
+      "Stephen Lin",
+      "B. Guo"
+    ],
+    "venue": "IEEE International Conference on Computer Vision",
+    "year": 2021,
+    "url": "https://www.semanticscholar.org/paper/c8b25fab5608c3e033d34b4483ec47e68ba109b7",
+    "bibtex": "@Article{Liu2021SwinTH,\n author = {Ze Liu and Yutong Lin and Yue Cao and Han Hu and Yixuan Wei and Zheng Zhang and Stephen Lin and B. Guo},\n booktitle = {IEEE International Conference on Computer Vision},\n journal = {2021 IEEE/CVF International Conference on Computer Vision (ICCV)},\n pages = {9992-10002},\n title = {Swin Transformer: Hierarchical Vision Transformer using Shifted Windows},\n year = {2021}\n}\n"
+  },
+  "Zhou2020InformerBE": {
+    "title": "Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting",
+    "abstract": "Many real-world applications require the prediction of long sequence time-series, such as electricity consumption planning. Long sequence time-series forecasting (LSTF) demands a high prediction capacity of the model, which is the ability to capture precise long-range dependency coupling between output and input efficiently. Recent studies have shown the potential of Transformer to increase the prediction capacity. However, there are several severe issues with Transformer that prevent it from being directly applicable to LSTF, including quadratic time complexity, high memory usage, and inherent limitation of the encoder-decoder architecture. To address these issues, we design an efficient transformer-based model for LSTF, named Informer, with three distinctive characteristics: (i) a ProbSparse self-attention mechanism, which achieves O(L log L) in time complexity and memory usage, and has comparable performance on sequences' dependency alignment. (ii) the self-attention distilling highlights dominating attention by halving cascading layer input, and efficiently handles extreme long input sequences. (iii) the generative style decoder, while conceptually simple, predicts the long time-series sequences at one forward operation rather than a step-by-step way, which drastically improves the inference speed of long-sequence predictions. Extensive experiments on four large-scale datasets demonstrate that Informer significantly outperforms existing methods and provides a new solution to the LSTF problem.",
+    "authors": [
+      "Haoyi Zhou",
+      "Shanghang Zhang",
+      "Jieqi Peng",
+      "Shuai Zhang",
+      "Jianxin Li",
+      "Hui Xiong",
+      "Wan Zhang"
+    ],
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "year": 2020,
+    "url": "https://www.semanticscholar.org/paper/5b9d8bcc46b766b47389c912a8e026f81b91b0d8",
+    "bibtex": "@Article{Zhou2020InformerBE,\n author = {Haoyi Zhou and Shanghang Zhang and Jieqi Peng and Shuai Zhang and Jianxin Li and Hui Xiong and Wan Zhang},\n booktitle = {AAAI Conference on Artificial Intelligence},\n journal = {ArXiv},\n title = {Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting},\n volume = {abs/2012.07436},\n year = {2020}\n}\n"
   }
 }
