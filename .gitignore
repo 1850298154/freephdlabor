@@ -40,3 +40,6 @@ tmp/
 *.pt
 *.ckpt
 *.pkl
+
+
+/.spec-workflow/*

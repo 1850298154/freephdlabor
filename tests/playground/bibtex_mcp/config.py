@@ -5,7 +5,7 @@
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(override=True)
 
 
 HOST = os.getenv("HOST", "0.0.0.0")
