@@ -41,5 +41,11 @@ tmp/
 *.ckpt
 *.pkl
 
+# BibTeX MCP Server
+tests/playground/bibtex_cli_mcp/test_*.json
+tests/playground/bibtex_cli_mcp/test_*.lock
+tests/playground/bibtex_cli_mcp/request_queue.json
+tests/playground/bibtex_cli_mcp/request_queue.lock
+*.lock
 
 /.spec-workflow/*
