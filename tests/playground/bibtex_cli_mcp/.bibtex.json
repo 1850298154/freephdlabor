@@ -1,0 +1,42 @@
+{
+  "Karniadakis2021PhysicsinformedML": {
+    "title": "Physics-informed machine learning",
+    "abstract": null,
+    "authors": [
+      "G. Karniadakis",
+      "I. Kevrekidis",
+      "Lu Lu",
+      "P. Perdikaris",
+      "Sifan Wang",
+      "Liu Yang"
+    ],
+    "venue": "Nature Reviews Physics",
+    "year": 2021,
+    "url": "https://www.semanticscholar.org/paper/53c9f3c34d8481adaf24df3b25581ccf1bc53f5c",
+    "bibtex": "@Article{Karniadakis2021PhysicsinformedML,\n author = {G. Karniadakis and I. Kevrekidis and Lu Lu and P. Perdikaris and Sifan Wang and Liu Yang},\n booktitle = {Nature Reviews Physics},\n journal = {Nature Reviews Physics},\n pages = {422 - 440},\n title = {Physics-informed machine learning},\n volume = {3},\n year = {2021}\n}\n"
+  },
+  "Sarker2021MachineLA": {
+    "title": "Machine Learning: Algorithms, Real-World Applications and Research Directions",
+    "abstract": "In the current age of the Fourth Industrial Revolution (4IR or Industry 4.0), the digital world has a wealth of data, such as Internet of Things (IoT) data, cybersecurity data, mobile data, business data, social media data, health data, etc. To intelligently analyze these data and develop the corresponding smart and automated applications, the knowledge of artificial intelligence (AI), particularly, machine learning (ML) is the key. Various types of machine learning algorithms such as supervised, unsupervised, semi-supervised, and reinforcement learning exist in the area. Besides, the deep learning, which is part of a broader family of machine learning methods, can intelligently analyze the data on a large scale. In this paper, we present a comprehensive view on these machine learning algorithms that can be applied to enhance the intelligence and the capabilities of an application. Thus, this study’s key contribution is explaining the principles of different machine learning techniques and their applicability in various real-world application domains, such as cybersecurity systems, smart cities, healthcare, e-commerce, agriculture, and many more. We also highlight the challenges and potential research directions based on our study. Overall, this paper aims to serve as a reference point for both academia and industry professionals as well as for decision-makers in various real-world situations and application areas, particularly from the technical point of view.",
+    "authors": [
+      "Iqbal H. Sarker"
+    ],
+    "venue": "SN Computer Science",
+    "year": 2021,
+    "url": "https://www.semanticscholar.org/paper/7872f34e2a164c5cf3c34a7a7433dc3342b6c7ea",
+    "bibtex": "@Article{Sarker2021MachineLA,\n author = {Iqbal H. Sarker},\n booktitle = {SN Computer Science},\n journal = {Sn Computer Science},\n title = {Machine Learning: Algorithms, Real-World Applications and Research Directions},\n volume = {2},\n year = {2021}\n}\n"
+  },
+  "Xiao2017FashionMNISTAN": {
+    "title": "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms",
+    "abstract": "We present Fashion-MNIST, a new dataset comprising of 28x28 grayscale images of 70,000 fashion products from 10 categories, with 7,000 images per category. The training set has 60,000 images and the test set has 10,000 images. Fashion-MNIST is intended to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms, as it shares the same image size, data format and the structure of training and testing splits. The dataset is freely available at this https URL",
+    "authors": [
+      "Han Xiao",
+      "Kashif Rasul",
+      "Roland Vollgraf"
+    ],
+    "venue": "arXiv.org",
+    "year": 2017,
+    "url": "https://www.semanticscholar.org/paper/f9c602cc436a9ea2f9e7db48c77d924e09ce3c32",
+    "bibtex": "@Article{Xiao2017FashionMNISTAN,\n author = {Han Xiao and Kashif Rasul and Roland Vollgraf},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms},\n volume = {abs/1708.07747},\n year = {2017}\n}\n"
+  }
+}

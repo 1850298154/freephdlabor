@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "bibtex": {
+      "command": "python",
+      "args": [
+        "D:\\zyt\\git_ln\\freephdlabor\\tests\\playground\\bibtex_cli_mcp\\server.py"
+      ],
+      "env": {
+        "S2_API_KEY": "s2k-Fa0SA2LjDGWZ1iYaHgpwp7GqUQHrHkmv05EWFh9v"
+      },
+      "type": "stdio"
+    }
+  }
+}
